@@ -1,0 +1,4001 @@
+,Service_provider,technology,Download_Upload,Data_Speed(Kbps),signal_strength,Service_Area
+0,AIRTEL,4G,download,4794,-53.0,UP East
+1,AIRTEL,4G,upload,536,-59.0,UP East
+2,JIO,4G,download,38507,-59.0,UP West
+3,JIO,4G,download,78938,-59.0,UP West
+4,JIO,4G,upload,3560,-59.0,UP West
+5,JIO,4G,upload,5446,-59.0,UP West
+6,JIO,4G,download,80419,-60.0,UP West
+7,JIO,4G,upload,7722,-60.0,UP West
+8,JIO,4G,download,6550,-62.0,Rajasthan
+9,JIO,4G,download,5900,-62.0,Rajasthan
+10,JIO,4G,upload,7643,-62.0,Rajasthan
+11,JIO,4G,upload,5102,-62.0,Rajasthan
+12,JIO,4G,download,77779,-63.0,Rajasthan
+13,JIO,4G,upload,7225,-63.0,Rajasthan
+14,JIO,4G,download,80392,-57.0,Gujarat
+15,JIO,4G,upload,9549,-57.0,Gujarat
+16,JIO,4G,download,63260,-71.0,Rajasthan
+17,JIO,4G,upload,5844,-71.0,Rajasthan
+18,JIO,4G,download,39607,-63.0,Rajasthan
+19,JIO,4G,download,38706,-67.0,Rajasthan
+20,JIO,4G,download,39383,-67.0,Rajasthan
+21,JIO,4G,upload,7299,-63.0,Rajasthan
+22,JIO,4G,upload,7462,-67.0,Rajasthan
+23,JIO,4G,upload,6917,-67.0,Rajasthan
+24,JIO,4G,download,39125,-62.0,Gujarat
+25,JIO,4G,upload,7488,-62.0,Gujarat
+26,JIO,4G,download,76286,-73.0,UP West
+27,JIO,4G,download,74881,-73.0,UP West
+28,JIO,4G,upload,6639,-73.0,UP West
+29,JIO,4G,upload,7407,-73.0,UP West
+30,JIO,4G,download,55,-81.0,Andhra Pradesh
+31,JIO,4G,download,2799,-89.0,Andhra Pradesh
+32,JIO,4G,download,3697,-81.0,Andhra Pradesh
+33,JIO,4G,upload,993,-83.0,Andhra Pradesh
+34,JIO,4G,upload,647,-87.0,Andhra Pradesh
+35,JIO,4G,upload,2072,-81.0,Andhra Pradesh
+36,CELLONE,3G,download,608,,Tamil Nadu
+37,CELLONE,3G,upload,499,,Tamil Nadu
+38,CELLONE,4G,download,2911,-107.0,Kerala
+39,CELLONE,4G,upload,2057,-107.0,Kerala
+40,AIRTEL,4G,download,652,-104.0,Karnataka
+41,AIRTEL,4G,download,1162,-109.0,Karnataka
+42,AIRTEL,4G,upload,6,-107.0,Karnataka
+43,AIRTEL,4G,upload,104,-102.0,Karnataka
+44,JIO,4G,download,54632,-71.0,Rajasthan
+45,JIO,4G,upload,5120,-71.0,Rajasthan
+46,JIO,4G,download,39706,-61.0,Gujarat
+47,JIO,4G,download,79071,-61.0,Gujarat
+48,JIO,4G,upload,7373,-61.0,Gujarat
+49,JIO,4G,upload,7737,-61.0,Gujarat
+50,AIRTEL,4G,download,13051,-61.0,Kerala
+51,AIRTEL,4G,download,1016,-89.0,Kerala
+52,AIRTEL,4G,upload,3240,-65.0,Kerala
+53,AIRTEL,4G,upload,230,-89.0,Kerala
+54,AIRTEL,4G,download,9538,-57.0,Andhra Pradesh
+55,AIRTEL,4G,download,9605,-57.0,Andhra Pradesh
+56,AIRTEL,4G,download,23103,-65.0,Andhra Pradesh
+57,AIRTEL,4G,download,7164,-69.0,Andhra Pradesh
+58,AIRTEL,4G,download,4337,-51.0,Andhra Pradesh
+59,AIRTEL,4G,download,4674,-51.0,Andhra Pradesh
+60,AIRTEL,4G,download,8370,-69.0,Andhra Pradesh
+61,AIRTEL,4G,download,6491,-51.0,Andhra Pradesh
+62,AIRTEL,4G,download,2822,-51.0,Andhra Pradesh
+63,AIRTEL,4G,upload,1115,-57.0,Andhra Pradesh
+64,AIRTEL,4G,upload,680,-57.0,Andhra Pradesh
+65,AIRTEL,4G,upload,6311,-69.0,Andhra Pradesh
+66,AIRTEL,4G,upload,659,-69.0,Andhra Pradesh
+67,AIRTEL,4G,upload,4457,-55.0,Andhra Pradesh
+68,AIRTEL,4G,upload,1868,-51.0,Andhra Pradesh
+69,AIRTEL,4G,upload,393,-69.0,Andhra Pradesh
+70,AIRTEL,4G,upload,3834,-51.0,Andhra Pradesh
+71,AIRTEL,4G,upload,2059,-51.0,Andhra Pradesh
+72,JIO,4G,download,1258,-83.0,Kerala
+73,JIO,4G,download,1125,-81.0,Kerala
+74,JIO,4G,download,3155,-71.0,Kerala
+75,JIO,4G,download,1094,-81.0,Kerala
+76,JIO,4G,download,716,-79.0,Kerala
+77,JIO,4G,download,185,-65.0,Kolkata
+78,VODAFONE,3G,download,9931,,Tamil Nadu
+79,VODAFONE,3G,upload,2768,,Tamil Nadu
+80,AIRTEL,4G,download,8050,-105.0,UP West
+81,AIRTEL,4G,download,6379,-92.0,UP West
+82,AIRTEL,4G,download,2504,-86.0,UP West
+83,AIRTEL,4G,download,15841,-91.0,UP West
+84,AIRTEL,4G,download,18602,-92.0,UP West
+85,AIRTEL,4G,download,20271,-93.0,UP West
+86,AIRTEL,4G,download,9269,-79.0,UP West
+87,AIRTEL,4G,download,10282,-82.0,UP West
+88,AIRTEL,4G,download,11006,-85.0,UP West
+89,AIRTEL,4G,download,24000,-85.0,UP West
+90,AIRTEL,4G,download,6334,-82.0,UP West
+91,AIRTEL,4G,download,8365,-94.0,UP West
+92,AIRTEL,4G,upload,527,-105.0,UP West
+93,AIRTEL,4G,upload,2420,-92.0,UP West
+94,AIRTEL,4G,upload,7605,-86.0,UP West
+95,AIRTEL,4G,upload,492,-91.0,UP West
+96,AIRTEL,4G,upload,671,-92.0,UP West
+97,AIRTEL,4G,upload,724,-93.0,UP West
+98,AIRTEL,4G,upload,177,-79.0,UP West
+99,AIRTEL,4G,upload,4001,-82.0,UP West
+100,AIRTEL,4G,upload,3896,-85.0,UP West
+101,AIRTEL,4G,upload,4769,-85.0,UP West
+102,AIRTEL,4G,upload,1166,-82.0,UP West
+103,AIRTEL,4G,upload,1769,-95.0,UP West
+104,JIO,4G,download,313,,Bihar
+105,JIO,4G,upload,3,,Bihar
+106,AIRTEL,4G,download,4483,-65.0,UP East
+107,AIRTEL,4G,download,488,-61.0,UP East
+108,AIRTEL,4G,download,16226,-63.0,UP East
+109,AIRTEL,4G,download,878,-81.0,UP East
+110,AIRTEL,4G,download,754,-81.0,UP East
+111,AIRTEL,4G,download,1849,-83.0,UP East
+112,AIRTEL,4G,download,13658,-55.0,UP East
+113,AIRTEL,4G,download,11651,-57.0,UP East
+114,AIRTEL,4G,download,409,-65.0,UP East
+115,AIRTEL,4G,download,960,-67.0,UP East
+116,AIRTEL,4G,download,1712,-69.0,UP East
+117,AIRTEL,4G,download,6272,-53.0,UP East
+118,AIRTEL,4G,download,4036,-57.0,UP East
+119,JIO,4G,download,352,-87.0,Mumbai
+120,VODAFONE,4G,download,662,-71.0,Mumbai
+121,VODAFONE,4G,download,2953,-77.0,Mumbai
+122,VODAFONE,4G,download,437,-67.0,Mumbai
+123,VODAFONE,4G,download,1506,-71.0,Mumbai
+124,VODAFONE,4G,download,2066,-75.0,Mumbai
+125,VODAFONE,4G,download,11637,-73.0,Mumbai
+126,VODAFONE,4G,download,9615,-55.0,Mumbai
+127,VODAFONE,4G,download,5766,-51.0,Mumbai
+128,VODAFONE,4G,download,22815,-73.0,Mumbai
+129,JIO,4G,upload,115,-87.0,Mumbai
+130,VODAFONE,4G,upload,535,-71.0,Mumbai
+131,VODAFONE,4G,upload,244,-73.0,Mumbai
+132,VODAFONE,4G,upload,251,-77.0,Mumbai
+133,VODAFONE,4G,upload,643,-71.0,Mumbai
+134,VODAFONE,4G,upload,281,-75.0,Mumbai
+135,VODAFONE,4G,upload,3949,-73.0,Mumbai
+136,VODAFONE,4G,upload,18161,-53.0,Mumbai
+137,VODAFONE,4G,upload,5716,-51.0,Mumbai
+138,VODAFONE,4G,upload,6252,-71.0,Mumbai
+139,JIO,4G,download,80724,-61.0,Orissa
+140,JIO,4G,download,79977,-61.0,Orissa
+141,JIO,4G,upload,8769,-61.0,Orissa
+142,JIO,4G,upload,8597,-61.0,Orissa
+143,JIO,4G,download,19955,-51.0,Rajasthan
+144,JIO,4G,download,687,-57.0,Rajasthan
+145,JIO,4G,download,1192,-57.0,Rajasthan
+146,JIO,4G,download,482,-57.0,Rajasthan
+147,JIO,4G,upload,6959,-51.0,Rajasthan
+148,JIO,4G,upload,2041,-57.0,Rajasthan
+149,JIO,4G,upload,2706,-55.0,Rajasthan
+150,JIO,4G,upload,3090,-57.0,Rajasthan
+151,JIO,4G,download,80671,-61.0,UP West
+152,JIO,4G,download,80298,-61.0,UP West
+153,JIO,4G,download,80523,-61.0,UP West
+154,JIO,4G,download,80086,-61.0,UP West
+155,JIO,4G,download,80694,-61.0,UP West
+156,JIO,4G,upload,8493,-61.0,UP West
+157,JIO,4G,upload,8631,-61.0,UP West
+158,JIO,4G,upload,8899,-61.0,UP West
+159,JIO,4G,upload,8725,-61.0,UP West
+160,JIO,4G,upload,8655,-61.0,UP West
+161,AIRTEL,4G,download,4,-83.0,Delhi
+162,AIRTEL,4G,download,1,-89.0,Delhi
+163,AIRTEL,4G,upload,5928,-83.0,Delhi
+164,AIRTEL,4G,upload,5007,-89.0,Delhi
+165,AIRTEL,4G,download,325,,Andhra Pradesh
+166,AIRTEL,4G,upload,1796,,Andhra Pradesh
+167,JIO,4G,download,389,-103.0,Assam
+168,JIO,4G,download,448,-103.0,Assam
+169,JIO,4G,download,23756,-93.0,Assam
+170,JIO,4G,download,659,-105.0,Assam
+171,JIO,4G,download,1676,-105.0,Assam
+172,JIO,4G,download,829,-103.0,Assam
+173,JIO,4G,download,5665,-91.0,Assam
+174,JIO,4G,download,6282,-91.0,Assam
+175,JIO,4G,download,13,-107.0,Assam
+176,JIO,4G,download,758,-107.0,Assam
+177,JIO,4G,download,884,-105.0,Assam
+178,JIO,4G,download,788,-107.0,Assam
+179,JIO,4G,download,381,-103.0,Assam
+180,JIO,4G,download,191,-105.0,Assam
+181,JIO,4G,download,840,-103.0,Assam
+182,JIO,4G,download,932,-103.0,Assam
+183,JIO,4G,download,828,-105.0,Assam
+184,JIO,4G,download,1017,-101.0,Assam
+185,JIO,4G,download,608,-107.0,Assam
+186,JIO,4G,download,2742,-105.0,Assam
+187,JIO,4G,download,1008,-103.0,Assam
+188,JIO,4G,download,87,-105.0,Assam
+189,JIO,4G,download,1278,-101.0,Assam
+190,JIO,4G,download,527,-101.0,Assam
+191,JIO,4G,download,990,-99.0,Assam
+192,JIO,4G,download,617,-105.0,Assam
+193,JIO,4G,download,641,-101.0,Assam
+194,JIO,4G,download,1016,-103.0,Assam
+195,JIO,4G,download,410,-103.0,Assam
+196,JIO,4G,download,980,-103.0,Assam
+197,JIO,4G,download,496,-101.0,Assam
+198,JIO,4G,download,1012,-101.0,Assam
+199,JIO,4G,download,18029,-103.0,Assam
+200,JIO,4G,download,9185,-91.0,Assam
+201,JIO,4G,download,4919,-105.0,Assam
+202,JIO,4G,download,174,-105.0,Assam
+203,JIO,4G,download,1824,-107.0,Assam
+204,JIO,4G,download,433,-103.0,Assam
+205,JIO,4G,download,603,-103.0,Assam
+206,JIO,4G,download,1094,-109.0,Assam
+207,JIO,4G,download,19226,-99.0,Assam
+208,JIO,4G,download,439,-103.0,Assam
+209,JIO,4G,download,309,-103.0,Assam
+210,JIO,4G,download,548,-103.0,Assam
+211,JIO,4G,download,1027,-105.0,Assam
+212,JIO,4G,download,327,-99.0,Assam
+213,JIO,4G,download,167,-95.0,Assam
+214,JIO,4G,download,34,-93.0,Assam
+215,JIO,4G,download,159,-97.0,Assam
+216,JIO,4G,download,3279,-91.0,Assam
+217,JIO,4G,download,2171,-101.0,Assam
+218,JIO,4G,download,1386,-101.0,Assam
+219,JIO,4G,download,1692,-103.0,Assam
+220,JIO,4G,download,1304,-99.0,Assam
+221,JIO,4G,download,708,-89.0,Assam
+222,JIO,4G,download,1132,-99.0,Assam
+223,JIO,4G,download,2232,-89.0,Assam
+224,JIO,4G,download,1907,-99.0,Assam
+225,JIO,4G,download,1177,-99.0,Assam
+226,JIO,4G,download,1228,-97.0,Assam
+227,JIO,4G,download,1116,-101.0,Assam
+228,JIO,4G,download,3346,-95.0,Assam
+229,JIO,4G,download,1709,-97.0,Assam
+230,JIO,4G,download,1266,-99.0,Assam
+231,JIO,4G,download,713,-105.0,Assam
+232,JIO,4G,download,925,-97.0,Assam
+233,JIO,4G,download,966,-97.0,Assam
+234,JIO,4G,download,429,-97.0,Assam
+235,JIO,4G,download,893,-99.0,Assam
+236,JIO,4G,download,461,-105.0,Assam
+237,JIO,4G,download,960,-101.0,Assam
+238,JIO,4G,download,696,-101.0,Assam
+239,JIO,4G,download,758,-105.0,Assam
+240,JIO,4G,download,563,-101.0,Assam
+241,JIO,4G,download,27,-99.0,Assam
+242,JIO,4G,download,34,-97.0,Assam
+243,JIO,4G,download,37,-99.0,Assam
+244,JIO,4G,download,1171,-101.0,Assam
+245,JIO,4G,download,386,-103.0,Assam
+246,JIO,4G,download,87,-105.0,Assam
+247,JIO,4G,download,616,-107.0,Assam
+248,JIO,4G,download,530,-107.0,Assam
+249,JIO,4G,download,1025,-107.0,Assam
+250,JIO,4G,download,193,-107.0,Assam
+251,JIO,4G,download,950,-105.0,Assam
+252,JIO,4G,download,1237,-107.0,Assam
+253,JIO,4G,download,190,-107.0,Assam
+254,JIO,4G,download,211,-107.0,Assam
+255,JIO,4G,download,2442,-107.0,Assam
+256,JIO,4G,download,382,-107.0,Assam
+257,JIO,4G,download,23,-107.0,Assam
+258,JIO,4G,download,190,-107.0,Assam
+259,JIO,4G,download,546,-111.0,Assam
+260,JIO,4G,download,1283,-107.0,Assam
+261,JIO,4G,download,1064,-109.0,Assam
+262,JIO,4G,download,605,-109.0,Assam
+263,JIO,4G,download,3846,-109.0,Assam
+264,JIO,4G,download,248,-107.0,Assam
+265,JIO,4G,download,853,-107.0,Assam
+266,JIO,4G,download,2521,-107.0,Assam
+267,JIO,4G,download,1910,-109.0,Assam
+268,JIO,4G,download,2346,-109.0,Assam
+269,JIO,4G,download,1082,-107.0,Assam
+270,JIO,4G,download,509,,Assam
+271,JIO,4G,download,638,-103.0,Assam
+272,JIO,4G,download,427,-103.0,Assam
+273,JIO,4G,download,352,-101.0,Assam
+274,JIO,4G,download,13494,-99.0,Assam
+275,JIO,4G,download,20621,-101.0,Assam
+276,JIO,4G,download,864,-111.0,Assam
+277,JIO,4G,download,1077,-109.0,Assam
+278,JIO,4G,download,859,-109.0,Assam
+279,JIO,4G,download,22317,-103.0,Assam
+280,JIO,4G,download,654,-105.0,Assam
+281,JIO,4G,download,325,-105.0,Assam
+282,JIO,4G,download,792,-103.0,Assam
+283,JIO,4G,download,10886,-97.0,Assam
+284,JIO,4G,download,509,-105.0,Assam
+285,JIO,4G,download,1211,-103.0,Assam
+286,JIO,4G,download,185,-105.0,Assam
+287,JIO,4G,download,775,-105.0,Assam
+288,JIO,4G,download,193,-107.0,Assam
+289,JIO,4G,download,1985,-89.0,Assam
+290,JIO,4G,download,2642,-91.0,Assam
+291,JIO,4G,download,358,-105.0,Assam
+292,JIO,4G,download,474,-107.0,Assam
+293,JIO,4G,download,270,-105.0,Assam
+294,JIO,4G,download,326,-107.0,Assam
+295,JIO,4G,download,3125,-93.0,Assam
+296,JIO,4G,download,1715,-105.0,Assam
+297,JIO,4G,download,468,-95.0,Assam
+298,JIO,4G,download,273,-103.0,Assam
+299,JIO,4G,download,115,-103.0,Assam
+300,JIO,4G,download,813,-107.0,Assam
+301,JIO,4G,download,511,-101.0,Assam
+302,JIO,4G,download,552,-97.0,Assam
+303,JIO,4G,download,507,-97.0,Assam
+304,JIO,4G,download,1132,-103.0,Assam
+305,JIO,4G,download,340,-99.0,Assam
+306,JIO,4G,download,402,-101.0,Assam
+307,JIO,4G,download,1091,-95.0,Assam
+308,JIO,4G,download,656,-101.0,Assam
+309,JIO,4G,download,511,-103.0,Assam
+310,JIO,4G,download,323,-99.0,Assam
+311,JIO,4G,download,273,-101.0,Assam
+312,JIO,4G,download,733,-93.0,Assam
+313,JIO,4G,download,281,-95.0,Assam
+314,JIO,4G,download,1430,-105.0,Assam
+315,JIO,4G,download,1439,-103.0,Assam
+316,JIO,4G,download,9391,-107.0,Assam
+317,JIO,4G,download,593,-101.0,Assam
+318,JIO,4G,download,7720,-87.0,Assam
+319,JIO,4G,download,633,-97.0,Assam
+320,JIO,4G,download,622,-101.0,Assam
+321,JIO,4G,upload,60,-103.0,Assam
+322,JIO,4G,upload,385,-105.0,Assam
+323,JIO,4G,upload,17601,-91.0,Assam
+324,JIO,4G,upload,308,-105.0,Assam
+325,JIO,4G,upload,571,-105.0,Assam
+326,JIO,4G,upload,655,-103.0,Assam
+327,JIO,4G,upload,11750,-91.0,Assam
+328,JIO,4G,upload,12307,-91.0,Assam
+329,JIO,4G,upload,367,-107.0,Assam
+330,JIO,4G,upload,304,-107.0,Assam
+331,JIO,4G,upload,324,-107.0,Assam
+332,JIO,4G,upload,384,-107.0,Assam
+333,JIO,4G,upload,283,-105.0,Assam
+334,JIO,4G,upload,512,-105.0,Assam
+335,JIO,4G,upload,215,-103.0,Assam
+336,JIO,4G,upload,173,-103.0,Assam
+337,JIO,4G,upload,153,-103.0,Assam
+338,JIO,4G,upload,29,-107.0,Assam
+339,JIO,4G,upload,214,-107.0,Assam
+340,JIO,4G,upload,102,-103.0,Assam
+341,JIO,4G,upload,232,-105.0,Assam
+342,JIO,4G,upload,241,-107.0,Assam
+343,JIO,4G,upload,167,-101.0,Assam
+344,JIO,4G,upload,434,-103.0,Assam
+345,JIO,4G,upload,367,-101.0,Assam
+346,JIO,4G,upload,265,-105.0,Assam
+347,JIO,4G,upload,88,-101.0,Assam
+348,JIO,4G,upload,191,-101.0,Assam
+349,JIO,4G,upload,185,-105.0,Assam
+350,JIO,4G,upload,57,-103.0,Assam
+351,JIO,4G,upload,174,-101.0,Assam
+352,JIO,4G,upload,253,-97.0,Assam
+353,JIO,4G,upload,5059,-101.0,Assam
+354,JIO,4G,upload,11083,-91.0,Assam
+355,JIO,4G,upload,343,-105.0,Assam
+356,JIO,4G,upload,547,-101.0,Assam
+357,JIO,4G,upload,309,-109.0,Assam
+358,JIO,4G,upload,27,-107.0,Assam
+359,JIO,4G,upload,272,-101.0,Assam
+360,JIO,4G,upload,327,-107.0,Assam
+361,JIO,4G,upload,2981,-103.0,Assam
+362,JIO,4G,upload,341,-103.0,Assam
+363,JIO,4G,upload,217,-107.0,Assam
+364,JIO,4G,upload,153,-109.0,Assam
+365,JIO,4G,upload,215,-107.0,Assam
+366,JIO,4G,upload,96,-99.0,Assam
+367,JIO,4G,upload,468,-95.0,Assam
+368,JIO,4G,upload,328,-95.0,Assam
+369,JIO,4G,upload,778,-101.0,Assam
+370,JIO,4G,upload,9313,-91.0,Assam
+371,JIO,4G,upload,750,-101.0,Assam
+372,JIO,4G,upload,114,-105.0,Assam
+373,JIO,4G,upload,184,-103.0,Assam
+374,JIO,4G,upload,89,-99.0,Assam
+375,JIO,4G,upload,4084,-89.0,Assam
+376,JIO,4G,upload,324,-99.0,Assam
+377,JIO,4G,upload,1165,-99.0,Assam
+378,JIO,4G,upload,1166,-97.0,Assam
+379,JIO,4G,upload,696,-101.0,Assam
+380,JIO,4G,upload,510,-99.0,Assam
+381,JIO,4G,upload,544,-97.0,Assam
+382,JIO,4G,upload,1145,-99.0,Assam
+383,JIO,4G,upload,682,-97.0,Assam
+384,JIO,4G,upload,560,-99.0,Assam
+385,JIO,4G,upload,488,-105.0,Assam
+386,JIO,4G,upload,574,-97.0,Assam
+387,JIO,4G,upload,16,-95.0,Assam
+388,JIO,4G,upload,518,-101.0,Assam
+389,JIO,4G,upload,825,-105.0,Assam
+390,JIO,4G,upload,271,-99.0,Assam
+391,JIO,4G,upload,663,-93.0,Assam
+392,JIO,4G,upload,1076,-97.0,Assam
+393,JIO,4G,upload,260,-103.0,Assam
+394,JIO,4G,upload,318,-101.0,Assam
+395,JIO,4G,upload,452,-97.0,Assam
+396,JIO,4G,upload,245,-99.0,Assam
+397,JIO,4G,upload,436,-103.0,Assam
+398,JIO,4G,upload,55,-103.0,Assam
+399,JIO,4G,upload,63,-103.0,Assam
+400,JIO,4G,upload,668,-103.0,Assam
+401,JIO,4G,upload,481,-105.0,Assam
+402,JIO,4G,upload,226,-105.0,Assam
+403,JIO,4G,upload,731,-107.0,Assam
+404,JIO,4G,upload,1128,-105.0,Assam
+405,JIO,4G,upload,916,-107.0,Assam
+406,JIO,4G,upload,838,-105.0,Assam
+407,JIO,4G,upload,892,-107.0,Assam
+408,JIO,4G,upload,385,-105.0,Assam
+409,JIO,4G,upload,289,-107.0,Assam
+410,JIO,4G,upload,562,-107.0,Assam
+411,JIO,4G,upload,728,-107.0,Assam
+412,JIO,4G,upload,393,-107.0,Assam
+413,JIO,4G,upload,565,-107.0,Assam
+414,JIO,4G,upload,201,-109.0,Assam
+415,JIO,4G,upload,410,-107.0,Assam
+416,JIO,4G,upload,65,-109.0,Assam
+417,JIO,4G,upload,212,-109.0,Assam
+418,JIO,4G,upload,678,-109.0,Assam
+419,JIO,4G,upload,495,-107.0,Assam
+420,JIO,4G,upload,1027,-109.0,Assam
+421,JIO,4G,upload,833,-107.0,Assam
+422,JIO,4G,upload,1168,-109.0,Assam
+423,JIO,4G,upload,384,-109.0,Assam
+424,JIO,4G,upload,167,-107.0,Assam
+425,JIO,4G,upload,189,,Assam
+426,JIO,4G,upload,947,-101.0,Assam
+427,JIO,4G,upload,804,-103.0,Assam
+428,JIO,4G,upload,655,-101.0,Assam
+429,JIO,4G,upload,5048,-99.0,Assam
+430,JIO,4G,upload,3656,-99.0,Assam
+431,JIO,4G,upload,367,-111.0,Assam
+432,JIO,4G,upload,254,-107.0,Assam
+433,JIO,4G,upload,299,-109.0,Assam
+434,JIO,4G,upload,3902,-103.0,Assam
+435,JIO,4G,upload,286,-107.0,Assam
+436,JIO,4G,upload,254,-105.0,Assam
+437,JIO,4G,upload,516,-103.0,Assam
+438,JIO,4G,upload,2648,-97.0,Assam
+439,JIO,4G,upload,187,-105.0,Assam
+440,JIO,4G,upload,801,-99.0,Assam
+441,JIO,4G,upload,595,-103.0,Assam
+442,JIO,4G,upload,465,-103.0,Assam
+443,JIO,4G,upload,641,-105.0,Assam
+444,JIO,4G,upload,10476,-89.0,Assam
+445,JIO,4G,upload,8149,-91.0,Assam
+446,JIO,4G,upload,143,-105.0,Assam
+447,JIO,4G,upload,461,-107.0,Assam
+448,JIO,4G,upload,210,-105.0,Assam
+449,JIO,4G,upload,198,-105.0,Assam
+450,JIO,4G,upload,7199,-93.0,Assam
+451,JIO,4G,upload,182,-105.0,Assam
+452,JIO,4G,upload,321,-99.0,Assam
+453,JIO,4G,upload,476,-103.0,Assam
+454,JIO,4G,upload,519,-103.0,Assam
+455,JIO,4G,upload,267,-105.0,Assam
+456,JIO,4G,upload,1169,-101.0,Assam
+457,JIO,4G,upload,354,-107.0,Assam
+458,JIO,4G,upload,624,-101.0,Assam
+459,JIO,4G,upload,379,-103.0,Assam
+460,JIO,4G,upload,419,-99.0,Assam
+461,JIO,4G,upload,237,-103.0,Assam
+462,JIO,4G,upload,733,-97.0,Assam
+463,JIO,4G,upload,446,-103.0,Assam
+464,JIO,4G,upload,1165,-105.0,Assam
+465,JIO,4G,upload,99,-99.0,Assam
+466,JIO,4G,upload,425,-105.0,Assam
+467,JIO,4G,upload,271,-93.0,Assam
+468,JIO,4G,upload,549,-95.0,Assam
+469,JIO,4G,upload,515,-105.0,Assam
+470,JIO,4G,upload,775,-101.0,Assam
+471,JIO,4G,upload,1387,-103.0,Assam
+472,JIO,4G,upload,58,-101.0,Assam
+473,JIO,4G,upload,1928,-101.0,Assam
+474,JIO,4G,upload,35,-101.0,Assam
+475,JIO,4G,upload,90,-101.0,Assam
+476,VODAFONE,4G,download,4726,-107.0,West Bengal
+477,VODAFONE,4G,download,2386,,West Bengal
+478,VODAFONE,4G,download,24098,-109.0,West Bengal
+479,VODAFONE,4G,download,9830,-107.0,West Bengal
+480,VODAFONE,4G,download,21471,-109.0,West Bengal
+481,VODAFONE,4G,download,8446,-105.0,West Bengal
+482,VODAFONE,4G,download,12367,-109.0,West Bengal
+483,VODAFONE,4G,download,7389,-107.0,West Bengal
+484,VODAFONE,4G,download,2305,,West Bengal
+485,VODAFONE,4G,upload,6039,,West Bengal
+486,VODAFONE,4G,upload,1251,-111.0,West Bengal
+487,VODAFONE,4G,upload,5407,-109.0,West Bengal
+488,VODAFONE,4G,upload,5,-107.0,West Bengal
+489,VODAFONE,4G,upload,613,-109.0,West Bengal
+490,VODAFONE,4G,upload,1391,-105.0,West Bengal
+491,VODAFONE,4G,upload,3069,-109.0,West Bengal
+492,VODAFONE,4G,upload,1242,-107.0,West Bengal
+493,VODAFONE,4G,upload,3474,,West Bengal
+494,JIO,4G,download,1176,-103.0,Bihar
+495,JIO,4G,upload,281,-103.0,Bihar
+496,JIO,4G,upload,8670,-61.0,UP West
+497,AIRTEL,4G,download,4355,-71.0,Andhra Pradesh
+498,AIRTEL,4G,upload,1580,-71.0,Andhra Pradesh
+499,CELLONE,3G,download,3365,,Madhya Pradesh
+500,CELLONE,3G,download,8701,,Madhya Pradesh
+501,CELLONE,3G,upload,1858,,Madhya Pradesh
+502,CELLONE,3G,upload,1907,,Madhya Pradesh
+503,JIO,4G,download,1577,-112.0,Kerala
+504,JIO,4G,upload,233,-112.0,Kerala
+505,AIRTEL,4G,download,468,,Delhi
+506,AIRTEL,4G,upload,360,-105.0,Delhi
+507,VODAFONE,4G,download,4230,,Chennai
+508,AIRTEL,4G,download,863,,Chennai
+509,AIRTEL,4G,download,8155,,Chennai
+510,AIRTEL,4G,download,22477,,Chennai
+511,VODAFONE,4G,upload,651,,Chennai
+512,AIRTEL,4G,upload,8494,,Chennai
+513,AIRTEL,4G,upload,2513,,Chennai
+514,AIRTEL,4G,upload,4196,,Chennai
+515,AIRTEL,4G,download,13984,-84.0,Rajasthan
+516,AIRTEL,4G,upload,17277,-84.0,Rajasthan
+517,IDEA,4G,download,719,-103.0,Maharashtra
+518,IDEA,4G,upload,1965,-103.0,Maharashtra
+519,IDEA,4G,upload,18444,-88.0,Madhya Pradesh
+520,IDEA,4G,upload,17962,-86.0,Madhya Pradesh
+521,IDEA,4G,upload,3501,-91.0,Madhya Pradesh
+522,IDEA,4G,upload,2676,-102.0,Madhya Pradesh
+523,IDEA,4G,upload,457,-102.0,Madhya Pradesh
+524,IDEA,4G,upload,489,-103.0,Madhya Pradesh
+525,JIO,4G,download,2277,-105.0,Tamil Nadu
+526,JIO,4G,upload,779,-105.0,Tamil Nadu
+527,JIO,4G,download,40195,-71.0,Rajasthan
+528,JIO,4G,download,6432,-71.0,Rajasthan
+529,JIO,4G,upload,7928,-71.0,Rajasthan
+530,JIO,4G,upload,8150,-71.0,Rajasthan
+531,JIO,4G,download,1419,-98.0,Rajasthan
+532,JIO,4G,download,3901,-98.0,Rajasthan
+533,JIO,4G,upload,1883,-98.0,Rajasthan
+534,JIO,4G,upload,2263,-97.0,Rajasthan
+535,AIRTEL,4G,download,12498,-102.0,Rajasthan
+536,AIRTEL,4G,download,990,-105.0,Madhya Pradesh
+537,AIRTEL,4G,upload,46,-104.0,Madhya Pradesh
+538,AIRTEL,4G,download,6670,-105.0,Kerala
+539,AIRTEL,4G,download,6778,-106.0,Kerala
+540,AIRTEL,4G,download,12162,-105.0,Kerala
+541,AIRTEL,4G,download,8084,-108.0,Kerala
+542,AIRTEL,4G,upload,3534,-108.0,Kerala
+543,AIRTEL,4G,upload,3453,-105.0,Kerala
+544,AIRTEL,4G,upload,5215,-105.0,Kerala
+545,AIRTEL,4G,upload,3231,-109.0,Kerala
+546,JIO,4G,download,38071,-63.0,Orissa
+547,JIO,4G,download,7252,-63.0,Orissa
+548,JIO,4G,download,2344,-73.0,Kerala
+549,JIO,4G,download,15464,-57.0,Kerala
+550,JIO,4G,upload,59,-73.0,Kerala
+551,JIO,4G,upload,109,-57.0,Kerala
+552,JIO,4G,download,77245,-70.0,Rajasthan
+553,JIO,4G,upload,8492,-70.0,Rajasthan
+554,JIO,4G,download,78194,-63.0,Gujarat
+555,JIO,4G,download,39597,-60.0,Rajasthan
+556,JIO,4G,upload,7371,-60.0,Rajasthan
+557,JIO,4G,download,4255,-63.0,Bihar
+558,JIO,4G,upload,2381,-69.0,Bihar
+559,VODAFONE,4G,download,6153,-67.0,UP East
+560,VODAFONE,4G,download,11853,-67.0,UP East
+561,VODAFONE,4G,download,19385,-67.0,UP East
+562,VODAFONE,4G,download,5595,-73.0,UP East
+563,VODAFONE,4G,download,2383,-67.0,UP East
+564,VODAFONE,4G,download,216,-67.0,UP East
+565,VODAFONE,4G,download,1979,-77.0,UP East
+566,VODAFONE,4G,download,1127,-79.0,UP East
+567,VODAFONE,4G,download,13712,,UP East
+568,VODAFONE,4G,download,9377,-71.0,UP East
+569,VODAFONE,4G,download,2707,,UP East
+570,VODAFONE,4G,download,1044,-67.0,UP East
+571,VODAFONE,4G,download,17753,,UP East
+572,VODAFONE,4G,download,4098,,UP East
+573,VODAFONE,4G,download,7577,-73.0,UP East
+574,VODAFONE,4G,download,3644,-73.0,UP East
+575,VODAFONE,4G,download,3559,-59.0,UP East
+576,VODAFONE,4G,download,2986,,UP East
+577,VODAFONE,4G,download,6058,,UP East
+578,VODAFONE,4G,download,1732,-69.0,UP East
+579,VODAFONE,4G,download,21365,-81.0,UP East
+580,VODAFONE,4G,download,19700,-81.0,UP East
+581,VODAFONE,4G,download,49,-75.0,UP East
+582,VODAFONE,4G,download,1818,-77.0,UP East
+583,VODAFONE,4G,download,1023,-75.0,UP East
+584,VODAFONE,4G,download,16264,,UP East
+585,VODAFONE,4G,download,1412,-77.0,UP East
+586,VODAFONE,4G,download,7237,-77.0,UP East
+587,VODAFONE,4G,download,2594,,UP East
+588,VODAFONE,4G,download,5682,-69.0,UP East
+589,VODAFONE,4G,download,17837,,UP East
+590,VODAFONE,4G,download,1438,-67.0,UP East
+591,VODAFONE,4G,download,1832,-69.0,UP East
+592,VODAFONE,4G,download,1364,-71.0,UP East
+593,VODAFONE,4G,download,20331,-65.0,UP East
+594,VODAFONE,4G,download,2819,-67.0,UP East
+595,VODAFONE,4G,download,9436,-65.0,UP East
+596,VODAFONE,4G,download,6322,,UP East
+597,VODAFONE,4G,download,563,-73.0,UP East
+598,VODAFONE,4G,download,4687,-75.0,UP East
+599,VODAFONE,4G,download,2824,-75.0,UP East
+600,VODAFONE,4G,download,21058,-67.0,UP East
+601,VODAFONE,4G,download,5109,-67.0,UP East
+602,VODAFONE,4G,download,5432,-67.0,UP East
+603,VODAFONE,4G,download,2535,,UP East
+604,VODAFONE,4G,download,2977,,UP East
+605,VODAFONE,4G,download,2092,,UP East
+606,VODAFONE,4G,download,693,-69.0,UP East
+607,VODAFONE,4G,download,669,-75.0,UP East
+608,VODAFONE,4G,download,2034,-67.0,UP East
+609,VODAFONE,4G,download,217,,UP East
+610,VODAFONE,4G,download,587,-71.0,UP East
+611,VODAFONE,4G,download,2807,-67.0,UP East
+612,VODAFONE,4G,download,1549,-69.0,UP East
+613,VODAFONE,4G,download,1113,-71.0,UP East
+614,VODAFONE,4G,download,803,-65.0,UP East
+615,VODAFONE,4G,download,734,-67.0,UP East
+616,VODAFONE,4G,download,30750,-67.0,UP East
+617,VODAFONE,4G,download,3686,-73.0,UP East
+618,VODAFONE,4G,download,11857,-69.0,UP East
+619,VODAFONE,4G,download,1994,-73.0,UP East
+620,VODAFONE,4G,download,17119,-65.0,UP East
+621,VODAFONE,4G,download,15851,,UP East
+622,VODAFONE,4G,download,8163,,UP East
+623,VODAFONE,4G,download,3701,,UP East
+624,VODAFONE,4G,download,12507,-79.0,UP East
+625,VODAFONE,4G,download,13841,-79.0,UP East
+626,VODAFONE,4G,download,10754,-77.0,UP East
+627,VODAFONE,4G,download,764,-73.0,UP East
+628,VODAFONE,4G,download,733,-71.0,UP East
+629,VODAFONE,4G,download,916,-71.0,UP East
+630,VODAFONE,4G,download,744,-69.0,UP East
+631,VODAFONE,4G,download,535,-69.0,UP East
+632,VODAFONE,4G,download,2569,,UP East
+633,VODAFONE,4G,download,1995,,UP East
+634,VODAFONE,4G,download,1646,-67.0,UP East
+635,VODAFONE,4G,download,7492,-69.0,UP East
+636,VODAFONE,4G,download,12865,-55.0,UP East
+637,VODAFONE,4G,download,626,-71.0,UP East
+638,VODAFONE,4G,download,831,-71.0,UP East
+639,VODAFONE,4G,download,594,-67.0,UP East
+640,VODAFONE,4G,download,1144,-69.0,UP East
+641,VODAFONE,4G,download,495,-77.0,UP East
+642,VODAFONE,4G,download,533,-75.0,UP East
+643,VODAFONE,4G,download,3090,,UP East
+644,VODAFONE,4G,download,1092,-77.0,UP East
+645,VODAFONE,4G,download,772,-75.0,UP East
+646,VODAFONE,4G,download,909,-77.0,UP East
+647,VODAFONE,4G,download,978,-81.0,UP East
+648,VODAFONE,4G,download,2713,-69.0,UP East
+649,VODAFONE,4G,download,2996,-69.0,UP East
+650,VODAFONE,4G,download,2596,-77.0,UP East
+651,VODAFONE,4G,download,1803,-79.0,UP East
+652,VODAFONE,4G,download,2314,,UP East
+653,VODAFONE,4G,download,2776,-69.0,UP East
+654,VODAFONE,4G,download,1601,-69.0,UP East
+655,VODAFONE,4G,download,21199,-63.0,UP East
+656,VODAFONE,4G,download,14294,,UP East
+657,VODAFONE,4G,download,11301,,UP East
+658,VODAFONE,4G,download,14493,-63.0,UP East
+659,VODAFONE,4G,download,20376,-57.0,UP East
+660,VODAFONE,4G,download,8889,-57.0,UP East
+661,VODAFONE,4G,download,22710,-55.0,UP East
+662,VODAFONE,4G,download,9437,-73.0,UP East
+663,VODAFONE,4G,download,8578,-73.0,UP East
+664,VODAFONE,4G,download,7301,,UP East
+665,VODAFONE,4G,download,9741,-61.0,UP East
+666,VODAFONE,4G,download,13867,-71.0,UP East
+667,VODAFONE,4G,download,1432,-71.0,UP East
+668,VODAFONE,4G,download,1071,-71.0,UP East
+669,VODAFONE,4G,download,2526,-67.0,UP East
+670,VODAFONE,4G,download,12000,,UP East
+671,VODAFONE,4G,download,22895,-53.0,UP East
+672,VODAFONE,4G,download,9816,,UP East
+673,VODAFONE,4G,download,15862,,UP East
+674,VODAFONE,4G,download,996,-71.0,UP East
+675,VODAFONE,4G,download,2026,-67.0,UP East
+676,VODAFONE,4G,download,3060,-67.0,UP East
+677,VODAFONE,4G,download,1106,,UP East
+678,VODAFONE,4G,download,901,-71.0,UP East
+679,VODAFONE,4G,download,763,,UP East
+680,VODAFONE,4G,download,656,-73.0,UP East
+681,VODAFONE,4G,download,741,-73.0,UP East
+682,VODAFONE,4G,download,1418,-67.0,UP East
+683,VODAFONE,4G,download,16060,-57.0,UP East
+684,VODAFONE,4G,download,23832,-57.0,UP East
+685,VODAFONE,4G,download,15458,-55.0,UP East
+686,VODAFONE,4G,download,8748,-59.0,UP East
+687,VODAFONE,4G,download,13422,-53.0,UP East
+688,VODAFONE,4G,download,2287,-69.0,UP East
+689,VODAFONE,4G,download,3200,-71.0,UP East
+690,VODAFONE,4G,download,9110,-73.0,UP East
+691,VODAFONE,4G,download,5275,-69.0,UP East
+692,VODAFONE,4G,download,1503,,UP East
+693,VODAFONE,4G,download,4168,-73.0,UP East
+694,VODAFONE,4G,download,3712,,UP East
+695,VODAFONE,4G,download,2932,-67.0,UP East
+696,VODAFONE,4G,download,2571,-69.0,UP East
+697,VODAFONE,4G,download,9426,-69.0,UP East
+698,VODAFONE,4G,download,388,-73.0,UP East
+699,VODAFONE,4G,download,3651,-73.0,UP East
+700,VODAFONE,4G,download,2945,-75.0,UP East
+701,VODAFONE,4G,download,10919,-67.0,UP East
+702,VODAFONE,4G,download,8997,-67.0,UP East
+703,VODAFONE,4G,download,1861,-77.0,UP East
+704,VODAFONE,4G,download,705,-69.0,UP East
+705,VODAFONE,4G,download,4095,-69.0,UP East
+706,VODAFONE,4G,download,2782,-71.0,UP East
+707,VODAFONE,4G,download,24330,-57.0,UP East
+708,VODAFONE,4G,download,23661,-55.0,UP East
+709,VODAFONE,4G,download,27320,-57.0,UP East
+710,VODAFONE,4G,download,27957,-55.0,UP East
+711,VODAFONE,4G,download,24581,-57.0,UP East
+712,VODAFONE,4G,download,25260,-55.0,UP East
+713,VODAFONE,4G,download,12328,-57.0,UP East
+714,VODAFONE,4G,download,16137,-57.0,UP East
+715,VODAFONE,4G,download,11224,-51.0,UP East
+716,VODAFONE,4G,download,5693,-57.0,UP East
+717,VODAFONE,4G,download,5660,-57.0,UP East
+718,VODAFONE,4G,download,4063,-59.0,UP East
+719,VODAFONE,4G,download,1835,-59.0,UP East
+720,VODAFONE,4G,download,1822,-57.0,UP East
+721,VODAFONE,4G,download,2361,-55.0,UP East
+722,VODAFONE,4G,download,3417,-55.0,UP East
+723,VODAFONE,4G,download,6212,-55.0,UP East
+724,VODAFONE,4G,download,7379,-55.0,UP East
+725,VODAFONE,4G,download,2594,-57.0,UP East
+726,VODAFONE,4G,download,4958,-53.0,UP East
+727,VODAFONE,4G,download,925,-77.0,UP East
+728,VODAFONE,4G,download,1568,-79.0,UP East
+729,VODAFONE,4G,download,935,-75.0,UP East
+730,VODAFONE,4G,download,561,-69.0,UP East
+731,VODAFONE,4G,download,1887,-67.0,UP East
+732,VODAFONE,4G,download,2628,,UP East
+733,VODAFONE,4G,download,1554,-73.0,UP East
+734,VODAFONE,4G,download,2363,-69.0,UP East
+735,VODAFONE,4G,download,965,-71.0,UP East
+736,VODAFONE,4G,download,3362,-69.0,UP East
+737,VODAFONE,4G,download,33734,-65.0,UP East
+738,VODAFONE,4G,download,31022,-67.0,UP East
+739,VODAFONE,4G,download,15380,-69.0,UP East
+740,VODAFONE,4G,download,14599,-73.0,UP East
+741,VODAFONE,4G,download,4418,-59.0,UP East
+742,VODAFONE,4G,download,11821,-67.0,UP East
+743,VODAFONE,4G,download,1222,-67.0,UP East
+744,VODAFONE,4G,download,1382,,UP East
+745,VODAFONE,4G,download,3417,-77.0,UP East
+746,VODAFONE,4G,download,362,,UP East
+747,VODAFONE,4G,download,1707,-71.0,UP East
+748,VODAFONE,4G,download,2182,,UP East
+749,VODAFONE,4G,download,4926,,UP East
+750,VODAFONE,4G,download,1621,-69.0,UP East
+751,VODAFONE,4G,upload,12830,-67.0,UP East
+752,VODAFONE,4G,upload,11364,-69.0,UP East
+753,VODAFONE,4G,upload,18609,-71.0,UP East
+754,VODAFONE,4G,upload,6770,-73.0,UP East
+755,VODAFONE,4G,upload,1979,-67.0,UP East
+756,VODAFONE,4G,upload,2561,-67.0,UP East
+757,VODAFONE,4G,upload,466,-79.0,UP East
+758,VODAFONE,4G,upload,1528,-79.0,UP East
+759,VODAFONE,4G,upload,889,-75.0,UP East
+760,VODAFONE,4G,upload,1108,-73.0,UP East
+761,VODAFONE,4G,upload,2071,-77.0,UP East
+762,VODAFONE,4G,upload,1516,-67.0,UP East
+763,VODAFONE,4G,upload,245,-83.0,UP East
+764,VODAFONE,4G,upload,496,,UP East
+765,VODAFONE,4G,upload,1017,-73.0,UP East
+766,VODAFONE,4G,upload,427,-71.0,UP East
+767,VODAFONE,4G,upload,1821,,UP East
+768,VODAFONE,4G,upload,226,,UP East
+769,VODAFONE,4G,upload,1043,-71.0,UP East
+770,VODAFONE,4G,upload,2677,-71.0,UP East
+771,VODAFONE,4G,upload,5765,-81.0,UP East
+772,VODAFONE,4G,upload,5079,-85.0,UP East
+773,VODAFONE,4G,upload,3267,,UP East
+774,VODAFONE,4G,upload,12,-71.0,UP East
+775,VODAFONE,4G,upload,1469,-67.0,UP East
+776,VODAFONE,4G,upload,3434,-75.0,UP East
+777,VODAFONE,4G,upload,1898,-77.0,UP East
+778,VODAFONE,4G,upload,2147,-77.0,UP East
+779,VODAFONE,4G,upload,266,,UP East
+780,VODAFONE,4G,upload,1068,-71.0,UP East
+781,VODAFONE,4G,upload,1471,-81.0,UP East
+782,VODAFONE,4G,upload,5294,-71.0,UP East
+783,VODAFONE,4G,upload,4100,-69.0,UP East
+784,VODAFONE,4G,upload,513,-69.0,UP East
+785,VODAFONE,4G,upload,2780,-75.0,UP East
+786,VODAFONE,4G,upload,4255,-69.0,UP East
+787,VODAFONE,4G,upload,4674,-65.0,UP East
+788,VODAFONE,4G,upload,1637,-71.0,UP East
+789,VODAFONE,4G,upload,107,-73.0,UP East
+790,VODAFONE,4G,upload,28,-75.0,UP East
+791,VODAFONE,4G,upload,96,,UP East
+792,VODAFONE,4G,upload,7949,,UP East
+793,VODAFONE,4G,upload,3666,-67.0,UP East
+794,VODAFONE,4G,upload,3306,-67.0,UP East
+795,VODAFONE,4G,upload,1327,,UP East
+796,VODAFONE,4G,upload,1124,-69.0,UP East
+797,VODAFONE,4G,upload,559,-73.0,UP East
+798,VODAFONE,4G,upload,225,-69.0,UP East
+799,VODAFONE,4G,upload,187,,UP East
+800,VODAFONE,4G,upload,7624,-67.0,UP East
+801,VODAFONE,4G,upload,4569,,UP East
+802,VODAFONE,4G,upload,4961,-75.0,UP East
+803,VODAFONE,4G,upload,4502,,UP East
+804,VODAFONE,4G,upload,2883,-69.0,UP East
+805,VODAFONE,4G,upload,2330,-69.0,UP East
+806,VODAFONE,4G,upload,5028,,UP East
+807,VODAFONE,4G,upload,44,,UP East
+808,VODAFONE,4G,upload,367,,UP East
+809,VODAFONE,4G,upload,532,,UP East
+810,VODAFONE,4G,upload,987,-71.0,UP East
+811,VODAFONE,4G,upload,653,-73.0,UP East
+812,VODAFONE,4G,upload,1,-71.0,UP East
+813,VODAFONE,4G,upload,1024,-73.0,UP East
+814,VODAFONE,4G,upload,54,,UP East
+815,VODAFONE,4G,upload,222,-71.0,UP East
+816,VODAFONE,4G,upload,2102,-67.0,UP East
+817,VODAFONE,4G,upload,12,-81.0,UP East
+818,VODAFONE,4G,upload,3196,-81.0,UP East
+819,VODAFONE,4G,upload,2344,-73.0,UP East
+820,VODAFONE,4G,upload,2138,-69.0,UP East
+821,VODAFONE,4G,upload,1680,-69.0,UP East
+822,VODAFONE,4G,upload,1504,-71.0,UP East
+823,VODAFONE,4G,upload,1789,-69.0,UP East
+824,VODAFONE,4G,upload,211,-77.0,UP East
+825,VODAFONE,4G,upload,1798,-77.0,UP East
+826,VODAFONE,4G,upload,813,,UP East
+827,VODAFONE,4G,upload,925,-75.0,UP East
+828,VODAFONE,4G,upload,475,-61.0,UP East
+829,VODAFONE,4G,upload,357,-71.0,UP East
+830,VODAFONE,4G,upload,489,-71.0,UP East
+831,VODAFONE,4G,upload,63,-67.0,UP East
+832,VODAFONE,4G,upload,580,,UP East
+833,VODAFONE,4G,upload,237,-77.0,UP East
+834,VODAFONE,4G,upload,227,-75.0,UP East
+835,VODAFONE,4G,upload,82,-83.0,UP East
+836,VODAFONE,4G,upload,53,-75.0,UP East
+837,VODAFONE,4G,upload,647,-79.0,UP East
+838,VODAFONE,4G,upload,376,-77.0,UP East
+839,VODAFONE,4G,upload,375,,UP East
+840,VODAFONE,4G,upload,941,-69.0,UP East
+841,VODAFONE,4G,upload,526,-67.0,UP East
+842,VODAFONE,4G,upload,863,-75.0,UP East
+843,VODAFONE,4G,upload,1120,-79.0,UP East
+844,VODAFONE,4G,upload,124,-75.0,UP East
+845,VODAFONE,4G,upload,117,-81.0,UP East
+846,VODAFONE,4G,upload,265,-69.0,UP East
+847,VODAFONE,4G,upload,482,-59.0,UP East
+848,VODAFONE,4G,upload,586,,UP East
+849,VODAFONE,4G,upload,1331,,UP East
+850,VODAFONE,4G,upload,869,-59.0,UP East
+851,VODAFONE,4G,upload,1268,-57.0,UP East
+852,VODAFONE,4G,upload,715,-61.0,UP East
+853,VODAFONE,4G,upload,68,-55.0,UP East
+854,VODAFONE,4G,upload,407,-73.0,UP East
+855,VODAFONE,4G,upload,484,-69.0,UP East
+856,VODAFONE,4G,upload,280,-77.0,UP East
+857,VODAFONE,4G,upload,224,-61.0,UP East
+858,VODAFONE,4G,upload,539,,UP East
+859,VODAFONE,4G,upload,524,-71.0,UP East
+860,VODAFONE,4G,upload,394,-71.0,UP East
+861,VODAFONE,4G,upload,765,-67.0,UP East
+862,VODAFONE,4G,upload,725,-79.0,UP East
+863,VODAFONE,4G,upload,171,,UP East
+864,VODAFONE,4G,upload,189,-79.0,UP East
+865,VODAFONE,4G,upload,380,-77.0,UP East
+866,VODAFONE,4G,upload,1069,-75.0,UP East
+867,VODAFONE,4G,upload,1076,-67.0,UP East
+868,VODAFONE,4G,upload,2618,-67.0,UP East
+869,VODAFONE,4G,upload,400,,UP East
+870,VODAFONE,4G,upload,518,-65.0,UP East
+871,VODAFONE,4G,upload,222,-77.0,UP East
+872,VODAFONE,4G,upload,817,-73.0,UP East
+873,VODAFONE,4G,upload,518,-73.0,UP East
+874,VODAFONE,4G,upload,381,-67.0,UP East
+875,VODAFONE,4G,upload,662,-61.0,UP East
+876,VODAFONE,4G,upload,381,-63.0,UP East
+877,VODAFONE,4G,upload,523,-59.0,UP East
+878,VODAFONE,4G,upload,1026,-61.0,UP East
+879,VODAFONE,4G,upload,184,-59.0,UP East
+880,VODAFONE,4G,upload,242,-73.0,UP East
+881,VODAFONE,4G,upload,28,-71.0,UP East
+882,VODAFONE,4G,upload,454,-73.0,UP East
+883,VODAFONE,4G,upload,447,-69.0,UP East
+884,VODAFONE,4G,upload,694,-71.0,UP East
+885,VODAFONE,4G,upload,303,-71.0,UP East
+886,VODAFONE,4G,upload,525,-67.0,UP East
+887,VODAFONE,4G,upload,849,-67.0,UP East
+888,VODAFONE,4G,upload,861,,UP East
+889,VODAFONE,4G,upload,575,-71.0,UP East
+890,VODAFONE,4G,upload,47,,UP East
+891,VODAFONE,4G,upload,426,-73.0,UP East
+892,VODAFONE,4G,upload,110,-69.0,UP East
+893,VODAFONE,4G,upload,161,-73.0,UP East
+894,VODAFONE,4G,upload,886,,UP East
+895,VODAFONE,4G,upload,690,-75.0,UP East
+896,VODAFONE,4G,upload,32,-77.0,UP East
+897,VODAFONE,4G,upload,668,-71.0,UP East
+898,VODAFONE,4G,upload,605,-71.0,UP East
+899,VODAFONE,4G,upload,1267,-57.0,UP East
+900,VODAFONE,4G,upload,674,-59.0,UP East
+901,VODAFONE,4G,upload,784,-57.0,UP East
+902,VODAFONE,4G,upload,340,-57.0,UP East
+903,VODAFONE,4G,upload,1188,-57.0,UP East
+904,VODAFONE,4G,upload,145,-61.0,UP East
+905,VODAFONE,4G,upload,379,-59.0,UP East
+906,VODAFONE,4G,upload,268,-59.0,UP East
+907,VODAFONE,4G,upload,289,-51.0,UP East
+908,VODAFONE,4G,upload,92,-57.0,UP East
+909,VODAFONE,4G,upload,550,-57.0,UP East
+910,VODAFONE,4G,upload,115,-57.0,UP East
+911,VODAFONE,4G,upload,222,-59.0,UP East
+912,VODAFONE,4G,upload,127,-59.0,UP East
+913,VODAFONE,4G,upload,132,-61.0,UP East
+914,VODAFONE,4G,upload,442,-55.0,UP East
+915,VODAFONE,4G,upload,408,-57.0,UP East
+916,VODAFONE,4G,upload,283,-57.0,UP East
+917,VODAFONE,4G,upload,114,-53.0,UP East
+918,VODAFONE,4G,upload,127,-55.0,UP East
+919,VODAFONE,4G,upload,53,-73.0,UP East
+920,VODAFONE,4G,upload,73,,UP East
+921,VODAFONE,4G,upload,675,-71.0,UP East
+922,VODAFONE,4G,upload,266,-67.0,UP East
+923,VODAFONE,4G,upload,102,-67.0,UP East
+924,VODAFONE,4G,upload,147,-75.0,UP East
+925,VODAFONE,4G,upload,87,,UP East
+926,VODAFONE,4G,upload,229,-67.0,UP East
+927,VODAFONE,4G,upload,174,-71.0,UP East
+928,VODAFONE,4G,upload,201,-69.0,UP East
+929,VODAFONE,4G,upload,358,-75.0,UP East
+930,VODAFONE,4G,upload,203,-75.0,UP East
+931,VODAFONE,4G,upload,292,,UP East
+932,VODAFONE,4G,upload,206,-73.0,UP East
+933,VODAFONE,4G,upload,6774,-65.0,UP East
+934,VODAFONE,4G,upload,1106,-73.0,UP East
+935,VODAFONE,4G,upload,3666,-69.0,UP East
+936,VODAFONE,4G,upload,56,,UP East
+937,VODAFONE,4G,upload,62,-79.0,UP East
+938,VODAFONE,4G,upload,67,,UP East
+939,VODAFONE,4G,upload,1035,-71.0,UP East
+940,VODAFONE,4G,upload,3122,-71.0,UP East
+941,VODAFONE,4G,upload,553,-75.0,UP East
+942,VODAFONE,4G,upload,2285,-69.0,UP East
+943,JIO,4G,download,441,-83.0,Madhya Pradesh
+944,JIO,4G,upload,30,-83.0,Madhya Pradesh
+945,JIO,4G,download,80312,-57.0,Gujarat
+946,JIO,4G,download,78307,-57.0,Gujarat
+947,JIO,4G,upload,8299,-57.0,Gujarat
+948,JIO,4G,upload,8264,-57.0,Gujarat
+949,AIRTEL,4G,upload,10504,-97.0,Tamil Nadu
+950,AIRTEL,4G,upload,4051,-108.0,Tamil Nadu
+951,AIRTEL,4G,upload,5134,-105.0,Tamil Nadu
+952,AIRTEL,4G,upload,11428,-100.0,Tamil Nadu
+953,AIRTEL,4G,download,32171,-61.0,Gujarat
+954,AIRTEL,4G,download,15279,-53.0,Gujarat
+955,AIRTEL,4G,upload,8751,-63.0,Gujarat
+956,AIRTEL,4G,upload,3640,-59.0,Gujarat
+957,JIO,4G,download,9509,-67.0,Orissa
+958,JIO,4G,upload,6741,-67.0,Orissa
+959,JIO,4G,upload,2120,-59.0,Karnataka
+960,JIO,4G,download,76145,-64.0,Rajasthan
+961,JIO,4G,download,76411,-64.0,Rajasthan
+962,JIO,4G,upload,5055,-64.0,Rajasthan
+963,JIO,4G,upload,7454,-64.0,Rajasthan
+964,JIO,4G,download,1814,-106.0,Karnataka
+965,JIO,4G,upload,968,-105.0,Karnataka
+966,JIO,4G,download,49265,-57.0,UP West
+967,JIO,4G,upload,8286,-57.0,UP West
+968,AIRTEL,4G,download,1821,-103.0,Rajasthan
+969,AIRTEL,4G,upload,1619,-103.0,Rajasthan
+970,JIO,4G,download,9463,-87.0,Karnataka
+971,JIO,4G,download,7387,-73.0,Karnataka
+972,JIO,4G,download,3270,-65.0,Karnataka
+973,JIO,4G,download,8518,-59.0,Karnataka
+974,JIO,4G,download,2981,-87.0,Karnataka
+975,JIO,4G,download,1201,-99.0,Karnataka
+976,JIO,4G,download,11503,-65.0,Karnataka
+977,JIO,4G,download,9512,-67.0,Karnataka
+978,JIO,4G,download,938,-71.0,Karnataka
+979,JIO,4G,download,331,-89.0,Karnataka
+980,JIO,4G,download,1002,-87.0,Karnataka
+981,JIO,4G,download,1671,-87.0,Karnataka
+982,JIO,4G,upload,77,-87.0,Karnataka
+983,JIO,4G,upload,1515,-73.0,Karnataka
+984,JIO,4G,upload,662,-65.0,Karnataka
+985,JIO,4G,upload,2058,-59.0,Karnataka
+986,JIO,4G,upload,553,-87.0,Karnataka
+987,JIO,4G,upload,134,-99.0,Karnataka
+988,JIO,4G,upload,1290,-65.0,Karnataka
+989,JIO,4G,upload,643,-69.0,Karnataka
+990,JIO,4G,upload,121,-73.0,Karnataka
+991,JIO,4G,upload,30,-89.0,Karnataka
+992,JIO,4G,upload,43,-89.0,Karnataka
+993,JIO,4G,upload,240,-87.0,Karnataka
+994,JIO,4G,upload,7917,-71.0,Rajasthan
+995,JIO,4G,upload,9028,-71.0,Rajasthan
+996,JIO,4G,upload,8723,-71.0,Rajasthan
+997,JIO,4G,download,80672,-60.0,UP West
+998,JIO,4G,upload,8455,-60.0,UP West
+999,AIRTEL,4G,download,9779,-51.0,Delhi
+1000,AIRTEL,4G,download,6362,-51.0,Delhi
+1001,AIRTEL,4G,upload,1769,-51.0,Delhi
+1002,AIRTEL,4G,upload,6566,-51.0,Delhi
+1003,IDEA,4G,upload,10695,-105.0,Maharashtra
+1004,JIO,4G,download,70433,-64.0,Orissa
+1005,JIO,4G,upload,8702,-64.0,Orissa
+1006,JIO,4G,download,12180,-110.0,Kerala
+1007,JIO,4G,upload,735,,Kerala
+1008,JIO,4G,download,31037,-62.0,Rajasthan
+1009,CELLONE,3G,download,2562,,Karnataka
+1010,CELLONE,3G,download,2277,,Karnataka
+1011,CELLONE,3G,download,907,,Karnataka
+1012,CELLONE,3G,download,938,,Karnataka
+1013,CELLONE,3G,download,815,,Karnataka
+1014,CELLONE,3G,download,1904,,Karnataka
+1015,CELLONE,3G,download,2634,,Karnataka
+1016,CELLONE,3G,download,4302,,Karnataka
+1017,CELLONE,3G,download,2446,,Karnataka
+1018,CELLONE,3G,download,4112,,Karnataka
+1019,CELLONE,3G,download,1921,,Karnataka
+1020,CELLONE,3G,download,8906,,Karnataka
+1021,CELLONE,3G,download,8842,,Karnataka
+1022,CELLONE,3G,download,2632,,Karnataka
+1023,CELLONE,3G,download,4523,,Karnataka
+1024,CELLONE,3G,download,4521,,Karnataka
+1025,CELLONE,3G,download,5124,,Karnataka
+1026,CELLONE,3G,download,5154,,Karnataka
+1027,CELLONE,3G,download,4156,,Karnataka
+1028,CELLONE,3G,download,4529,,Karnataka
+1029,CELLONE,3G,download,2646,,Karnataka
+1030,CELLONE,3G,download,930,,Karnataka
+1031,CELLONE,3G,download,1701,,Karnataka
+1032,CELLONE,3G,download,1079,,Karnataka
+1033,CELLONE,3G,download,1530,,Karnataka
+1034,CELLONE,3G,download,566,,Karnataka
+1035,CELLONE,3G,download,1120,,Karnataka
+1036,CELLONE,3G,download,688,,Karnataka
+1037,CELLONE,3G,upload,999,,Karnataka
+1038,CELLONE,3G,upload,1121,,Karnataka
+1039,CELLONE,3G,upload,265,,Karnataka
+1040,CELLONE,3G,upload,1045,,Karnataka
+1041,CELLONE,3G,upload,426,,Karnataka
+1042,CELLONE,3G,upload,229,,Karnataka
+1043,CELLONE,3G,upload,920,,Karnataka
+1044,CELLONE,3G,upload,919,,Karnataka
+1045,CELLONE,3G,upload,602,,Karnataka
+1046,CELLONE,3G,upload,358,,Karnataka
+1047,CELLONE,3G,upload,255,,Karnataka
+1048,CELLONE,3G,upload,1783,,Karnataka
+1049,CELLONE,3G,upload,941,,Karnataka
+1050,CELLONE,3G,upload,34,,Karnataka
+1051,CELLONE,3G,upload,179,,Karnataka
+1052,CELLONE,3G,upload,877,,Karnataka
+1053,CELLONE,3G,upload,483,,Karnataka
+1054,CELLONE,3G,upload,917,,Karnataka
+1055,CELLONE,3G,upload,596,,Karnataka
+1056,CELLONE,3G,upload,244,,Karnataka
+1057,CELLONE,3G,upload,214,,Karnataka
+1058,CELLONE,3G,upload,642,,Karnataka
+1059,CELLONE,3G,upload,527,,Karnataka
+1060,CELLONE,3G,upload,268,,Karnataka
+1061,CELLONE,3G,upload,346,,Karnataka
+1062,CELLONE,3G,upload,257,,Karnataka
+1063,CELLONE,3G,upload,648,,Karnataka
+1064,CELLONE,3G,upload,250,,Karnataka
+1065,AIRTEL,4G,download,11365,-101.0,Maharashtra
+1066,JIO,4G,download,966,-87.0,Kerala
+1067,JIO,4G,download,4475,-81.0,Kerala
+1068,JIO,4G,upload,24,-87.0,Kerala
+1069,JIO,4G,upload,1367,-81.0,Kerala
+1070,JIO,4G,download,61161,-71.0,Gujarat
+1071,JIO,4G,download,63089,-71.0,Gujarat
+1072,JIO,4G,upload,4469,-71.0,Gujarat
+1073,JIO,4G,upload,4717,-71.0,Gujarat
+1074,AIRTEL,4G,download,994,-89.0,Andhra Pradesh
+1075,AIRTEL,4G,download,5325,-104.0,Andhra Pradesh
+1076,AIRTEL,4G,upload,2,-89.0,Andhra Pradesh
+1077,AIRTEL,4G,upload,2131,-104.0,Andhra Pradesh
+1078,JIO,4G,download,4841,-95.0,UP West
+1079,JIO,4G,upload,510,-95.0,UP West
+1080,IDEA,4G,download,3290,,Maharashtra
+1081,JIO,4G,download,75667,-73.0,UP West
+1082,JIO,4G,upload,7100,-73.0,UP West
+1083,JIO,4G,download,80258,-71.0,Rajasthan
+1084,JIO,4G,download,1474,-51.0,Himachal Pradesh
+1085,JIO,4G,download,10531,-55.0,Himachal Pradesh
+1086,JIO,4G,upload,2067,-51.0,Himachal Pradesh
+1087,JIO,4G,upload,4959,-55.0,Himachal Pradesh
+1088,JIO,4G,download,42004,-108.0,UP East
+1089,JIO,4G,upload,9196,-108.0,UP East
+1090,JIO,4G,download,4002,-107.0,Rajasthan
+1091,JIO,4G,upload,3346,-107.0,Rajasthan
+1092,JIO,4G,download,6376,-93.0,UP East
+1093,JIO,4G,upload,637,-93.0,UP East
+1094,VODAFONE,4G,download,8663,-51.0,Chennai
+1095,VODAFONE,4G,upload,12967,-51.0,Chennai
+1096,AIRTEL,4G,download,33394,-89.0,Bihar
+1097,AIRTEL,4G,download,29563,-89.0,Bihar
+1098,AIRTEL,4G,download,50515,-88.0,Bihar
+1099,AIRTEL,4G,download,15213,-105.0,Bihar
+1100,AIRTEL,4G,download,5651,-89.0,Bihar
+1101,AIRTEL,4G,download,1878,-91.0,Bihar
+1102,AIRTEL,4G,download,1764,-91.0,Bihar
+1103,AIRTEL,4G,download,358,-101.0,Bihar
+1104,AIRTEL,4G,download,467,-95.0,Bihar
+1105,JIO,4G,download,3651,-69.0,Bihar
+1106,IDEA,4G,download,2767,-51.0,Bihar
+1107,JIO,4G,download,1101,-51.0,Bihar
+1108,JIO,4G,download,623,-51.0,Bihar
+1109,IDEA,4G,download,10,-51.0,Bihar
+1110,IDEA,4G,download,1366,-51.0,Bihar
+1111,JIO,4G,download,1788,-51.0,Bihar
+1112,JIO,4G,upload,157,-65.0,Bihar
+1113,IDEA,4G,upload,1540,-51.0,Bihar
+1114,JIO,4G,upload,50,-51.0,Bihar
+1115,JIO,4G,upload,59,-51.0,Bihar
+1116,IDEA,4G,upload,3647,-51.0,Bihar
+1117,IDEA,4G,upload,4419,-51.0,Bihar
+1118,JIO,4G,upload,2996,-51.0,Bihar
+1119,JIO,4G,download,786,,UP East
+1120,JIO,4G,download,20934,-106.0,UP East
+1121,JIO,4G,download,17345,-101.0,UP East
+1122,JIO,4G,upload,78,,UP East
+1123,JIO,4G,upload,1899,-106.0,UP East
+1124,JIO,4G,upload,573,-101.0,UP East
+1125,CELLONE,4G,download,537,-109.0,Tamil Nadu
+1126,CELLONE,4G,download,3451,-95.0,Tamil Nadu
+1127,CELLONE,4G,download,12354,-63.0,Tamil Nadu
+1128,CELLONE,4G,download,5331,-97.0,Tamil Nadu
+1129,CELLONE,4G,download,4031,-95.0,Tamil Nadu
+1130,CELLONE,4G,download,6477,-91.0,Tamil Nadu
+1131,CELLONE,4G,download,3614,,Tamil Nadu
+1132,CELLONE,4G,download,4194,-111.0,Tamil Nadu
+1133,CELLONE,4G,download,5452,-109.0,Tamil Nadu
+1134,CELLONE,4G,upload,206,-109.0,Tamil Nadu
+1135,CELLONE,4G,upload,4995,-95.0,Tamil Nadu
+1136,CELLONE,4G,upload,3153,-65.0,Tamil Nadu
+1137,CELLONE,4G,upload,3433,-95.0,Tamil Nadu
+1138,CELLONE,4G,upload,3710,-97.0,Tamil Nadu
+1139,CELLONE,4G,upload,3318,-97.0,Tamil Nadu
+1140,CELLONE,4G,upload,857,,Tamil Nadu
+1141,CELLONE,4G,upload,1867,-111.0,Tamil Nadu
+1142,CELLONE,4G,upload,638,-109.0,Tamil Nadu
+1143,JIO,4G,download,1944,,Madhya Pradesh
+1144,JIO,4G,download,1998,-63.0,Madhya Pradesh
+1145,JIO,4G,download,1338,-61.0,Madhya Pradesh
+1146,JIO,4G,download,1926,-63.0,Madhya Pradesh
+1147,JIO,4G,download,942,,Madhya Pradesh
+1148,JIO,4G,download,1514,-67.0,Madhya Pradesh
+1149,IDEA,4G,download,279,-71.0,Madhya Pradesh
+1150,IDEA,4G,download,2945,-65.0,Madhya Pradesh
+1151,IDEA,4G,download,863,-65.0,Madhya Pradesh
+1152,IDEA,4G,download,531,-67.0,Madhya Pradesh
+1153,IDEA,4G,download,4521,-65.0,Madhya Pradesh
+1154,IDEA,4G,download,1323,-67.0,Madhya Pradesh
+1155,IDEA,4G,download,4713,-75.0,Madhya Pradesh
+1156,IDEA,4G,download,8043,-67.0,Madhya Pradesh
+1157,IDEA,4G,download,7800,-65.0,Madhya Pradesh
+1158,IDEA,4G,download,2697,-69.0,Madhya Pradesh
+1159,IDEA,4G,download,5632,-65.0,Madhya Pradesh
+1160,IDEA,4G,download,4530,-67.0,Madhya Pradesh
+1161,IDEA,4G,download,5782,-65.0,Madhya Pradesh
+1162,IDEA,4G,download,5640,-65.0,Madhya Pradesh
+1163,IDEA,4G,download,3105,-67.0,Madhya Pradesh
+1164,IDEA,4G,download,2140,-63.0,Madhya Pradesh
+1165,IDEA,4G,download,2549,,Madhya Pradesh
+1166,IDEA,4G,download,1514,-63.0,Madhya Pradesh
+1167,IDEA,4G,download,2102,-61.0,Madhya Pradesh
+1168,IDEA,4G,download,1733,-63.0,Madhya Pradesh
+1169,JIO,4G,download,977,-59.0,Madhya Pradesh
+1170,JIO,4G,download,6476,-65.0,Madhya Pradesh
+1171,IDEA,4G,download,8703,-67.0,Madhya Pradesh
+1172,IDEA,4G,download,10469,-67.0,Madhya Pradesh
+1173,IDEA,4G,download,3206,-65.0,Madhya Pradesh
+1174,IDEA,4G,download,5068,-69.0,Madhya Pradesh
+1175,IDEA,4G,download,2008,-63.0,Madhya Pradesh
+1176,IDEA,4G,download,2208,-63.0,Madhya Pradesh
+1177,IDEA,4G,download,2910,-63.0,Madhya Pradesh
+1178,JIO,4G,download,5449,-61.0,Madhya Pradesh
+1179,JIO,4G,download,0,-63.0,Madhya Pradesh
+1180,JIO,4G,download,1579,-61.0,Madhya Pradesh
+1181,JIO,4G,download,1519,-63.0,Madhya Pradesh
+1182,JIO,4G,download,716,-63.0,Madhya Pradesh
+1183,IDEA,4G,download,2972,-63.0,Madhya Pradesh
+1184,IDEA,4G,download,9394,-59.0,Madhya Pradesh
+1185,IDEA,4G,download,7128,-67.0,Madhya Pradesh
+1186,IDEA,4G,download,30520,-57.0,Madhya Pradesh
+1187,JIO,4G,download,2935,-67.0,Madhya Pradesh
+1188,JIO,4G,download,3815,-65.0,Madhya Pradesh
+1189,JIO,4G,download,3547,-59.0,Madhya Pradesh
+1190,JIO,4G,download,1636,-63.0,Madhya Pradesh
+1191,JIO,4G,download,675,-61.0,Madhya Pradesh
+1192,JIO,4G,download,540,-61.0,Madhya Pradesh
+1193,JIO,4G,download,2494,-63.0,Madhya Pradesh
+1194,JIO,4G,download,1739,-61.0,Madhya Pradesh
+1195,JIO,4G,download,1231,-63.0,Madhya Pradesh
+1196,JIO,4G,download,743,-59.0,Madhya Pradesh
+1197,JIO,4G,download,5401,-61.0,Madhya Pradesh
+1198,JIO,4G,download,11015,-61.0,Madhya Pradesh
+1199,JIO,4G,upload,791,-65.0,Madhya Pradesh
+1200,JIO,4G,upload,2294,-63.0,Madhya Pradesh
+1201,JIO,4G,upload,3310,-61.0,Madhya Pradesh
+1202,JIO,4G,upload,204,-63.0,Madhya Pradesh
+1203,JIO,4G,upload,504,-67.0,Madhya Pradesh
+1204,JIO,4G,upload,720,-67.0,Madhya Pradesh
+1205,IDEA,4G,upload,74,-63.0,Madhya Pradesh
+1206,IDEA,4G,upload,38,-67.0,Madhya Pradesh
+1207,IDEA,4G,upload,1939,-69.0,Madhya Pradesh
+1208,IDEA,4G,upload,4966,-67.0,Madhya Pradesh
+1209,IDEA,4G,upload,5015,,Madhya Pradesh
+1210,IDEA,4G,upload,5253,-67.0,Madhya Pradesh
+1211,IDEA,4G,upload,5721,-65.0,Madhya Pradesh
+1212,IDEA,4G,upload,4233,-65.0,Madhya Pradesh
+1213,IDEA,4G,upload,3479,-65.0,Madhya Pradesh
+1214,IDEA,4G,upload,6885,-65.0,Madhya Pradesh
+1215,IDEA,4G,upload,17295,-65.0,Madhya Pradesh
+1216,IDEA,4G,upload,19964,-65.0,Madhya Pradesh
+1217,IDEA,4G,upload,20258,-65.0,Madhya Pradesh
+1218,IDEA,4G,upload,19490,-65.0,Madhya Pradesh
+1219,IDEA,4G,upload,13205,-65.0,Madhya Pradesh
+1220,IDEA,4G,upload,10736,-63.0,Madhya Pradesh
+1221,IDEA,4G,upload,21226,,Madhya Pradesh
+1222,IDEA,4G,upload,7785,-63.0,Madhya Pradesh
+1223,IDEA,4G,upload,12527,-61.0,Madhya Pradesh
+1224,IDEA,4G,upload,12043,,Madhya Pradesh
+1225,JIO,4G,upload,1666,-59.0,Madhya Pradesh
+1226,JIO,4G,upload,2039,-59.0,Madhya Pradesh
+1227,IDEA,4G,upload,327,-67.0,Madhya Pradesh
+1228,IDEA,4G,upload,9800,-67.0,Madhya Pradesh
+1229,IDEA,4G,upload,8953,-65.0,Madhya Pradesh
+1230,IDEA,4G,upload,8225,-69.0,Madhya Pradesh
+1231,IDEA,4G,upload,1395,-63.0,Madhya Pradesh
+1232,IDEA,4G,upload,1370,-65.0,Madhya Pradesh
+1233,IDEA,4G,upload,1840,-63.0,Madhya Pradesh
+1234,JIO,4G,upload,202,,Madhya Pradesh
+1235,JIO,4G,upload,860,-65.0,Madhya Pradesh
+1236,JIO,4G,upload,1794,-61.0,Madhya Pradesh
+1237,JIO,4G,upload,2651,-63.0,Madhya Pradesh
+1238,JIO,4G,upload,1187,,Madhya Pradesh
+1239,IDEA,4G,upload,8586,-63.0,Madhya Pradesh
+1240,IDEA,4G,upload,9439,-59.0,Madhya Pradesh
+1241,IDEA,4G,upload,9480,-67.0,Madhya Pradesh
+1242,IDEA,4G,upload,30026,-53.0,Madhya Pradesh
+1243,JIO,4G,upload,1186,-67.0,Madhya Pradesh
+1244,JIO,4G,upload,773,-67.0,Madhya Pradesh
+1245,JIO,4G,upload,430,-59.0,Madhya Pradesh
+1246,JIO,4G,upload,103,-63.0,Madhya Pradesh
+1247,JIO,4G,upload,48,-61.0,Madhya Pradesh
+1248,JIO,4G,upload,140,-59.0,Madhya Pradesh
+1249,JIO,4G,upload,2737,-61.0,Madhya Pradesh
+1250,JIO,4G,upload,588,-63.0,Madhya Pradesh
+1251,JIO,4G,upload,1911,-63.0,Madhya Pradesh
+1252,JIO,4G,upload,2675,-59.0,Madhya Pradesh
+1253,JIO,4G,upload,1311,-63.0,Madhya Pradesh
+1254,JIO,4G,upload,1901,-63.0,Madhya Pradesh
+1255,JIO,4G,download,306,-51.0,Bihar
+1256,JIO,4G,upload,58,-51.0,Bihar
+1257,JIO,4G,download,38988,-65.0,Gujarat
+1258,AIRTEL,4G,download,61,,UP West
+1259,AIRTEL,4G,download,2518,,UP West
+1260,AIRTEL,4G,upload,232,,UP West
+1261,AIRTEL,4G,upload,10300,,UP West
+1262,JIO,4G,upload,8557,-58.0,Rajasthan
+1263,JIO,4G,upload,8688,-58.0,Rajasthan
+1264,JIO,4G,upload,8478,-58.0,Rajasthan
+1265,JIO,4G,download,80401,-62.0,Gujarat
+1266,JIO,4G,upload,7435,-62.0,Gujarat
+1267,JIO,4G,download,39190,-63.0,Rajasthan
+1268,JIO,4G,upload,6989,-63.0,Rajasthan
+1269,JIO,4G,download,39670,-62.0,Rajasthan
+1270,JIO,4G,upload,7015,-62.0,Rajasthan
+1271,JIO,4G,download,4374,-106.0,Tamil Nadu
+1272,JIO,4G,download,3167,-106.0,Tamil Nadu
+1273,JIO,4G,upload,1314,-106.0,Tamil Nadu
+1274,JIO,4G,upload,1537,-106.0,Tamil Nadu
+1275,AIRTEL,4G,download,5464,-106.0,Kerala
+1276,JIO,4G,download,26,-79.0,West Bengal
+1277,JIO,4G,download,347,-87.0,West Bengal
+1278,JIO,4G,upload,373,-79.0,West Bengal
+1279,JIO,4G,upload,27,-83.0,West Bengal
+1280,AIRTEL,4G,upload,685,-83.0,UP West
+1281,AIRTEL,4G,upload,418,,UP West
+1282,AIRTEL,4G,download,12285,-99.0,Maharashtra
+1283,AIRTEL,4G,download,10413,-97.0,Maharashtra
+1284,AIRTEL,4G,download,14479,-100.0,Maharashtra
+1285,AIRTEL,4G,download,7792,-95.0,Maharashtra
+1286,AIRTEL,4G,download,541,-101.0,Maharashtra
+1287,AIRTEL,4G,download,8521,-95.0,Maharashtra
+1288,AIRTEL,4G,download,4608,-96.0,Maharashtra
+1289,AIRTEL,4G,download,3607,-94.0,Maharashtra
+1290,AIRTEL,4G,download,1517,-94.0,Maharashtra
+1291,AIRTEL,4G,download,397,-85.0,Maharashtra
+1292,AIRTEL,4G,download,1789,-97.0,Maharashtra
+1293,AIRTEL,4G,download,4323,-89.0,Maharashtra
+1294,AIRTEL,4G,download,6043,-97.0,Maharashtra
+1295,AIRTEL,4G,download,5691,-83.0,Maharashtra
+1296,AIRTEL,4G,download,5304,-108.0,Maharashtra
+1297,AIRTEL,4G,download,2439,-110.0,Maharashtra
+1298,AIRTEL,4G,download,4619,-103.0,Maharashtra
+1299,AIRTEL,4G,upload,16845,-97.0,Maharashtra
+1300,AIRTEL,4G,upload,23185,-96.0,Maharashtra
+1301,AIRTEL,4G,upload,9802,-104.0,Maharashtra
+1302,AIRTEL,4G,upload,31889,-95.0,Maharashtra
+1303,AIRTEL,4G,upload,5162,-96.0,Maharashtra
+1304,AIRTEL,4G,upload,13092,-98.0,Maharashtra
+1305,AIRTEL,4G,upload,14679,-98.0,Maharashtra
+1306,AIRTEL,4G,upload,19542,-96.0,Maharashtra
+1307,AIRTEL,4G,upload,1376,-94.0,Maharashtra
+1308,AIRTEL,4G,upload,783,-85.0,Maharashtra
+1309,AIRTEL,4G,upload,2434,-85.0,Maharashtra
+1310,AIRTEL,4G,upload,9497,-100.0,Maharashtra
+1311,AIRTEL,4G,upload,2619,-101.0,Maharashtra
+1312,AIRTEL,4G,upload,21345,-83.0,Maharashtra
+1313,AIRTEL,4G,upload,702,-105.0,Maharashtra
+1314,AIRTEL,4G,upload,751,-109.0,Maharashtra
+1315,AIRTEL,4G,upload,4295,-105.0,Maharashtra
+1316,JIO,4G,download,2880,-55.0,Kerala
+1317,JIO,4G,upload,117,-55.0,Kerala
+1318,AIRTEL,4G,download,343,-92.0,UP East
+1319,AIRTEL,4G,upload,417,-92.0,UP East
+1320,IDEA,4G,download,20733,-67.0,Madhya Pradesh
+1321,IDEA,4G,download,12517,-53.0,Bihar
+1322,IDEA,4G,upload,6663,-67.0,Madhya Pradesh
+1323,IDEA,4G,upload,13210,-53.0,Bihar
+1324,CELLONE,4G,download,1570,-87.0,Andhra Pradesh
+1325,CELLONE,4G,download,1403,-87.0,Andhra Pradesh
+1326,JIO,4G,download,11413,-87.0,Andhra Pradesh
+1327,CELLONE,4G,download,1249,,Andhra Pradesh
+1328,CELLONE,4G,upload,231,-89.0,Andhra Pradesh
+1329,CELLONE,4G,upload,562,,Andhra Pradesh
+1330,JIO,4G,upload,1492,-87.0,Andhra Pradesh
+1331,CELLONE,4G,upload,460,,Andhra Pradesh
+1332,JIO,4G,download,1933,,UP West
+1333,JIO,4G,download,14949,,UP West
+1334,JIO,4G,download,14491,,UP West
+1335,JIO,4G,download,6423,,UP West
+1336,JIO,4G,download,39753,,UP West
+1337,JIO,4G,download,1534,,UP West
+1338,JIO,4G,download,34733,,UP West
+1339,JIO,4G,download,25492,,UP West
+1340,JIO,4G,upload,986,,UP West
+1341,JIO,4G,upload,3340,,UP West
+1342,JIO,4G,upload,1721,,UP West
+1343,JIO,4G,upload,7745,,UP West
+1344,JIO,4G,upload,1496,,UP West
+1345,JIO,4G,upload,7476,,UP West
+1346,JIO,4G,upload,2000,,UP West
+1347,JIO,4G,upload,16154,,UP West
+1348,JIO,4G,download,78935,-58.0,Gujarat
+1349,JIO,4G,download,60000,-58.0,Orissa
+1350,JIO,4G,upload,3220,-58.0,Orissa
+1351,IDEA,4G,download,23707,-85.0,Andhra Pradesh
+1352,IDEA,4G,download,27356,-75.0,Andhra Pradesh
+1353,IDEA,4G,download,25983,-69.0,Andhra Pradesh
+1354,IDEA,4G,download,40754,-101.0,Andhra Pradesh
+1355,IDEA,4G,download,40505,-69.0,Andhra Pradesh
+1356,IDEA,4G,download,39697,-97.0,Andhra Pradesh
+1357,IDEA,4G,download,13339,-87.0,Andhra Pradesh
+1358,IDEA,4G,download,44485,-69.0,Andhra Pradesh
+1359,IDEA,4G,download,23327,-77.0,Andhra Pradesh
+1360,IDEA,4G,download,57308,-77.0,Andhra Pradesh
+1361,IDEA,4G,download,22550,-97.0,Andhra Pradesh
+1362,IDEA,4G,download,18519,-73.0,Andhra Pradesh
+1363,IDEA,4G,download,23789,-69.0,Andhra Pradesh
+1364,IDEA,4G,download,27023,-85.0,Andhra Pradesh
+1365,IDEA,4G,download,41166,-79.0,Andhra Pradesh
+1366,IDEA,4G,download,9088,-105.0,Andhra Pradesh
+1367,IDEA,4G,download,26001,-91.0,Andhra Pradesh
+1368,IDEA,4G,download,21727,-79.0,Andhra Pradesh
+1369,IDEA,4G,download,36725,-97.0,Andhra Pradesh
+1370,IDEA,4G,download,10765,-91.0,Andhra Pradesh
+1371,IDEA,4G,download,24131,-73.0,Andhra Pradesh
+1372,IDEA,4G,download,23956,-73.0,Andhra Pradesh
+1373,IDEA,4G,download,12685,-93.0,Andhra Pradesh
+1374,IDEA,4G,download,15699,-81.0,Andhra Pradesh
+1375,IDEA,4G,download,30156,-77.0,Andhra Pradesh
+1376,IDEA,4G,download,17302,-85.0,Andhra Pradesh
+1377,IDEA,4G,upload,12976,-77.0,Andhra Pradesh
+1378,IDEA,4G,upload,8593,-73.0,Andhra Pradesh
+1379,IDEA,4G,upload,14156,-67.0,Andhra Pradesh
+1380,IDEA,4G,upload,3026,-101.0,Andhra Pradesh
+1381,IDEA,4G,upload,8219,-71.0,Andhra Pradesh
+1382,IDEA,4G,upload,383,-97.0,Andhra Pradesh
+1383,IDEA,4G,upload,5146,-71.0,Andhra Pradesh
+1384,IDEA,4G,upload,6367,-77.0,Andhra Pradesh
+1385,IDEA,4G,upload,18016,-75.0,Andhra Pradesh
+1386,IDEA,4G,upload,17221,-75.0,Andhra Pradesh
+1387,IDEA,4G,upload,8647,-97.0,Andhra Pradesh
+1388,IDEA,4G,upload,3142,-73.0,Andhra Pradesh
+1389,IDEA,4G,upload,5818,-75.0,Andhra Pradesh
+1390,IDEA,4G,upload,1435,-85.0,Andhra Pradesh
+1391,IDEA,4G,upload,6018,-81.0,Andhra Pradesh
+1392,IDEA,4G,upload,536,-101.0,Andhra Pradesh
+1393,IDEA,4G,upload,620,-91.0,Andhra Pradesh
+1394,IDEA,4G,upload,537,-75.0,Andhra Pradesh
+1395,IDEA,4G,upload,6340,-97.0,Andhra Pradesh
+1396,IDEA,4G,upload,0,-91.0,Andhra Pradesh
+1397,IDEA,4G,upload,15539,-71.0,Andhra Pradesh
+1398,IDEA,4G,upload,15680,-69.0,Andhra Pradesh
+1399,IDEA,4G,upload,14757,-93.0,Andhra Pradesh
+1400,IDEA,4G,upload,6981,-81.0,Andhra Pradesh
+1401,IDEA,4G,upload,20829,-75.0,Andhra Pradesh
+1402,IDEA,4G,upload,11308,-67.0,Andhra Pradesh
+1403,JIO,4G,download,77195,-61.0,Orissa
+1404,JIO,4G,download,36534,-51.0,Assam
+1405,JIO,4G,upload,3092,-51.0,Assam
+1406,JIO,4G,download,11709,-60.0,UP West
+1407,JIO,4G,download,80180,-60.0,UP West
+1408,JIO,4G,download,5335,-61.0,Gujarat
+1409,JIO,4G,upload,6875,-61.0,Gujarat
+1410,JIO,4G,upload,6376,-63.0,Orissa
+1411,JIO,4G,download,36522,-72.0,Gujarat
+1412,JIO,4G,download,46280,-72.0,Gujarat
+1413,JIO,4G,download,2727,-95.0,UP East
+1414,JIO,4G,download,4214,-98.0,UP East
+1415,JIO,4G,download,1712,-100.0,UP East
+1416,JIO,4G,download,800,-96.0,UP East
+1417,JIO,4G,download,1923,-88.0,UP East
+1418,JIO,4G,download,6313,,UP East
+1419,JIO,4G,download,1194,,UP East
+1420,JIO,4G,upload,92,-95.0,UP East
+1421,JIO,4G,upload,2025,-98.0,UP East
+1422,JIO,4G,upload,872,-100.0,UP East
+1423,JIO,4G,upload,91,-96.0,UP East
+1424,JIO,4G,upload,1397,-89.0,UP East
+1425,JIO,4G,upload,5646,,UP East
+1426,JIO,4G,upload,3327,,UP East
+1427,JIO,4G,download,39205,-63.0,Gujarat
+1428,JIO,4G,download,9113,,Gujarat
+1429,JIO,4G,download,2509,,Gujarat
+1430,JIO,4G,download,7048,,Gujarat
+1431,JIO,4G,download,8454,,Gujarat
+1432,JIO,4G,upload,951,,Gujarat
+1433,JIO,4G,upload,1188,,Gujarat
+1434,JIO,4G,upload,1164,,Gujarat
+1435,JIO,4G,upload,1845,,Gujarat
+1436,JIO,4G,download,80203,-61.0,UP West
+1437,JIO,4G,upload,8704,-61.0,UP West
+1438,JIO,4G,download,47494,-60.0,UP West
+1439,JIO,4G,upload,8107,-60.0,UP West
+1440,JIO,4G,download,56414,-70.0,Rajasthan
+1441,JIO,4G,download,50695,-70.0,Rajasthan
+1442,JIO,4G,download,80141,-72.0,Rajasthan
+1443,JIO,4G,download,57440,-72.0,Rajasthan
+1444,JIO,4G,download,50995,-70.0,Rajasthan
+1445,JIO,4G,upload,6114,-70.0,Rajasthan
+1446,JIO,4G,upload,5650,-70.0,Rajasthan
+1447,JIO,4G,upload,7206,-72.0,Rajasthan
+1448,JIO,4G,upload,8143,-72.0,Rajasthan
+1449,JIO,4G,upload,7986,-70.0,Rajasthan
+1450,IDEA,3G,download,1046,,Kerala
+1451,IDEA,3G,upload,1280,,Kerala
+1452,JIO,4G,download,18510,-79.0,Kerala
+1453,JIO,4G,download,18498,-65.0,Kerala
+1454,JIO,4G,download,22923,-83.0,Kerala
+1455,JIO,4G,download,8389,-73.0,Kerala
+1456,JIO,4G,download,3445,-79.0,Kerala
+1457,JIO,4G,download,36760,-51.0,Kerala
+1458,JIO,4G,download,13247,-79.0,Kerala
+1459,JIO,4G,download,9727,-81.0,Kerala
+1460,JIO,4G,download,8447,-61.0,Kerala
+1461,JIO,4G,upload,803,-79.0,Kerala
+1462,JIO,4G,upload,1350,-69.0,Kerala
+1463,JIO,4G,upload,724,-85.0,Kerala
+1464,JIO,4G,upload,1036,-75.0,Kerala
+1465,JIO,4G,upload,619,-77.0,Kerala
+1466,JIO,4G,upload,920,-61.0,Kerala
+1467,JIO,4G,upload,196,-81.0,Kerala
+1468,JIO,4G,upload,171,-81.0,Kerala
+1469,JIO,4G,upload,539,-63.0,Kerala
+1470,JIO,4G,download,41739,-71.0,Rajasthan
+1471,JIO,4G,upload,8267,-71.0,Rajasthan
+1472,JIO,4G,download,15,-65.0,Bihar
+1473,JIO,4G,upload,888,-69.0,Bihar
+1474,JIO,4G,download,4707,-51.0,UP East
+1475,JIO,4G,download,10413,-51.0,UP East
+1476,JIO,4G,download,783,-67.0,UP East
+1477,JIO,4G,download,9247,-51.0,UP East
+1478,JIO,4G,download,4567,-51.0,UP East
+1479,JIO,4G,download,677,-65.0,UP East
+1480,JIO,4G,download,22052,-61.0,UP East
+1481,JIO,4G,download,16506,-51.0,UP East
+1482,JIO,4G,download,5668,-61.0,UP East
+1483,JIO,4G,download,5764,-51.0,UP East
+1484,JIO,4G,download,4989,-51.0,UP East
+1485,JIO,4G,download,1278,-61.0,UP East
+1486,JIO,4G,download,1688,-51.0,UP East
+1487,JIO,4G,upload,7392,-51.0,UP East
+1488,JIO,4G,upload,6705,-51.0,UP East
+1489,JIO,4G,upload,1022,-67.0,UP East
+1490,JIO,4G,upload,5089,-51.0,UP East
+1491,JIO,4G,upload,13026,-51.0,UP East
+1492,JIO,4G,upload,1609,-63.0,UP East
+1493,JIO,4G,upload,16947,-61.0,UP East
+1494,JIO,4G,upload,15122,-55.0,UP East
+1495,JIO,4G,upload,1867,-61.0,UP East
+1496,JIO,4G,upload,4271,-51.0,UP East
+1497,JIO,4G,upload,573,-51.0,UP East
+1498,JIO,4G,upload,1319,-57.0,UP East
+1499,JIO,4G,upload,6224,-51.0,UP East
+1500,JIO,4G,download,271,,Gujarat
+1501,JIO,4G,upload,87,-81.0,Gujarat
+1502,JIO,4G,download,670,-57.0,Haryana
+1503,JIO,4G,upload,2292,-57.0,Haryana
+1504,JIO,4G,download,5707,-105.0,Tamil Nadu
+1505,JIO,4G,download,17583,-104.0,Tamil Nadu
+1506,JIO,4G,download,19462,-105.0,Tamil Nadu
+1507,JIO,4G,download,6245,-100.0,Tamil Nadu
+1508,JIO,4G,download,10187,-108.0,Tamil Nadu
+1509,JIO,4G,download,5002,-102.0,Tamil Nadu
+1510,JIO,4G,download,2310,,Tamil Nadu
+1511,JIO,4G,download,3094,,Tamil Nadu
+1512,JIO,4G,download,5920,-103.0,Tamil Nadu
+1513,JIO,4G,download,4504,,Tamil Nadu
+1514,JIO,4G,download,3837,-107.0,Tamil Nadu
+1515,JIO,4G,download,4949,-109.0,Tamil Nadu
+1516,JIO,4G,download,17084,-92.0,Tamil Nadu
+1517,JIO,4G,upload,334,-105.0,Tamil Nadu
+1518,JIO,4G,upload,438,-106.0,Tamil Nadu
+1519,JIO,4G,upload,558,-103.0,Tamil Nadu
+1520,JIO,4G,upload,382,-100.0,Tamil Nadu
+1521,JIO,4G,upload,366,-111.0,Tamil Nadu
+1522,JIO,4G,upload,329,-100.0,Tamil Nadu
+1523,JIO,4G,upload,45,,Tamil Nadu
+1524,JIO,4G,upload,58,,Tamil Nadu
+1525,JIO,4G,upload,370,-103.0,Tamil Nadu
+1526,JIO,4G,upload,65,,Tamil Nadu
+1527,JIO,4G,upload,458,-102.0,Tamil Nadu
+1528,JIO,4G,upload,620,-109.0,Tamil Nadu
+1529,JIO,4G,upload,1150,-93.0,Tamil Nadu
+1530,JIO,4G,download,5653,-101.0,Himachal Pradesh
+1531,JIO,4G,upload,1067,-97.0,Himachal Pradesh
+1532,JIO,4G,download,52104,-71.0,Rajasthan
+1533,JIO,4G,download,52632,-71.0,Rajasthan
+1534,JIO,4G,download,49925,-71.0,Rajasthan
+1535,JIO,4G,upload,5269,-71.0,Rajasthan
+1536,JIO,4G,upload,5061,-71.0,Rajasthan
+1537,JIO,4G,upload,6288,-71.0,Rajasthan
+1538,JIO,4G,download,78116,-66.0,Orissa
+1539,JIO,4G,upload,8847,-66.0,Orissa
+1540,JIO,4G,download,874,,Rajasthan
+1541,JIO,4G,download,1473,,Rajasthan
+1542,JIO,4G,download,999,,Rajasthan
+1543,JIO,4G,download,986,-109.0,Rajasthan
+1544,JIO,4G,download,3615,,Rajasthan
+1545,JIO,4G,download,1057,,Rajasthan
+1546,JIO,4G,download,1112,,Rajasthan
+1547,JIO,4G,download,1698,,Rajasthan
+1548,JIO,4G,download,3028,,Rajasthan
+1549,JIO,4G,download,4088,-109.0,Rajasthan
+1550,JIO,4G,upload,236,,Rajasthan
+1551,JIO,4G,upload,555,-112.0,Rajasthan
+1552,JIO,4G,upload,92,,Rajasthan
+1553,JIO,4G,upload,2419,-109.0,Rajasthan
+1554,JIO,4G,upload,201,,Rajasthan
+1555,JIO,4G,upload,115,,Rajasthan
+1556,JIO,4G,upload,2505,,Rajasthan
+1557,JIO,4G,upload,386,,Rajasthan
+1558,JIO,4G,upload,586,,Rajasthan
+1559,JIO,4G,upload,306,-109.0,Rajasthan
+1560,VODAFONE,4G,download,14701,,UP East
+1561,VODAFONE,4G,download,14862,,UP East
+1562,VODAFONE,4G,upload,1203,,UP East
+1563,VODAFONE,4G,upload,1038,,UP East
+1564,JIO,4G,download,54,-67.0,Himachal Pradesh
+1565,JIO,4G,download,144,-65.0,Himachal Pradesh
+1566,JIO,4G,download,343,-65.0,Himachal Pradesh
+1567,JIO,4G,download,161,-65.0,Himachal Pradesh
+1568,JIO,4G,upload,1337,-65.0,Himachal Pradesh
+1569,JIO,4G,upload,859,-65.0,Himachal Pradesh
+1570,JIO,4G,upload,1266,-65.0,Himachal Pradesh
+1571,JIO,4G,upload,1062,-65.0,Himachal Pradesh
+1572,JIO,4G,download,16544,-58.0,Rajasthan
+1573,CELLONE,4G,download,4666,-99.0,Kerala
+1574,CELLONE,4G,download,1931,-107.0,Kerala
+1575,CELLONE,4G,download,3860,-85.0,Kerala
+1576,CELLONE,4G,download,930,-101.0,Kerala
+1577,CELLONE,4G,download,2529,-101.0,Kerala
+1578,CELLONE,4G,download,14772,,Kerala
+1579,CELLONE,4G,download,3043,-105.0,Kerala
+1580,CELLONE,4G,download,1994,-103.0,Kerala
+1581,CELLONE,3G,download,741,,Kerala
+1582,CELLONE,3G,download,1116,,Kerala
+1583,CELLONE,4G,download,1908,-103.0,Kerala
+1584,CELLONE,4G,download,2904,-99.0,Kerala
+1585,CELLONE,4G,download,24,-101.0,Kerala
+1586,CELLONE,4G,download,1102,-97.0,Kerala
+1587,CELLONE,4G,download,1111,-107.0,Kerala
+1588,CELLONE,4G,download,2888,-99.0,Kerala
+1589,CELLONE,4G,download,1294,-89.0,Kerala
+1590,CELLONE,4G,download,478,-111.0,Kerala
+1591,CELLONE,4G,download,921,-97.0,Kerala
+1592,CELLONE,4G,download,968,-87.0,Kerala
+1593,CELLONE,4G,download,1806,-95.0,Kerala
+1594,CELLONE,4G,download,2711,-105.0,Kerala
+1595,CELLONE,4G,download,5729,-91.0,Kerala
+1596,CELLONE,4G,download,1219,-107.0,Kerala
+1597,CELLONE,4G,upload,4884,-99.0,Kerala
+1598,CELLONE,4G,upload,1794,-105.0,Kerala
+1599,CELLONE,4G,upload,3655,-85.0,Kerala
+1600,CELLONE,4G,upload,2035,-103.0,Kerala
+1601,CELLONE,4G,upload,2136,-99.0,Kerala
+1602,CELLONE,4G,upload,1541,,Kerala
+1603,CELLONE,4G,upload,1546,-105.0,Kerala
+1604,CELLONE,4G,upload,1987,-103.0,Kerala
+1605,CELLONE,3G,upload,1750,,Kerala
+1606,CELLONE,3G,upload,1239,,Kerala
+1607,CELLONE,4G,upload,2035,-103.0,Kerala
+1608,CELLONE,4G,upload,3764,-101.0,Kerala
+1609,CELLONE,4G,upload,5434,-101.0,Kerala
+1610,CELLONE,4G,upload,1238,-103.0,Kerala
+1611,CELLONE,4G,upload,149,-107.0,Kerala
+1612,CELLONE,4G,upload,1170,-101.0,Kerala
+1613,CELLONE,4G,upload,5532,-87.0,Kerala
+1614,CELLONE,4G,upload,268,,Kerala
+1615,CELLONE,4G,upload,2534,-99.0,Kerala
+1616,CELLONE,4G,upload,1488,-99.0,Kerala
+1617,CELLONE,4G,upload,3623,-93.0,Kerala
+1618,CELLONE,4G,upload,388,-99.0,Kerala
+1619,CELLONE,4G,upload,6127,-91.0,Kerala
+1620,CELLONE,4G,upload,311,-109.0,Kerala
+1621,AIRTEL,4G,upload,11745,-86.0,Madhya Pradesh
+1622,JIO,4G,download,7510,-79.0,Delhi
+1623,JIO,4G,upload,9359,-81.0,Delhi
+1624,JIO,4G,download,2353,-103.0,Rajasthan
+1625,JIO,4G,download,3178,,Rajasthan
+1626,JIO,4G,download,3859,-100.0,Rajasthan
+1627,JIO,4G,download,3135,-108.0,Rajasthan
+1628,AIRTEL,4G,download,273,-90.0,North East
+1629,AIRTEL,4G,download,4721,,West Bengal
+1630,AIRTEL,4G,download,2595,-97.0,West Bengal
+1631,AIRTEL,4G,download,1187,-79.0,West Bengal
+1632,AIRTEL,4G,upload,4,-96.0,North East
+1633,AIRTEL,4G,upload,331,,West Bengal
+1634,AIRTEL,4G,upload,0,-97.0,West Bengal
+1635,AIRTEL,4G,upload,449,-85.0,West Bengal
+1636,AIRTEL,4G,download,12830,,Andhra Pradesh
+1637,AIRTEL,4G,download,14252,-106.0,Andhra Pradesh
+1638,AIRTEL,4G,upload,2849,,Andhra Pradesh
+1639,AIRTEL,4G,upload,6871,-105.0,Andhra Pradesh
+1640,JIO,4G,upload,8282,-58.0,Rajasthan
+1641,VODAFONE,4G,download,21867,-57.0,Kolkata
+1642,VODAFONE,4G,download,42836,-53.0,Kolkata
+1643,VODAFONE,4G,download,10549,-67.0,Kolkata
+1644,VODAFONE,4G,download,3594,-75.0,Kolkata
+1645,JIO,4G,download,3484,,Kerala
+1646,JIO,4G,upload,7348,-62.0,Orissa
+1647,AIRTEL,4G,download,135,-101.0,Gujarat
+1648,AIRTEL,4G,upload,1116,,UP East
+1649,AIRTEL,4G,upload,690,-75.0,UP East
+1650,AIRTEL,4G,upload,810,-75.0,UP East
+1651,AIRTEL,4G,download,5146,-91.0,Tamil Nadu
+1652,AIRTEL,4G,download,20461,-95.0,Tamil Nadu
+1653,AIRTEL,4G,upload,3737,-82.0,Tamil Nadu
+1654,AIRTEL,4G,upload,1463,-93.0,Tamil Nadu
+1655,JIO,4G,upload,8614,-59.0,Gujarat
+1656,JIO,4G,upload,8460,-59.0,Gujarat
+1657,JIO,4G,download,3107,-59.0,Tamil Nadu
+1658,JIO,4G,upload,2902,-59.0,Tamil Nadu
+1659,AIRTEL,4G,download,11526,-75.0,Kerala
+1660,AIRTEL,4G,download,15122,-71.0,Kerala
+1661,AIRTEL,4G,download,13442,-75.0,Kerala
+1662,AIRTEL,4G,download,6138,-75.0,Kerala
+1663,AIRTEL,4G,download,12311,-73.0,Kerala
+1664,JIO,4G,download,834,-103.0,Maharashtra
+1665,JIO,4G,download,2604,-100.0,Maharashtra
+1666,JIO,4G,upload,14,-103.0,Maharashtra
+1667,JIO,4G,upload,1099,-100.0,Maharashtra
+1668,CELLONE,3G,download,3426,-57.0,Tamil Nadu
+1669,CELLONE,3G,upload,1365,-57.0,Tamil Nadu
+1670,JIO,4G,download,917,-103.0,Karnataka
+1671,JIO,4G,download,114,-102.0,Karnataka
+1672,JIO,4G,upload,1118,-103.0,Karnataka
+1673,JIO,4G,upload,373,-101.0,Karnataka
+1674,JIO,4G,download,2497,-107.0,Kolkata
+1675,JIO,4G,download,12892,-91.0,Kolkata
+1676,JIO,4G,download,10537,-91.0,Kolkata
+1677,JIO,4G,download,3475,-107.0,Kolkata
+1678,JIO,4G,upload,2476,-109.0,Kolkata
+1679,JIO,4G,upload,19201,-91.0,Kolkata
+1680,JIO,4G,upload,17930,-91.0,Kolkata
+1681,JIO,4G,upload,4420,-107.0,Kolkata
+1682,IDEA,4G,upload,6237,-103.0,Maharashtra
+1683,IDEA,4G,upload,6185,-105.0,Maharashtra
+1684,IDEA,4G,upload,790,-111.0,Maharashtra
+1685,JIO,4G,download,4193,-77.0,Kerala
+1686,JIO,4G,upload,618,,Kerala
+1687,JIO,4G,download,45092,-51.0,Chennai
+1688,JIO,4G,download,43099,-71.0,Chennai
+1689,JIO,4G,download,6946,-67.0,Chennai
+1690,AIRTEL,4G,download,2867,-77.0,Chennai
+1691,AIRTEL,4G,download,3848,-71.0,Chennai
+1692,JIO,4G,download,24361,-55.0,Tamil Nadu
+1693,JIO,4G,download,15626,-67.0,Tamil Nadu
+1694,JIO,4G,download,20026,-65.0,Tamil Nadu
+1695,JIO,4G,download,23,-59.0,Tamil Nadu
+1696,JIO,4G,upload,3869,-51.0,Chennai
+1697,JIO,4G,upload,2012,-71.0,Chennai
+1698,JIO,4G,upload,3443,-67.0,Chennai
+1699,AIRTEL,4G,upload,3751,-83.0,Chennai
+1700,AIRTEL,4G,upload,1487,-73.0,Chennai
+1701,JIO,4G,upload,7511,-51.0,Tamil Nadu
+1702,JIO,4G,upload,1812,-67.0,Tamil Nadu
+1703,JIO,4G,upload,2518,-65.0,Tamil Nadu
+1704,JIO,4G,upload,3158,-59.0,Tamil Nadu
+1705,JIO,4G,download,39341,-61.0,Rajasthan
+1706,JIO,4G,upload,7112,-61.0,Rajasthan
+1707,IDEA,4G,download,23272,-69.0,Maharashtra
+1708,IDEA,4G,upload,4257,-69.0,Maharashtra
+1709,AIRTEL,4G,download,10651,-73.0,Bihar
+1710,AIRTEL,4G,upload,3655,,Bihar
+1711,JIO,4G,download,14242,-107.0,Rajasthan
+1712,JIO,4G,upload,4436,-107.0,Rajasthan
+1713,JIO,4G,upload,2881,-63.0,UP East
+1714,JIO,4G,upload,1778,-69.0,UP East
+1715,JIO,4G,upload,2079,-73.0,UP East
+1716,JIO,4G,upload,2723,-75.0,UP East
+1717,AIRTEL,4G,download,820,-97.0,Tamil Nadu
+1718,AIRTEL,4G,download,2159,-97.0,Tamil Nadu
+1719,AIRTEL,4G,download,4556,-105.0,Tamil Nadu
+1720,AIRTEL,4G,upload,8299,-95.0,Tamil Nadu
+1721,AIRTEL,4G,upload,7948,-101.0,Tamil Nadu
+1722,AIRTEL,4G,upload,11284,-95.0,Tamil Nadu
+1723,AIRTEL,4G,download,50446,-57.0,Maharashtra
+1724,AIRTEL,4G,download,23183,-51.0,Maharashtra
+1725,AIRTEL,4G,upload,8384,-61.0,Maharashtra
+1726,AIRTEL,4G,upload,25944,-51.0,Maharashtra
+1727,JIO,4G,download,2893,-81.0,Madhya Pradesh
+1728,JIO,4G,upload,1333,-81.0,Madhya Pradesh
+1729,AIRTEL,4G,download,13385,-67.0,Bihar
+1730,AIRTEL,4G,download,8125,-67.0,Bihar
+1731,AIRTEL,4G,download,13816,-67.0,Bihar
+1732,AIRTEL,4G,upload,660,-71.0,Bihar
+1733,AIRTEL,4G,upload,841,-75.0,Bihar
+1734,AIRTEL,4G,upload,493,-73.0,Bihar
+1735,JIO,4G,download,79251,-57.0,Orissa
+1736,JIO,4G,download,77771,-57.0,Orissa
+1737,JIO,4G,download,65467,-57.0,Orissa
+1738,JIO,4G,download,76828,-57.0,Orissa
+1739,JIO,4G,upload,8219,-57.0,Orissa
+1740,JIO,4G,upload,8527,-57.0,Orissa
+1741,JIO,4G,upload,6751,-57.0,Orissa
+1742,JIO,4G,upload,8588,-57.0,Orissa
+1743,IDEA,4G,download,17881,-84.0,Madhya Pradesh
+1744,IDEA,4G,download,17633,-86.0,Madhya Pradesh
+1745,IDEA,4G,upload,9558,-84.0,Madhya Pradesh
+1746,IDEA,4G,upload,8822,-90.0,Madhya Pradesh
+1747,JIO,4G,download,39285,-65.0,Rajasthan
+1748,JIO,4G,upload,6453,-65.0,Rajasthan
+1749,JIO,4G,download,40333,-71.0,Rajasthan
+1750,JIO,4G,download,43411,-71.0,Rajasthan
+1751,JIO,4G,upload,5218,-71.0,Rajasthan
+1752,JIO,4G,upload,5594,-71.0,Rajasthan
+1753,VODAFONE,4G,download,7515,-63.0,Maharashtra
+1754,JIO,4G,download,3264,-65.0,Maharashtra
+1755,JIO,4G,download,4570,-57.0,Maharashtra
+1756,VODAFONE,4G,download,9392,-51.0,Maharashtra
+1757,JIO,4G,download,1765,-59.0,Maharashtra
+1758,JIO,4G,download,8533,-59.0,Maharashtra
+1759,VODAFONE,4G,upload,7860,-67.0,Maharashtra
+1760,JIO,4G,upload,2313,-65.0,Maharashtra
+1761,JIO,4G,upload,651,-57.0,Maharashtra
+1762,VODAFONE,4G,upload,7982,-51.0,Maharashtra
+1763,JIO,4G,upload,4334,-59.0,Maharashtra
+1764,JIO,4G,upload,4348,-61.0,Maharashtra
+1765,JIO,4G,download,80441,-71.0,Rajasthan
+1766,JIO,4G,download,80570,-71.0,Rajasthan
+1767,JIO,4G,download,80040,-71.0,Rajasthan
+1768,JIO,4G,upload,8158,-71.0,Rajasthan
+1769,JIO,4G,upload,8700,-71.0,Rajasthan
+1770,JIO,4G,upload,7582,-71.0,Rajasthan
+1771,JIO,4G,download,80591,-71.0,Rajasthan
+1772,JIO,4G,upload,8653,-71.0,Rajasthan
+1773,CELLONE,3G,download,565,,Kerala
+1774,CELLONE,3G,upload,1385,,Kerala
+1775,VODAFONE,4G,download,10822,-82.0,Mumbai
+1776,VODAFONE,4G,download,6846,-100.0,Mumbai
+1777,VODAFONE,4G,download,4787,-96.0,Mumbai
+1778,VODAFONE,4G,download,7156,-95.0,Mumbai
+1779,VODAFONE,4G,upload,4,-82.0,Mumbai
+1780,VODAFONE,4G,upload,3965,-91.0,Mumbai
+1781,VODAFONE,4G,upload,1491,-96.0,Mumbai
+1782,VODAFONE,4G,upload,7364,-96.0,Mumbai
+1783,AIRTEL,4G,download,22010,-93.0,Bihar
+1784,AIRTEL,4G,upload,26,-93.0,Bihar
+1785,JIO,4G,download,80273,-61.0,Madhya Pradesh
+1786,JIO,4G,download,80641,-61.0,Madhya Pradesh
+1787,JIO,4G,download,80714,-61.0,Madhya Pradesh
+1788,JIO,4G,upload,8596,-61.0,Madhya Pradesh
+1789,JIO,4G,upload,8777,-61.0,Madhya Pradesh
+1790,JIO,4G,upload,8734,-61.0,Madhya Pradesh
+1791,JIO,4G,download,59461,-67.0,Delhi
+1792,JIO,4G,upload,7887,-67.0,Delhi
+1793,JIO,4G,download,4099,-69.0,West Bengal
+1794,JIO,4G,download,204,-71.0,West Bengal
+1795,JIO,4G,download,421,-67.0,West Bengal
+1796,JIO,4G,download,1069,-67.0,West Bengal
+1797,JIO,4G,download,1434,-65.0,West Bengal
+1798,JIO,4G,download,1991,-63.0,West Bengal
+1799,JIO,4G,download,2641,-71.0,West Bengal
+1800,JIO,4G,upload,920,-69.0,West Bengal
+1801,JIO,4G,upload,1209,-71.0,West Bengal
+1802,JIO,4G,upload,585,-67.0,West Bengal
+1803,JIO,4G,upload,1966,-69.0,West Bengal
+1804,JIO,4G,upload,1658,-65.0,West Bengal
+1805,JIO,4G,upload,12484,-63.0,West Bengal
+1806,JIO,4G,upload,2172,-71.0,West Bengal
+1807,CELLONE,3G,download,279,,Tamil Nadu
+1808,JIO,4G,download,1852,,Chennai
+1809,JIO,4G,download,1177,,Chennai
+1810,JIO,4G,download,1166,,Tamil Nadu
+1811,JIO,4G,download,1143,,Tamil Nadu
+1812,JIO,4G,download,1415,,Tamil Nadu
+1813,JIO,4G,download,1316,,Tamil Nadu
+1814,JIO,4G,download,939,,Tamil Nadu
+1815,CELLONE,3G,download,248,,Tamil Nadu
+1816,CELLONE,3G,download,820,,Tamil Nadu
+1817,CELLONE,3G,download,343,,Tamil Nadu
+1818,CELLONE,3G,download,312,,Tamil Nadu
+1819,CELLONE,3G,download,309,,Tamil Nadu
+1820,CELLONE,3G,download,417,,Tamil Nadu
+1821,CELLONE,3G,download,342,,Tamil Nadu
+1822,CELLONE,3G,download,454,,Tamil Nadu
+1823,CELLONE,3G,download,689,,Tamil Nadu
+1824,CELLONE,3G,download,761,,Tamil Nadu
+1825,CELLONE,3G,download,665,,Tamil Nadu
+1826,CELLONE,3G,download,860,,Tamil Nadu
+1827,CELLONE,3G,download,2865,,Tamil Nadu
+1828,CELLONE,3G,download,1209,,Tamil Nadu
+1829,CELLONE,3G,download,904,,Tamil Nadu
+1830,CELLONE,3G,download,1878,,Tamil Nadu
+1831,CELLONE,3G,download,2941,,Tamil Nadu
+1832,CELLONE,3G,download,2908,,Tamil Nadu
+1833,CELLONE,3G,download,4404,,Tamil Nadu
+1834,CELLONE,3G,download,786,,Tamil Nadu
+1835,CELLONE,3G,download,665,,Tamil Nadu
+1836,CELLONE,3G,download,385,,Tamil Nadu
+1837,CELLONE,3G,download,640,,Tamil Nadu
+1838,CELLONE,3G,download,2233,,Tamil Nadu
+1839,CELLONE,3G,download,1514,,Tamil Nadu
+1840,CELLONE,3G,upload,240,,Tamil Nadu
+1841,JIO,4G,upload,2239,,Chennai
+1842,JIO,4G,upload,1479,,Chennai
+1843,JIO,4G,upload,50,,Tamil Nadu
+1844,JIO,4G,upload,54,,Tamil Nadu
+1845,JIO,4G,upload,31,,Tamil Nadu
+1846,JIO,4G,upload,32,,Tamil Nadu
+1847,JIO,4G,upload,37,,Tamil Nadu
+1848,CELLONE,3G,upload,136,,Tamil Nadu
+1849,CELLONE,3G,upload,287,,Tamil Nadu
+1850,CELLONE,3G,upload,1646,,Tamil Nadu
+1851,CELLONE,3G,upload,1787,,Tamil Nadu
+1852,CELLONE,3G,upload,1581,,Tamil Nadu
+1853,CELLONE,3G,upload,1488,,Tamil Nadu
+1854,CELLONE,3G,upload,1480,,Tamil Nadu
+1855,CELLONE,3G,upload,1648,,Tamil Nadu
+1856,CELLONE,3G,upload,1707,,Tamil Nadu
+1857,CELLONE,3G,upload,1645,,Tamil Nadu
+1858,CELLONE,3G,upload,1750,,Tamil Nadu
+1859,CELLONE,3G,upload,1609,,Tamil Nadu
+1860,CELLONE,3G,upload,1356,,Tamil Nadu
+1861,CELLONE,3G,upload,1543,,Tamil Nadu
+1862,CELLONE,3G,upload,1637,,Tamil Nadu
+1863,CELLONE,3G,upload,1147,,Tamil Nadu
+1864,CELLONE,3G,upload,1578,,Tamil Nadu
+1865,CELLONE,3G,upload,1786,,Tamil Nadu
+1866,CELLONE,3G,upload,1948,,Tamil Nadu
+1867,CELLONE,3G,upload,1623,,Tamil Nadu
+1868,CELLONE,3G,upload,542,,Tamil Nadu
+1869,CELLONE,3G,upload,1040,,Tamil Nadu
+1870,CELLONE,3G,upload,1359,,Tamil Nadu
+1871,CELLONE,3G,upload,1801,,Tamil Nadu
+1872,CELLONE,3G,upload,150,,Tamil Nadu
+1873,AIRTEL,4G,download,27966,-90.0,Gujarat
+1874,JIO,4G,download,76717,-67.0,Rajasthan
+1875,JIO,4G,upload,7421,-67.0,Rajasthan
+1876,JIO,4G,download,11979,-96.0,Delhi
+1877,JIO,4G,upload,2551,-96.0,Delhi
+1878,AIRTEL,4G,download,301,-86.0,UP East
+1879,AIRTEL,4G,download,4373,-111.0,UP East
+1880,AIRTEL,4G,download,8585,-97.0,UP East
+1881,AIRTEL,4G,download,5052,-100.0,UP East
+1882,AIRTEL,4G,download,8546,-81.0,UP East
+1883,AIRTEL,4G,download,2083,-98.0,UP East
+1884,AIRTEL,4G,download,454,-110.0,UP East
+1885,AIRTEL,4G,download,6050,-104.0,UP East
+1886,AIRTEL,4G,download,1133,-111.0,UP East
+1887,AIRTEL,4G,download,642,-111.0,UP East
+1888,AIRTEL,4G,download,1546,-109.0,UP East
+1889,AIRTEL,4G,download,4263,-105.0,UP East
+1890,AIRTEL,4G,download,9624,-76.0,UP East
+1891,AIRTEL,4G,download,7888,-102.0,UP East
+1892,AIRTEL,4G,download,2030,-105.0,UP East
+1893,AIRTEL,4G,download,1994,-105.0,UP East
+1894,AIRTEL,4G,upload,8740,-86.0,UP East
+1895,AIRTEL,4G,upload,317,-110.0,UP East
+1896,AIRTEL,4G,upload,1752,-95.0,UP East
+1897,AIRTEL,4G,upload,5583,-100.0,UP East
+1898,AIRTEL,4G,upload,4185,-81.0,UP East
+1899,AIRTEL,4G,upload,5638,-98.0,UP East
+1900,AIRTEL,4G,upload,32,-107.0,UP East
+1901,AIRTEL,4G,upload,2882,-103.0,UP East
+1902,AIRTEL,4G,upload,33,-108.0,UP East
+1903,AIRTEL,4G,upload,68,-109.0,UP East
+1904,AIRTEL,4G,upload,220,-108.0,UP East
+1905,AIRTEL,4G,upload,7072,-77.0,UP East
+1906,AIRTEL,4G,upload,4252,-106.0,UP East
+1907,AIRTEL,4G,upload,490,-106.0,UP East
+1908,AIRTEL,4G,upload,157,-111.0,UP East
+1909,JIO,4G,download,80306,-71.0,Rajasthan
+1910,JIO,4G,download,78341,-71.0,Rajasthan
+1911,JIO,4G,download,80470,-71.0,Rajasthan
+1912,JIO,4G,download,80112,-71.0,Rajasthan
+1913,JIO,4G,upload,6733,-71.0,Rajasthan
+1914,JIO,4G,upload,8506,-71.0,Rajasthan
+1915,JIO,4G,upload,8416,-71.0,Rajasthan
+1916,JIO,4G,upload,8524,-71.0,Rajasthan
+1917,AIRTEL,4G,download,25583,,Delhi
+1918,AIRTEL,4G,download,6756,,Delhi
+1919,JIO,4G,download,1432,-90.0,Maharashtra
+1920,JIO,4G,download,6787,-91.0,Maharashtra
+1921,JIO,4G,download,478,-102.0,Maharashtra
+1922,JIO,4G,download,17396,-63.0,Maharashtra
+1923,JIO,4G,download,10878,-63.0,Maharashtra
+1924,JIO,4G,download,1269,-87.0,Maharashtra
+1925,JIO,4G,upload,5070,-90.0,Maharashtra
+1926,JIO,4G,upload,5411,-91.0,Maharashtra
+1927,JIO,4G,upload,1704,-91.0,Maharashtra
+1928,JIO,4G,upload,6797,-63.0,Maharashtra
+1929,JIO,4G,upload,2909,-63.0,Maharashtra
+1930,JIO,4G,upload,1703,-87.0,Maharashtra
+1931,JIO,4G,download,41104,-68.0,Punjab
+1932,JIO,4G,upload,0,-68.0,Punjab
+1933,JIO,4G,download,5829,-70.0,UP West
+1934,JIO,4G,download,13585,-84.0,UP West
+1935,AIRTEL,4G,download,16261,-85.0,Andhra Pradesh
+1936,AIRTEL,4G,upload,24749,-85.0,Andhra Pradesh
+1937,JIO,4G,upload,8426,-58.0,Gujarat
+1938,AIRTEL,4G,download,9194,-97.0,Maharashtra
+1939,AIRTEL,4G,upload,8816,-97.0,Maharashtra
+1940,JIO,4G,download,7007,-86.0,Karnataka
+1941,JIO,4G,download,3330,-80.0,Karnataka
+1942,JIO,4G,download,7393,-85.0,Karnataka
+1943,JIO,4G,download,11447,-86.0,Karnataka
+1944,JIO,4G,download,17231,-88.0,Karnataka
+1945,JIO,4G,download,6995,-75.0,Karnataka
+1946,JIO,4G,download,5444,-90.0,Karnataka
+1947,JIO,4G,download,8739,-78.0,Karnataka
+1948,JIO,4G,download,5782,-85.0,Karnataka
+1949,JIO,4G,download,17363,-85.0,Karnataka
+1950,JIO,4G,download,2042,-100.0,Karnataka
+1951,JIO,4G,download,16181,-87.0,Karnataka
+1952,JIO,4G,download,24018,-87.0,Karnataka
+1953,JIO,4G,download,17812,-82.0,Karnataka
+1954,JIO,4G,download,9101,-84.0,Karnataka
+1955,JIO,4G,download,8320,-78.0,Karnataka
+1956,JIO,4G,download,41360,-83.0,Karnataka
+1957,JIO,4G,download,10223,-84.0,Karnataka
+1958,JIO,4G,download,14928,-83.0,Karnataka
+1959,JIO,4G,download,10590,-81.0,Karnataka
+1960,JIO,4G,upload,4056,-86.0,Karnataka
+1961,JIO,4G,upload,6971,-80.0,Karnataka
+1962,JIO,4G,upload,6824,-85.0,Karnataka
+1963,JIO,4G,upload,4371,-86.0,Karnataka
+1964,JIO,4G,upload,6092,-88.0,Karnataka
+1965,JIO,4G,upload,1098,-75.0,Karnataka
+1966,JIO,4G,upload,2257,-90.0,Karnataka
+1967,JIO,4G,upload,4664,-78.0,Karnataka
+1968,JIO,4G,upload,4586,-85.0,Karnataka
+1969,JIO,4G,upload,5333,-85.0,Karnataka
+1970,JIO,4G,upload,335,-100.0,Karnataka
+1971,JIO,4G,upload,5696,-87.0,Karnataka
+1972,JIO,4G,upload,6331,-87.0,Karnataka
+1973,JIO,4G,upload,3504,-82.0,Karnataka
+1974,JIO,4G,upload,3952,-84.0,Karnataka
+1975,JIO,4G,upload,2083,-78.0,Karnataka
+1976,JIO,4G,upload,6861,-83.0,Karnataka
+1977,JIO,4G,upload,3306,-84.0,Karnataka
+1978,JIO,4G,upload,7338,-83.0,Karnataka
+1979,JIO,4G,upload,2464,-81.0,Karnataka
+1980,AIRTEL,4G,download,497,-81.0,Kerala
+1981,AIRTEL,4G,upload,779,-81.0,Kerala
+1982,JIO,4G,download,1336,-59.0,Maharashtra
+1983,AIRTEL,4G,download,6594,-85.0,Mumbai
+1984,AIRTEL,4G,upload,3168,-75.0,Mumbai
+1985,JIO,4G,upload,50,-73.0,Kerala
+1986,VODAFONE,4G,download,8302,-89.0,Karnataka
+1987,VODAFONE,4G,download,4679,-89.0,Karnataka
+1988,VODAFONE,4G,download,10903,-91.0,Karnataka
+1989,VODAFONE,4G,download,6259,-105.0,Karnataka
+1990,VODAFONE,4G,download,5311,-75.0,Karnataka
+1991,VODAFONE,4G,download,3881,-93.0,Karnataka
+1992,VODAFONE,4G,download,1951,-103.0,Karnataka
+1993,VODAFONE,4G,download,4074,-99.0,Karnataka
+1994,VODAFONE,4G,download,2927,-85.0,Karnataka
+1995,VODAFONE,4G,download,7064,-97.0,Karnataka
+1996,VODAFONE,4G,download,15552,-95.0,Karnataka
+1997,VODAFONE,4G,download,10650,-89.0,Karnataka
+1998,VODAFONE,4G,download,8091,-87.0,Karnataka
+1999,VODAFONE,4G,download,9314,-87.0,Karnataka
+2000,VODAFONE,4G,upload,832,-89.0,Karnataka
+2001,VODAFONE,4G,upload,3535,-89.0,Karnataka
+2002,VODAFONE,4G,upload,8003,-89.0,Karnataka
+2003,VODAFONE,4G,upload,5219,-105.0,Karnataka
+2004,VODAFONE,4G,upload,16098,-75.0,Karnataka
+2005,VODAFONE,4G,upload,6772,-95.0,Karnataka
+2006,VODAFONE,4G,upload,295,-105.0,Karnataka
+2007,VODAFONE,4G,upload,3153,-101.0,Karnataka
+2008,VODAFONE,4G,upload,7903,-85.0,Karnataka
+2009,VODAFONE,4G,upload,3295,-103.0,Karnataka
+2010,VODAFONE,4G,upload,6518,-93.0,Karnataka
+2011,VODAFONE,4G,upload,3965,-87.0,Karnataka
+2012,VODAFONE,4G,upload,19704,-87.0,Karnataka
+2013,VODAFONE,4G,upload,5961,-93.0,Karnataka
+2014,VODAFONE,4G,download,1434,-71.0,Mumbai
+2015,VODAFONE,4G,download,1339,-65.0,Mumbai
+2016,VODAFONE,4G,download,1316,-65.0,Mumbai
+2017,VODAFONE,4G,download,697,-65.0,Mumbai
+2018,VODAFONE,4G,download,10746,-51.0,Mumbai
+2019,VODAFONE,4G,download,1539,-65.0,Mumbai
+2020,VODAFONE,4G,download,841,-73.0,Mumbai
+2021,VODAFONE,4G,download,2143,-75.0,Mumbai
+2022,VODAFONE,4G,download,1150,-85.0,Mumbai
+2023,VODAFONE,4G,download,6799,-75.0,Mumbai
+2024,VODAFONE,4G,download,773,-77.0,Mumbai
+2025,VODAFONE,4G,download,671,-71.0,Mumbai
+2026,VODAFONE,4G,download,888,-77.0,Mumbai
+2027,VODAFONE,4G,download,10064,-71.0,Mumbai
+2028,VODAFONE,4G,download,3484,-83.0,Mumbai
+2029,VODAFONE,4G,download,8225,-69.0,Mumbai
+2030,VODAFONE,4G,download,948,-77.0,Mumbai
+2031,VODAFONE,4G,download,6676,-71.0,Mumbai
+2032,VODAFONE,4G,download,5616,-77.0,Mumbai
+2033,VODAFONE,4G,download,1781,-75.0,Mumbai
+2034,VODAFONE,4G,download,2922,-57.0,Mumbai
+2035,VODAFONE,4G,download,11880,-55.0,Mumbai
+2036,VODAFONE,4G,download,4189,-71.0,Mumbai
+2037,VODAFONE,4G,download,9181,-71.0,Mumbai
+2038,VODAFONE,4G,download,4232,-65.0,Mumbai
+2039,VODAFONE,4G,download,878,-51.0,Mumbai
+2040,VODAFONE,4G,download,1474,-75.0,Mumbai
+2041,VODAFONE,4G,download,8624,-75.0,Mumbai
+2042,VODAFONE,4G,download,10416,-73.0,Mumbai
+2043,VODAFONE,4G,download,10855,-79.0,Mumbai
+2044,VODAFONE,4G,download,359,-75.0,Mumbai
+2045,VODAFONE,4G,download,7325,-55.0,Mumbai
+2046,VODAFONE,4G,download,8274,-59.0,Mumbai
+2047,VODAFONE,4G,download,2580,-73.0,Mumbai
+2048,VODAFONE,4G,download,4581,-55.0,Mumbai
+2049,VODAFONE,4G,download,3582,-57.0,Mumbai
+2050,VODAFONE,4G,download,8585,-69.0,Mumbai
+2051,VODAFONE,4G,download,7262,-69.0,Mumbai
+2052,VODAFONE,4G,download,14399,-59.0,Mumbai
+2053,VODAFONE,4G,download,208,-67.0,Mumbai
+2054,VODAFONE,4G,download,5639,-61.0,Mumbai
+2055,VODAFONE,4G,download,4004,-63.0,Mumbai
+2056,VODAFONE,4G,download,5245,-77.0,Mumbai
+2057,JIO,4G,download,1959,-81.0,Rajasthan
+2058,CELLONE,4G,download,11,-71.0,Tamil Nadu
+2059,CELLONE,4G,download,1532,-69.0,Tamil Nadu
+2060,CELLONE,4G,upload,1675,,Tamil Nadu
+2061,CELLONE,4G,upload,5271,-69.0,Tamil Nadu
+2062,JIO,4G,download,71453,-58.0,Gujarat
+2063,JIO,4G,download,77111,-61.0,UP West
+2064,JIO,4G,download,80541,-61.0,UP West
+2065,JIO,4G,upload,9025,-61.0,UP West
+2066,JIO,4G,upload,8616,-61.0,UP West
+2067,JIO,4G,download,7686,-69.0,West Bengal
+2068,JIO,4G,download,10241,-69.0,West Bengal
+2069,JIO,4G,download,388,-73.0,West Bengal
+2070,JIO,4G,upload,312,-69.0,West Bengal
+2071,JIO,4G,upload,461,-71.0,West Bengal
+2072,JIO,4G,upload,123,-75.0,West Bengal
+2073,AIRTEL,4G,download,3706,,Maharashtra
+2074,AIRTEL,4G,download,5433,-106.0,Maharashtra
+2075,AIRTEL,4G,upload,276,,Maharashtra
+2076,AIRTEL,4G,upload,4353,-106.0,Maharashtra
+2077,AIRTEL,4G,download,23465,-67.0,Tamil Nadu
+2078,AIRTEL,4G,upload,1285,-67.0,Tamil Nadu
+2079,JIO,4G,upload,5971,-60.0,Orissa
+2080,JIO,4G,download,6284,-89.0,Kerala
+2081,JIO,4G,download,4084,-86.0,Kerala
+2082,JIO,4G,download,26263,-85.0,Kerala
+2083,JIO,4G,download,18895,-88.0,Kerala
+2084,JIO,4G,download,18257,-95.0,Kerala
+2085,AIRTEL,4G,download,4575,,Kerala
+2086,AIRTEL,4G,download,3623,,Kerala
+2087,AIRTEL,4G,download,1663,,Kerala
+2088,AIRTEL,4G,download,3061,-103.0,Kerala
+2089,AIRTEL,4G,download,2722,-108.0,Kerala
+2090,JIO,4G,upload,7564,-89.0,Kerala
+2091,JIO,4G,upload,3053,-86.0,Kerala
+2092,JIO,4G,upload,1709,-84.0,Kerala
+2093,JIO,4G,upload,1181,-86.0,Kerala
+2094,JIO,4G,upload,1517,-95.0,Kerala
+2095,AIRTEL,4G,upload,257,-110.0,Kerala
+2096,AIRTEL,4G,upload,111,,Kerala
+2097,AIRTEL,4G,upload,62,,Kerala
+2098,AIRTEL,4G,upload,291,-103.0,Kerala
+2099,AIRTEL,4G,upload,97,-109.0,Kerala
+2100,JIO,4G,download,70175,-63.0,Rajasthan
+2101,JIO,4G,upload,7343,-63.0,Rajasthan
+2102,VODAFONE,4G,download,10618,-80.0,Tamil Nadu
+2103,VODAFONE,4G,download,8781,-110.0,Tamil Nadu
+2104,VODAFONE,4G,download,10884,-112.0,Tamil Nadu
+2105,VODAFONE,4G,download,875,-97.0,Tamil Nadu
+2106,VODAFONE,4G,upload,10814,-94.0,Tamil Nadu
+2107,VODAFONE,4G,upload,5900,-111.0,Tamil Nadu
+2108,VODAFONE,4G,upload,2705,,Tamil Nadu
+2109,VODAFONE,4G,upload,14302,-98.0,Tamil Nadu
+2110,AIRTEL,4G,download,19655,-51.0,Delhi
+2111,AIRTEL,4G,download,9719,-51.0,Delhi
+2112,AIRTEL,4G,upload,8824,-51.0,Delhi
+2113,AIRTEL,4G,upload,10938,-51.0,Delhi
+2114,JIO,4G,upload,607,-104.0,Gujarat
+2115,JIO,4G,upload,584,-105.0,Gujarat
+2116,JIO,4G,upload,612,-103.0,Gujarat
+2117,VODAFONE,4G,upload,4085,-55.0,Gujarat
+2118,VODAFONE,4G,upload,3354,-61.0,Gujarat
+2119,VODAFONE,4G,upload,3054,-75.0,Gujarat
+2120,VODAFONE,4G,upload,1674,-59.0,Gujarat
+2121,JIO,4G,download,261,-73.0,Bihar
+2122,AIRTEL,4G,download,4628,-75.0,Bihar
+2123,AIRTEL,4G,download,6,-83.0,Bihar
+2124,JIO,4G,upload,336,-73.0,Bihar
+2125,AIRTEL,4G,upload,3030,-77.0,Bihar
+2126,AIRTEL,4G,upload,2116,-75.0,Bihar
+2127,AIRTEL,4G,download,13788,,UP East
+2128,AIRTEL,4G,upload,5743,,UP East
+2129,IDEA,4G,upload,1776,-71.0,Maharashtra
+2130,IDEA,4G,upload,6135,-65.0,Maharashtra
+2131,IDEA,4G,upload,505,-75.0,Maharashtra
+2132,IDEA,4G,upload,6211,-71.0,Maharashtra
+2133,IDEA,4G,upload,1115,-75.0,Maharashtra
+2134,IDEA,3G,upload,841,,Maharashtra
+2135,IDEA,3G,upload,2987,,Maharashtra
+2136,IDEA,3G,upload,1626,,Maharashtra
+2137,IDEA,4G,upload,404,-75.0,Maharashtra
+2138,IDEA,4G,upload,7437,-61.0,Maharashtra
+2139,IDEA,4G,upload,9475,-69.0,Maharashtra
+2140,IDEA,4G,upload,9422,-51.0,Maharashtra
+2141,IDEA,4G,upload,601,-83.0,Maharashtra
+2142,IDEA,3G,upload,475,,Maharashtra
+2143,IDEA,4G,upload,589,-65.0,Maharashtra
+2144,IDEA,4G,upload,417,-75.0,Maharashtra
+2145,IDEA,4G,upload,5502,-73.0,Maharashtra
+2146,IDEA,4G,upload,3786,-73.0,Maharashtra
+2147,IDEA,4G,upload,5123,-75.0,Maharashtra
+2148,IDEA,4G,upload,10989,-63.0,Maharashtra
+2149,IDEA,4G,upload,1114,-77.0,Maharashtra
+2150,IDEA,4G,upload,1716,-73.0,Maharashtra
+2151,IDEA,4G,upload,3663,-73.0,Maharashtra
+2152,IDEA,4G,upload,148,-77.0,Maharashtra
+2153,IDEA,4G,upload,696,-77.0,Maharashtra
+2154,IDEA,4G,upload,2762,-71.0,Maharashtra
+2155,JIO,4G,upload,8357,-57.0,Gujarat
+2156,JIO,4G,download,80144,-61.0,UP West
+2157,JIO,4G,download,80245,-61.0,UP West
+2158,JIO,4G,download,2130,-96.0,Haryana
+2159,JIO,4G,download,1266,-91.0,Haryana
+2160,JIO,4G,download,1406,-99.0,Haryana
+2161,JIO,4G,upload,2257,-96.0,Haryana
+2162,JIO,4G,upload,3118,-91.0,Haryana
+2163,JIO,4G,upload,1091,-99.0,Haryana
+2164,JIO,4G,download,8046,-53.0,UP East
+2165,JIO,4G,upload,13231,-53.0,UP East
+2166,JIO,4G,download,39862,-72.0,Delhi
+2167,JIO,4G,download,39074,-71.0,Delhi
+2168,JIO,4G,download,67005,-67.0,Delhi
+2169,JIO,4G,upload,6184,-72.0,Delhi
+2170,JIO,4G,upload,7647,-71.0,Delhi
+2171,JIO,4G,upload,7209,-67.0,Delhi
+2172,AIRTEL,4G,download,1233,-78.0,Tamil Nadu
+2173,AIRTEL,4G,download,3229,-95.0,Tamil Nadu
+2174,AIRTEL,4G,download,3135,-91.0,Tamil Nadu
+2175,AIRTEL,4G,download,20671,-91.0,Tamil Nadu
+2176,AIRTEL,4G,download,2147,-97.0,Tamil Nadu
+2177,AIRTEL,4G,download,10756,-94.0,Tamil Nadu
+2178,AIRTEL,4G,download,2466,-102.0,Tamil Nadu
+2179,AIRTEL,4G,upload,1880,-78.0,Tamil Nadu
+2180,AIRTEL,4G,upload,11152,-96.0,Tamil Nadu
+2181,AIRTEL,4G,upload,1719,-93.0,Tamil Nadu
+2182,AIRTEL,4G,upload,2547,-95.0,Tamil Nadu
+2183,AIRTEL,4G,upload,8523,-93.0,Tamil Nadu
+2184,AIRTEL,4G,upload,2378,-93.0,Tamil Nadu
+2185,AIRTEL,4G,upload,2004,-102.0,Tamil Nadu
+2186,JIO,4G,download,80,,UP East
+2187,JIO,4G,upload,27,,UP East
+2188,JIO,4G,download,3356,-95.0,Delhi
+2189,JIO,4G,upload,853,-95.0,Delhi
+2190,JIO,4G,download,29892,-60.0,UP West
+2191,JIO,4G,upload,3870,-60.0,UP West
+2192,JIO,4G,download,79123,-61.0,Madhya Pradesh
+2193,JIO,4G,download,79871,-61.0,Madhya Pradesh
+2194,JIO,4G,upload,8723,-61.0,Madhya Pradesh
+2195,JIO,4G,upload,8671,-61.0,Madhya Pradesh
+2196,JIO,4G,download,74966,-62.0,Rajasthan
+2197,JIO,4G,download,14880,-51.0,Maharashtra
+2198,JIO,4G,upload,6131,-51.0,Maharashtra
+2199,JIO,4G,download,78418,-72.0,Rajasthan
+2200,JIO,4G,download,80256,-72.0,Rajasthan
+2201,JIO,4G,download,80028,-72.0,Rajasthan
+2202,AIRTEL,4G,download,832,-107.0,Bihar
+2203,AIRTEL,4G,download,703,-109.0,Bihar
+2204,AIRTEL,4G,download,449,-101.0,Bihar
+2205,AIRTEL,4G,download,2354,-107.0,Bihar
+2206,AIRTEL,4G,download,395,-107.0,Bihar
+2207,AIRTEL,4G,download,447,-107.0,Bihar
+2208,AIRTEL,4G,download,3807,-109.0,Bihar
+2209,AIRTEL,4G,upload,38,-107.0,Bihar
+2210,AIRTEL,4G,upload,32,-107.0,Bihar
+2211,AIRTEL,4G,upload,148,-101.0,Bihar
+2212,AIRTEL,4G,upload,1149,-109.0,Bihar
+2213,AIRTEL,4G,upload,33,-107.0,Bihar
+2214,AIRTEL,4G,upload,128,-107.0,Bihar
+2215,AIRTEL,4G,upload,6451,-109.0,Bihar
+2216,JIO,4G,download,77011,-58.0,Rajasthan
+2217,AIRTEL,4G,download,1609,,UP East
+2218,AIRTEL,4G,download,16242,,UP East
+2219,AIRTEL,4G,upload,0,-73.0,UP East
+2220,AIRTEL,4G,upload,4111,,UP East
+2221,JIO,4G,download,5484,-107.0,Delhi
+2222,VODAFONE,4G,download,668,-107.0,Delhi
+2223,JIO,4G,download,12289,-91.0,Delhi
+2224,JIO,4G,download,747,-107.0,Delhi
+2225,JIO,4G,download,29131,-89.0,Delhi
+2226,JIO,4G,download,34234,-103.0,Delhi
+2227,JIO,4G,download,25456,-105.0,Delhi
+2228,VODAFONE,4G,download,8133,-105.0,Delhi
+2229,VODAFONE,4G,download,8610,-105.0,Delhi
+2230,VODAFONE,4G,download,58,-107.0,Delhi
+2231,VODAFONE,4G,download,1155,-103.0,Delhi
+2232,VODAFONE,4G,download,970,-105.0,Delhi
+2233,VODAFONE,4G,download,3878,-107.0,Delhi
+2234,JIO,4G,download,8402,-95.0,Delhi
+2235,JIO,4G,upload,2687,-107.0,Delhi
+2236,VODAFONE,4G,upload,19,-107.0,Delhi
+2237,JIO,4G,upload,4079,-91.0,Delhi
+2238,JIO,4G,upload,63,-107.0,Delhi
+2239,JIO,4G,upload,5503,-93.0,Delhi
+2240,JIO,4G,upload,2290,-103.0,Delhi
+2241,JIO,4G,upload,6706,-101.0,Delhi
+2242,VODAFONE,4G,upload,206,-105.0,Delhi
+2243,VODAFONE,4G,upload,283,-105.0,Delhi
+2244,VODAFONE,4G,upload,47,-103.0,Delhi
+2245,VODAFONE,4G,upload,31,-103.0,Delhi
+2246,VODAFONE,4G,upload,180,-107.0,Delhi
+2247,VODAFONE,4G,upload,169,-105.0,Delhi
+2248,JIO,4G,upload,5820,-93.0,Delhi
+2249,JIO,4G,download,39231,-68.0,Delhi
+2250,JIO,4G,download,47257,-68.0,Delhi
+2251,JIO,4G,upload,7577,-68.0,Delhi
+2252,JIO,4G,upload,7275,-68.0,Delhi
+2253,JIO,4G,download,58214,-62.0,Rajasthan
+2254,JIO,4G,upload,6096,-62.0,Rajasthan
+2255,JIO,4G,download,39498,-66.0,Gujarat
+2256,JIO,4G,upload,8209,-66.0,Gujarat
+2257,AIRTEL,4G,download,1105,-81.0,Karnataka
+2258,AIRTEL,4G,upload,212,-71.0,Karnataka
+2259,JIO,4G,download,62218,-93.0,Andhra Pradesh
+2260,JIO,4G,download,9081,-88.0,Andhra Pradesh
+2261,JIO,4G,upload,5666,-57.0,UP West
+2262,JIO,4G,upload,4257,-57.0,UP West
+2263,JIO,4G,upload,3322,-67.0,UP West
+2264,JIO,4G,upload,3826,-71.0,Gujarat
+2265,JIO,4G,download,80686,-61.0,Madhya Pradesh
+2266,JIO,4G,upload,8783,-61.0,Madhya Pradesh
+2267,AIRTEL,4G,download,19412,-110.0,West Bengal
+2268,AIRTEL,4G,download,6759,-112.0,West Bengal
+2269,AIRTEL,4G,upload,1765,-109.0,West Bengal
+2270,AIRTEL,4G,upload,193,,West Bengal
+2271,JIO,4G,download,2189,-104.0,Himachal Pradesh
+2272,JIO,4G,download,1429,-104.0,Himachal Pradesh
+2273,JIO,4G,upload,736,-104.0,Himachal Pradesh
+2274,JIO,4G,upload,758,-104.0,Himachal Pradesh
+2275,JIO,4G,download,52988,-57.0,Gujarat
+2276,JIO,4G,download,78807,-57.0,Gujarat
+2277,JIO,4G,download,78807,-57.0,Gujarat
+2278,JIO,4G,upload,5188,-57.0,Gujarat
+2279,JIO,4G,upload,4766,-57.0,Gujarat
+2280,JIO,4G,upload,7187,-57.0,Gujarat
+2281,AIRTEL,4G,download,1028,-53.0,Kolkata
+2282,AIRTEL,4G,upload,1188,-57.0,Kolkata
+2283,JIO,4G,download,607,-102.0,Mumbai
+2284,JIO,4G,download,2835,-103.0,Maharashtra
+2285,JIO,4G,download,6358,-100.0,Maharashtra
+2286,JIO,4G,download,3347,-98.0,Maharashtra
+2287,JIO,4G,download,7854,-98.0,Maharashtra
+2288,JIO,4G,download,8450,-103.0,Maharashtra
+2289,JIO,4G,download,3609,-102.0,Maharashtra
+2290,JIO,4G,download,5502,-102.0,Maharashtra
+2291,JIO,4G,download,9654,-102.0,Maharashtra
+2292,JIO,4G,download,8879,-106.0,Maharashtra
+2293,JIO,4G,download,5873,-102.0,Maharashtra
+2294,JIO,4G,download,5829,-101.0,Maharashtra
+2295,JIO,4G,download,5181,-98.0,Maharashtra
+2296,JIO,4G,download,4969,-103.0,Maharashtra
+2297,JIO,4G,download,6037,-73.0,Mumbai
+2298,JIO,4G,download,6880,-104.0,Maharashtra
+2299,JIO,4G,upload,932,-101.0,Mumbai
+2300,JIO,4G,upload,1593,-103.0,Maharashtra
+2301,JIO,4G,upload,2545,-100.0,Maharashtra
+2302,JIO,4G,upload,2626,-98.0,Maharashtra
+2303,JIO,4G,upload,1780,-98.0,Maharashtra
+2304,JIO,4G,upload,2772,-101.0,Maharashtra
+2305,JIO,4G,upload,1679,-102.0,Maharashtra
+2306,JIO,4G,upload,1364,-102.0,Maharashtra
+2307,JIO,4G,upload,1919,-102.0,Maharashtra
+2308,JIO,4G,upload,1285,-103.0,Maharashtra
+2309,JIO,4G,upload,3172,-102.0,Maharashtra
+2310,JIO,4G,upload,3175,-101.0,Maharashtra
+2311,JIO,4G,upload,2487,-98.0,Maharashtra
+2312,JIO,4G,upload,3335,-101.0,Maharashtra
+2313,JIO,4G,upload,2127,-89.0,Mumbai
+2314,JIO,4G,upload,1372,-102.0,Maharashtra
+2315,JIO,4G,download,358,-95.0,Karnataka
+2316,JIO,4G,download,1133,,Karnataka
+2317,JIO,4G,upload,1467,-95.0,Karnataka
+2318,JIO,4G,upload,70,,Karnataka
+2319,IDEA,4G,download,10581,-71.0,Maharashtra
+2320,IDEA,4G,download,11880,-61.0,Maharashtra
+2321,IDEA,4G,download,1110,-73.0,Maharashtra
+2322,IDEA,4G,upload,10124,-71.0,Maharashtra
+2323,IDEA,4G,upload,174,-61.0,Maharashtra
+2324,IDEA,4G,upload,82,-73.0,Maharashtra
+2325,JIO,4G,upload,7193,-63.0,Orissa
+2326,JIO,4G,download,41592,-61.0,Orissa
+2327,JIO,4G,upload,6568,-61.0,Orissa
+2328,AIRTEL,4G,download,1269,-77.0,UP West
+2329,AIRTEL,4G,upload,1049,-77.0,UP West
+2330,JIO,4G,download,282,,UP East
+2331,JIO,4G,download,533,-102.0,UP East
+2332,JIO,4G,upload,56,,UP East
+2333,JIO,4G,upload,105,-99.0,UP East
+2334,JIO,4G,download,2079,-67.0,UP West
+2335,JIO,4G,upload,7224,-67.0,UP West
+2336,JIO,4G,download,16724,-74.0,Maharashtra
+2337,JIO,4G,download,12805,-63.0,Maharashtra
+2338,JIO,4G,upload,6139,-74.0,Maharashtra
+2339,JIO,4G,upload,4360,-63.0,Maharashtra
+2340,AIRTEL,4G,download,6749,-101.0,Maharashtra
+2341,AIRTEL,4G,upload,2085,-101.0,Maharashtra
+2342,JIO,4G,download,37663,-67.0,Gujarat
+2343,JIO,4G,download,77790,-67.0,Gujarat
+2344,JIO,4G,download,39452,-66.0,Gujarat
+2345,JIO,4G,download,39502,-67.0,Gujarat
+2346,JIO,4G,download,41870,-67.0,Gujarat
+2347,JIO,4G,upload,6177,-67.0,Gujarat
+2348,JIO,4G,upload,7075,-67.0,Gujarat
+2349,JIO,4G,upload,7533,-66.0,Gujarat
+2350,JIO,4G,upload,7579,-67.0,Gujarat
+2351,JIO,4G,upload,7385,-67.0,Gujarat
+2352,JIO,4G,download,38810,-63.0,Gujarat
+2353,JIO,4G,upload,7476,-63.0,Gujarat
+2354,AIRTEL,4G,download,3611,-83.0,Kerala
+2355,AIRTEL,4G,download,4890,-79.0,Kerala
+2356,AIRTEL,4G,download,3653,-79.0,Gujarat
+2357,CELLONE,4G,upload,2388,-85.0,Tamil Nadu
+2358,CELLONE,4G,upload,2614,-51.0,Tamil Nadu
+2359,CELLONE,4G,upload,1664,-51.0,Tamil Nadu
+2360,CELLONE,4G,upload,740,-67.0,Tamil Nadu
+2361,AIRTEL,4G,upload,50,,Kerala
+2362,AIRTEL,4G,upload,2012,,Kerala
+2363,AIRTEL,4G,upload,4489,,Kerala
+2364,JIO,4G,download,38855,-64.0,Orissa
+2365,JIO,4G,download,77497,-66.0,Rajasthan
+2366,JIO,4G,upload,6511,-66.0,Rajasthan
+2367,CELLONE,3G,download,9768,-81.0,Karnataka
+2368,CELLONE,3G,download,3822,-89.0,Karnataka
+2369,CELLONE,3G,download,3740,-85.0,Karnataka
+2370,JIO,4G,download,79151,-71.0,Gujarat
+2371,JIO,4G,download,79081,-71.0,Gujarat
+2372,JIO,4G,upload,8612,-71.0,Gujarat
+2373,JIO,4G,upload,8014,-71.0,Gujarat
+2374,JIO,4G,download,18916,-57.0,Karnataka
+2375,JIO,4G,download,3633,-53.0,Karnataka
+2376,JIO,4G,download,8499,-51.0,Karnataka
+2377,JIO,4G,upload,2696,-55.0,Karnataka
+2378,JIO,4G,upload,1015,-53.0,Karnataka
+2379,JIO,4G,upload,3608,-51.0,Karnataka
+2380,JIO,4G,download,78671,-57.0,Gujarat
+2381,JIO,4G,upload,7498,-57.0,Gujarat
+2382,JIO,4G,download,80633,-57.0,Orissa
+2383,JIO,4G,download,43289,-57.0,Orissa
+2384,JIO,4G,download,49558,-57.0,Orissa
+2385,JIO,4G,download,53243,-57.0,Orissa
+2386,JIO,4G,download,29064,-57.0,Orissa
+2387,JIO,4G,upload,8299,-57.0,Orissa
+2388,JIO,4G,upload,4911,-57.0,Orissa
+2389,JIO,4G,upload,3263,-57.0,Orissa
+2390,JIO,4G,upload,3246,-57.0,Orissa
+2391,JIO,4G,upload,3043,-57.0,Orissa
+2392,JIO,4G,download,1965,-69.0,Kerala
+2393,JIO,4G,download,78783,-71.0,Gujarat
+2394,JIO,4G,download,80554,-71.0,Gujarat
+2395,JIO,4G,download,77962,-71.0,Gujarat
+2396,JIO,4G,upload,8364,-71.0,Gujarat
+2397,JIO,4G,upload,8321,-71.0,Gujarat
+2398,JIO,4G,upload,8365,-71.0,Gujarat
+2399,JIO,4G,download,601,-79.0,UP West
+2400,JIO,4G,download,40647,-57.0,Gujarat
+2401,JIO,4G,download,80262,-57.0,Gujarat
+2402,JIO,4G,download,79968,-57.0,Gujarat
+2403,JIO,4G,download,80472,-57.0,Gujarat
+2404,JIO,4G,upload,7655,-57.0,Gujarat
+2405,JIO,4G,upload,6181,-57.0,Gujarat
+2406,JIO,4G,upload,6395,-57.0,Gujarat
+2407,JIO,4G,upload,6682,-57.0,Gujarat
+2408,JIO,4G,download,1220,-65.0,Andhra Pradesh
+2409,JIO,4G,download,1154,-65.0,Andhra Pradesh
+2410,JIO,4G,download,5898,-63.0,Andhra Pradesh
+2411,JIO,4G,download,4135,-63.0,Andhra Pradesh
+2412,JIO,4G,upload,175,-65.0,Andhra Pradesh
+2413,JIO,4G,upload,306,-65.0,Andhra Pradesh
+2414,JIO,4G,upload,481,-63.0,Andhra Pradesh
+2415,JIO,4G,upload,228,-63.0,Andhra Pradesh
+2416,JIO,4G,download,40988,-57.0,Rajasthan
+2417,JIO,4G,upload,7875,-57.0,Rajasthan
+2418,JIO,4G,download,64229,-69.0,Delhi
+2419,JIO,4G,upload,7206,-69.0,Delhi
+2420,JIO,4G,download,3199,-83.0,Tamil Nadu
+2421,JIO,4G,upload,2450,-74.0,Tamil Nadu
+2422,JIO,4G,download,531,-65.0,West Bengal
+2423,JIO,4G,download,3669,-69.0,UP East
+2424,JIO,4G,upload,494,-55.0,West Bengal
+2425,JIO,4G,upload,8607,-69.0,UP East
+2426,AIRTEL,4G,download,3769,-81.0,Andhra Pradesh
+2427,AIRTEL,4G,upload,3089,-79.0,Andhra Pradesh
+2428,JIO,4G,download,1979,-61.0,UP West
+2429,JIO,4G,download,1338,-69.0,UP West
+2430,JIO,4G,download,517,-65.0,UP West
+2431,JIO,4G,download,1475,-67.0,UP West
+2432,JIO,4G,download,739,-63.0,UP West
+2433,JIO,4G,download,522,-67.0,UP West
+2434,JIO,4G,download,1513,-57.0,UP West
+2435,JIO,4G,download,7067,-61.0,UP West
+2436,JIO,4G,download,1491,-67.0,UP West
+2437,JIO,4G,download,12130,-65.0,UP West
+2438,JIO,4G,download,4419,-65.0,UP West
+2439,JIO,4G,download,932,-63.0,UP West
+2440,JIO,4G,download,861,-63.0,UP West
+2441,JIO,4G,download,4077,-67.0,UP West
+2442,JIO,4G,download,1200,-75.0,UP West
+2443,JIO,4G,download,6254,-69.0,UP West
+2444,JIO,4G,download,2517,-63.0,UP West
+2445,JIO,4G,download,15121,-59.0,UP West
+2446,JIO,4G,download,15351,-59.0,UP West
+2447,JIO,4G,download,10332,-63.0,UP West
+2448,JIO,4G,upload,153,-61.0,UP West
+2449,JIO,4G,upload,254,-77.0,UP West
+2450,JIO,4G,upload,257,-67.0,UP West
+2451,JIO,4G,upload,162,-75.0,UP West
+2452,JIO,4G,upload,371,-65.0,UP West
+2453,JIO,4G,upload,54,-73.0,UP West
+2454,JIO,4G,upload,2708,-55.0,UP West
+2455,JIO,4G,upload,819,-63.0,UP West
+2456,JIO,4G,upload,79,-69.0,UP West
+2457,JIO,4G,upload,878,-67.0,UP West
+2458,JIO,4G,upload,1572,-65.0,UP West
+2459,JIO,4G,upload,324,-63.0,UP West
+2460,JIO,4G,upload,209,-65.0,UP West
+2461,JIO,4G,upload,270,-67.0,UP West
+2462,JIO,4G,upload,102,-73.0,UP West
+2463,JIO,4G,upload,201,-67.0,UP West
+2464,JIO,4G,upload,188,-65.0,UP West
+2465,JIO,4G,upload,237,-61.0,UP West
+2466,JIO,4G,upload,271,-61.0,UP West
+2467,JIO,4G,upload,187,-59.0,UP West
+2468,JIO,4G,download,80709,-61.0,Gujarat
+2469,JIO,4G,upload,8707,-61.0,Gujarat
+2470,AIRTEL,4G,download,22573,-75.0,UP East
+2471,AIRTEL,4G,download,3837,-77.0,UP East
+2472,AIRTEL,4G,upload,1331,-77.0,UP East
+2473,AIRTEL,4G,upload,6947,-81.0,UP East
+2474,JIO,4G,download,70118,-69.0,Gujarat
+2475,JIO,4G,download,79851,-58.0,Gujarat
+2476,JIO,4G,download,79630,-58.0,Gujarat
+2477,JIO,4G,upload,8225,-58.0,Gujarat
+2478,JIO,4G,upload,8503,-58.0,Gujarat
+2479,AIRTEL,4G,download,1412,-107.0,Rajasthan
+2480,AIRTEL,4G,download,6705,-101.0,Rajasthan
+2481,AIRTEL,4G,upload,8532,-107.0,Rajasthan
+2482,AIRTEL,4G,upload,4743,-101.0,Rajasthan
+2483,JIO,4G,download,811,-106.0,Karnataka
+2484,JIO,4G,download,4040,-89.0,Karnataka
+2485,JIO,4G,download,2625,-91.0,Karnataka
+2486,JIO,4G,download,5459,-73.0,Karnataka
+2487,JIO,4G,download,35964,-67.0,Karnataka
+2488,JIO,4G,upload,1212,-106.0,Karnataka
+2489,JIO,4G,upload,2515,-89.0,Karnataka
+2490,JIO,4G,upload,780,-91.0,Karnataka
+2491,JIO,4G,upload,6890,-73.0,Karnataka
+2492,JIO,4G,upload,9418,-67.0,Karnataka
+2493,AIRTEL,4G,download,1245,-59.0,UP East
+2494,AIRTEL,4G,upload,330,-59.0,UP East
+2495,AIRTEL,4G,download,6998,-102.0,Andhra Pradesh
+2496,IDEA,4G,download,14347,,Andhra Pradesh
+2497,AIRTEL,4G,download,715,-87.0,Andhra Pradesh
+2498,AIRTEL,4G,upload,1007,-102.0,Andhra Pradesh
+2499,IDEA,4G,upload,5332,,Andhra Pradesh
+2500,AIRTEL,4G,upload,170,-103.0,Andhra Pradesh
+2501,VODAFONE,4G,upload,23141,-92.0,Gujarat
+2502,VODAFONE,4G,upload,4461,-94.0,Gujarat
+2503,AIRTEL,4G,download,154,,Punjab
+2504,JIO,4G,download,2413,,Punjab
+2505,JIO,4G,download,880,,Punjab
+2506,JIO,4G,download,6171,,UP East
+2507,AIRTEL,4G,download,792,,UP East
+2508,AIRTEL,4G,download,615,,UP East
+2509,JIO,4G,download,2382,,UP East
+2510,AIRTEL,4G,download,647,,Punjab
+2511,AIRTEL,4G,upload,180,,Punjab
+2512,JIO,4G,upload,214,,Punjab
+2513,JIO,4G,upload,10519,,Punjab
+2514,JIO,4G,upload,289,,UP East
+2515,AIRTEL,4G,upload,132,,UP East
+2516,AIRTEL,4G,upload,157,,UP East
+2517,JIO,4G,upload,12847,,UP East
+2518,AIRTEL,4G,upload,4,,Punjab
+2519,JIO,4G,download,80060,-65.0,Orissa
+2520,JIO,4G,download,77899,-63.0,Orissa
+2521,JIO,4G,upload,8695,-65.0,Orissa
+2522,JIO,4G,upload,8725,-63.0,Orissa
+2523,JIO,4G,download,3,-85.0,Kolkata
+2524,JIO,4G,download,4108,-103.0,Kolkata
+2525,JIO,4G,download,11147,-104.0,Kolkata
+2526,JIO,4G,download,4362,-90.0,Kolkata
+2527,JIO,4G,upload,6208,-85.0,Kolkata
+2528,JIO,4G,upload,2555,-102.0,Kolkata
+2529,JIO,4G,upload,6887,-96.0,Kolkata
+2530,JIO,4G,upload,2068,-90.0,Kolkata
+2531,JIO,4G,download,27054,-71.0,Madhya Pradesh
+2532,JIO,4G,upload,4494,-71.0,Madhya Pradesh
+2533,CELLONE,4G,download,1540,,Tamil Nadu
+2534,JIO,4G,download,18329,-110.0,Tamil Nadu
+2535,JIO,4G,download,1716,-103.0,Tamil Nadu
+2536,JIO,4G,download,354,-107.0,Tamil Nadu
+2537,CELLONE,4G,upload,685,,Tamil Nadu
+2538,JIO,4G,upload,608,-111.0,Tamil Nadu
+2539,JIO,4G,upload,203,-103.0,Tamil Nadu
+2540,JIO,4G,upload,737,-107.0,Tamil Nadu
+2541,JIO,4G,download,1290,-77.0,Madhya Pradesh
+2542,JIO,4G,download,1354,-69.0,Madhya Pradesh
+2543,JIO,4G,download,1452,-73.0,Madhya Pradesh
+2544,JIO,4G,download,80533,-71.0,Rajasthan
+2545,JIO,4G,download,80523,-71.0,Rajasthan
+2546,JIO,4G,upload,8471,-71.0,Rajasthan
+2547,JIO,4G,upload,8450,-71.0,Rajasthan
+2548,AIRTEL,4G,download,3830,-91.0,North East
+2549,AIRTEL,4G,download,4237,-68.0,North East
+2550,AIRTEL,4G,download,8731,-99.0,North East
+2551,AIRTEL,4G,download,4938,-105.0,North East
+2552,AIRTEL,4G,download,1347,-93.0,North East
+2553,AIRTEL,4G,download,4582,-111.0,North East
+2554,AIRTEL,4G,download,5217,-97.0,North East
+2555,AIRTEL,4G,download,2663,-97.0,North East
+2556,AIRTEL,4G,download,4654,-94.0,North East
+2557,AIRTEL,4G,download,314,-106.0,North East
+2558,AIRTEL,4G,download,2671,-90.0,North East
+2559,AIRTEL,4G,download,3348,-106.0,UP East
+2560,AIRTEL,4G,download,10823,-82.0,UP East
+2561,AIRTEL,4G,download,5984,-82.0,UP East
+2562,AIRTEL,4G,download,3791,-82.0,UP East
+2563,AIRTEL,4G,download,9431,-82.0,UP East
+2564,AIRTEL,4G,download,2969,-100.0,UP East
+2565,AIRTEL,4G,download,7340,-86.0,UP East
+2566,AIRTEL,4G,download,10238,-87.0,UP East
+2567,AIRTEL,4G,download,379,,UP East
+2568,AIRTEL,4G,upload,3053,-91.0,North East
+2569,AIRTEL,4G,upload,2249,-68.0,North East
+2570,AIRTEL,4G,upload,2100,-99.0,North East
+2571,AIRTEL,4G,upload,3346,-105.0,North East
+2572,AIRTEL,4G,upload,495,-93.0,North East
+2573,AIRTEL,4G,upload,1709,-111.0,North East
+2574,AIRTEL,4G,upload,2783,-97.0,North East
+2575,AIRTEL,4G,upload,2103,-97.0,North East
+2576,AIRTEL,4G,upload,1321,-94.0,North East
+2577,AIRTEL,4G,upload,980,-106.0,North East
+2578,AIRTEL,4G,upload,964,-90.0,North East
+2579,AIRTEL,4G,upload,30,-106.0,UP East
+2580,AIRTEL,4G,upload,9300,-82.0,UP East
+2581,AIRTEL,4G,upload,438,-82.0,UP East
+2582,AIRTEL,4G,upload,1586,-82.0,UP East
+2583,AIRTEL,4G,upload,3195,-82.0,UP East
+2584,AIRTEL,4G,upload,2779,-100.0,UP East
+2585,AIRTEL,4G,upload,15619,-86.0,UP East
+2586,AIRTEL,4G,upload,12055,-87.0,UP East
+2587,AIRTEL,4G,upload,319,,UP East
+2588,JIO,4G,upload,439,-51.0,Gujarat
+2589,JIO,4G,download,78825,-71.0,Rajasthan
+2590,JIO,4G,download,9546,-64.0,Orissa
+2591,JIO,4G,download,39203,-63.0,Orissa
+2592,JIO,4G,upload,7098,-64.0,Orissa
+2593,JIO,4G,upload,7196,-63.0,Orissa
+2594,AIRTEL,4G,download,282,,Haryana
+2595,AIRTEL,4G,upload,3554,,Haryana
+2596,AIRTEL,4G,download,4251,-107.0,Maharashtra
+2597,AIRTEL,4G,download,4787,-107.0,Maharashtra
+2598,AIRTEL,4G,upload,10743,,Maharashtra
+2599,AIRTEL,4G,upload,30938,-105.0,Maharashtra
+2600,JIO,4G,download,14568,-70.0,Punjab
+2601,JIO,4G,download,286,-107.0,Punjab
+2602,JIO,4G,download,637,-112.0,Punjab
+2603,JIO,4G,download,995,-92.0,Punjab
+2604,JIO,4G,upload,19277,-81.0,Punjab
+2605,JIO,4G,upload,75,-107.0,Punjab
+2606,JIO,4G,upload,27,-112.0,Punjab
+2607,JIO,4G,upload,535,-94.0,Punjab
+2608,JIO,4G,download,262,-109.0,Tamil Nadu
+2609,JIO,4G,download,846,,Tamil Nadu
+2610,JIO,4G,upload,119,-112.0,Tamil Nadu
+2611,JIO,4G,upload,260,,Tamil Nadu
+2612,IDEA,4G,download,21714,-76.0,Maharashtra
+2613,IDEA,4G,download,11152,-66.0,Maharashtra
+2614,IDEA,4G,upload,21285,-76.0,Maharashtra
+2615,IDEA,4G,upload,2480,-73.0,Maharashtra
+2616,JIO,4G,download,38849,-85.0,Kolkata
+2617,JIO,4G,download,53724,-79.0,Kolkata
+2618,JIO,4G,download,135,-85.0,Kolkata
+2619,JIO,4G,upload,19949,-87.0,Kolkata
+2620,JIO,4G,upload,21567,-79.0,Kolkata
+2621,JIO,4G,upload,20367,-89.0,Kolkata
+2622,AIRTEL,4G,upload,25011,-68.0,Andhra Pradesh
+2623,AIRTEL,4G,upload,26170,-68.0,Andhra Pradesh
+2624,AIRTEL,4G,upload,20372,-79.0,Andhra Pradesh
+2625,AIRTEL,4G,upload,16393,-81.0,Andhra Pradesh
+2626,AIRTEL,4G,upload,488,-101.0,Andhra Pradesh
+2627,AIRTEL,4G,upload,624,-101.0,Andhra Pradesh
+2628,AIRTEL,4G,upload,25122,-85.0,Andhra Pradesh
+2629,AIRTEL,4G,upload,20770,-91.0,Andhra Pradesh
+2630,AIRTEL,4G,upload,26584,-83.0,Andhra Pradesh
+2631,AIRTEL,4G,upload,24063,-70.0,Andhra Pradesh
+2632,AIRTEL,4G,upload,23709,-70.0,Andhra Pradesh
+2633,AIRTEL,4G,upload,21407,-93.0,Andhra Pradesh
+2634,AIRTEL,4G,upload,20351,-93.0,Andhra Pradesh
+2635,AIRTEL,4G,upload,23744,-82.0,Andhra Pradesh
+2636,AIRTEL,4G,upload,25703,-70.0,Andhra Pradesh
+2637,AIRTEL,4G,upload,25897,-72.0,Andhra Pradesh
+2638,AIRTEL,4G,upload,24337,-76.0,Andhra Pradesh
+2639,AIRTEL,4G,upload,5093,-85.0,Andhra Pradesh
+2640,AIRTEL,4G,upload,5570,-88.0,Andhra Pradesh
+2641,AIRTEL,4G,upload,9477,-106.0,Andhra Pradesh
+2642,AIRTEL,4G,upload,2089,-109.0,Andhra Pradesh
+2643,AIRTEL,4G,upload,15959,-85.0,Andhra Pradesh
+2644,AIRTEL,4G,upload,646,-110.0,Andhra Pradesh
+2645,AIRTEL,4G,upload,14702,-90.0,Andhra Pradesh
+2646,AIRTEL,4G,upload,8878,-96.0,Andhra Pradesh
+2647,AIRTEL,4G,upload,1493,-91.0,Andhra Pradesh
+2648,AIRTEL,4G,upload,12102,-97.0,Andhra Pradesh
+2649,AIRTEL,4G,upload,16667,-99.0,Andhra Pradesh
+2650,AIRTEL,4G,upload,26416,-72.0,Andhra Pradesh
+2651,AIRTEL,4G,upload,24986,-94.0,Andhra Pradesh
+2652,AIRTEL,4G,upload,27240,-86.0,Andhra Pradesh
+2653,AIRTEL,4G,upload,18741,-97.0,Andhra Pradesh
+2654,AIRTEL,4G,upload,20765,-80.0,Andhra Pradesh
+2655,AIRTEL,4G,upload,4752,-101.0,Andhra Pradesh
+2656,AIRTEL,4G,upload,7666,-90.0,Andhra Pradesh
+2657,AIRTEL,4G,upload,2351,-112.0,Andhra Pradesh
+2658,AIRTEL,4G,upload,3280,-100.0,Andhra Pradesh
+2659,AIRTEL,4G,upload,25849,-70.0,Andhra Pradesh
+2660,AIRTEL,4G,upload,24325,-89.0,Andhra Pradesh
+2661,AIRTEL,4G,upload,17683,-95.0,Andhra Pradesh
+2662,AIRTEL,4G,upload,17860,-95.0,Andhra Pradesh
+2663,AIRTEL,4G,upload,3863,-104.0,Andhra Pradesh
+2664,AIRTEL,4G,upload,7809,-105.0,Andhra Pradesh
+2665,AIRTEL,4G,upload,25540,-84.0,Andhra Pradesh
+2666,AIRTEL,4G,upload,26028,-69.0,Andhra Pradesh
+2667,AIRTEL,4G,upload,5980,-95.0,Andhra Pradesh
+2668,AIRTEL,4G,upload,6548,-97.0,Andhra Pradesh
+2669,AIRTEL,4G,upload,6129,-97.0,Andhra Pradesh
+2670,AIRTEL,4G,upload,1654,-106.0,Andhra Pradesh
+2671,JIO,4G,download,4573,-81.0,Rajasthan
+2672,JIO,4G,download,454,-95.0,Haryana
+2673,JIO,4G,download,557,-96.0,Haryana
+2674,JIO,4G,download,551,-98.0,Haryana
+2675,JIO,4G,download,1595,-94.0,Haryana
+2676,JIO,4G,download,3051,-102.0,Haryana
+2677,JIO,4G,download,601,-99.0,Haryana
+2678,JIO,4G,download,399,-97.0,Haryana
+2679,JIO,4G,download,1043,-99.0,Haryana
+2680,JIO,4G,download,432,-97.0,Haryana
+2681,JIO,4G,download,772,-96.0,Haryana
+2682,JIO,4G,download,1755,-89.0,Haryana
+2683,JIO,4G,download,1514,-90.0,Haryana
+2684,JIO,4G,download,665,-91.0,Haryana
+2685,JIO,4G,download,628,-91.0,Haryana
+2686,JIO,4G,download,748,-93.0,Haryana
+2687,JIO,4G,download,1595,-92.0,Haryana
+2688,JIO,4G,download,2151,-108.0,Haryana
+2689,JIO,4G,download,1156,-93.0,Haryana
+2690,JIO,4G,download,0,-90.0,Haryana
+2691,JIO,4G,download,1076,-102.0,Haryana
+2692,JIO,4G,download,1042,-102.0,Haryana
+2693,JIO,4G,upload,381,-95.0,Haryana
+2694,JIO,4G,upload,340,-98.0,Haryana
+2695,JIO,4G,upload,193,-98.0,Haryana
+2696,JIO,4G,upload,1919,-92.0,Haryana
+2697,JIO,4G,upload,2161,-100.0,Haryana
+2698,JIO,4G,upload,1512,-97.0,Haryana
+2699,JIO,4G,upload,971,-97.0,Haryana
+2700,JIO,4G,upload,2096,-96.0,Haryana
+2701,JIO,4G,upload,1267,-97.0,Haryana
+2702,JIO,4G,upload,780,-96.0,Haryana
+2703,JIO,4G,upload,3161,-88.0,Haryana
+2704,JIO,4G,upload,2650,-91.0,Haryana
+2705,JIO,4G,upload,1426,-91.0,Haryana
+2706,JIO,4G,upload,2993,-91.0,Haryana
+2707,JIO,4G,upload,3111,-93.0,Haryana
+2708,JIO,4G,upload,3570,-92.0,Haryana
+2709,JIO,4G,upload,997,-108.0,Haryana
+2710,JIO,4G,upload,3682,-93.0,Haryana
+2711,JIO,4G,upload,2051,-98.0,Haryana
+2712,JIO,4G,upload,330,-101.0,Haryana
+2713,JIO,4G,upload,256,-103.0,Haryana
+2714,JIO,4G,download,11036,-68.0,Madhya Pradesh
+2715,JIO,4G,download,1661,-107.0,Madhya Pradesh
+2716,JIO,4G,download,2435,-70.0,Madhya Pradesh
+2717,JIO,4G,download,5278,-99.0,Madhya Pradesh
+2718,JIO,4G,upload,4801,-68.0,Madhya Pradesh
+2719,JIO,4G,upload,227,-107.0,Madhya Pradesh
+2720,JIO,4G,upload,1244,-70.0,Madhya Pradesh
+2721,JIO,4G,upload,1081,-99.0,Madhya Pradesh
+2722,AIRTEL,4G,upload,275,-83.0,Kerala
+2723,AIRTEL,4G,upload,1841,-85.0,Kerala
+2724,AIRTEL,4G,upload,49,-93.0,Kerala
+2725,AIRTEL,4G,upload,866,-79.0,Kerala
+2726,AIRTEL,4G,upload,68,-87.0,Kerala
+2727,AIRTEL,4G,download,14129,-57.0,UP West
+2728,AIRTEL,4G,upload,22664,-57.0,UP West
+2729,JIO,4G,download,6060,-59.0,Karnataka
+2730,JIO,4G,upload,265,-57.0,Karnataka
+2731,JIO,4G,download,2290,-111.0,Andhra Pradesh
+2732,JIO,4G,download,608,-93.0,Andhra Pradesh
+2733,JIO,4G,download,2526,-95.0,Andhra Pradesh
+2734,JIO,4G,upload,523,,Andhra Pradesh
+2735,JIO,4G,upload,5478,-87.0,Andhra Pradesh
+2736,JIO,4G,upload,1332,-94.0,Andhra Pradesh
+2737,JIO,4G,download,29143,-60.0,Orissa
+2738,JIO,4G,upload,4606,-60.0,Orissa
+2739,AIRTEL,4G,download,27569,-51.0,Maharashtra
+2740,AIRTEL,4G,upload,24963,-51.0,Maharashtra
+2741,JIO,4G,download,80255,-72.0,Rajasthan
+2742,JIO,4G,download,80341,-72.0,Rajasthan
+2743,JIO,4G,download,48174,-72.0,Rajasthan
+2744,JIO,4G,download,33187,-72.0,Rajasthan
+2745,JIO,4G,download,10720,-72.0,Rajasthan
+2746,JIO,4G,upload,8807,-72.0,Rajasthan
+2747,JIO,4G,upload,8585,-72.0,Rajasthan
+2748,JIO,4G,upload,8644,-72.0,Rajasthan
+2749,JIO,4G,upload,8323,-72.0,Rajasthan
+2750,JIO,4G,upload,8369,-72.0,Rajasthan
+2751,JIO,4G,download,15170,-75.0,Gujarat
+2752,JIO,4G,download,9768,-75.0,Gujarat
+2753,JIO,4G,upload,820,-81.0,Gujarat
+2754,JIO,4G,upload,579,-79.0,Gujarat
+2755,JIO,4G,download,268,-96.0,Himachal Pradesh
+2756,JIO,4G,download,78892,-57.0,Orissa
+2757,JIO,4G,upload,5889,-57.0,Orissa
+2758,JIO,4G,download,7972,-101.0,UP East
+2759,JIO,4G,upload,772,-101.0,UP East
+2760,JIO,4G,download,17734,-51.0,Punjab
+2761,JIO,4G,upload,7925,-51.0,Punjab
+2762,JIO,4G,download,74642,-58.0,Orissa
+2763,JIO,4G,download,77079,-58.0,Orissa
+2764,JIO,4G,download,80262,-58.0,Orissa
+2765,JIO,4G,download,78904,-58.0,Orissa
+2766,JIO,4G,upload,8331,-58.0,Orissa
+2767,JIO,4G,upload,8522,-58.0,Orissa
+2768,JIO,4G,upload,8554,-58.0,Orissa
+2769,JIO,4G,upload,8500,-58.0,Orissa
+2770,JIO,4G,download,19787,-95.0,Delhi
+2771,JIO,4G,download,46475,-63.0,Delhi
+2772,JIO,4G,download,1156,-97.0,Delhi
+2773,JIO,4G,download,8128,-95.0,Delhi
+2774,JIO,4G,download,3430,-99.0,Delhi
+2775,JIO,4G,download,3069,-95.0,Delhi
+2776,JIO,4G,download,40239,-89.0,Delhi
+2777,JIO,4G,download,1410,-103.0,Delhi
+2778,JIO,4G,download,374,-103.0,Delhi
+2779,JIO,4G,download,451,,Delhi
+2780,JIO,4G,download,139,-103.0,Delhi
+2781,JIO,4G,upload,1212,-95.0,Delhi
+2782,JIO,4G,upload,3916,-83.0,Delhi
+2783,JIO,4G,upload,139,-97.0,Delhi
+2784,JIO,4G,upload,27,-95.0,Delhi
+2785,JIO,4G,upload,609,-99.0,Delhi
+2786,JIO,4G,upload,106,-95.0,Delhi
+2787,JIO,4G,upload,5399,-87.0,Delhi
+2788,JIO,4G,upload,933,-101.0,Delhi
+2789,JIO,4G,upload,61,-95.0,Delhi
+2790,JIO,4G,upload,47,-109.0,Delhi
+2791,JIO,4G,upload,731,-99.0,Delhi
+2792,JIO,4G,download,43771,-57.0,Rajasthan
+2793,JIO,4G,download,47176,-57.0,Rajasthan
+2794,JIO,4G,download,43895,-57.0,Rajasthan
+2795,JIO,4G,download,40080,-57.0,Rajasthan
+2796,AIRTEL,4G,download,870,,Kerala
+2797,AIRTEL,4G,download,3124,,Kerala
+2798,AIRTEL,4G,download,10688,,Kerala
+2799,AIRTEL,4G,download,963,,Kerala
+2800,AIRTEL,4G,download,1297,,Kerala
+2801,AIRTEL,4G,download,1491,,Kerala
+2802,AIRTEL,4G,download,605,,Kerala
+2803,AIRTEL,4G,upload,2557,,Kerala
+2804,AIRTEL,4G,upload,4511,,Kerala
+2805,AIRTEL,4G,upload,4321,,Kerala
+2806,AIRTEL,4G,upload,948,,Kerala
+2807,AIRTEL,4G,upload,942,,Kerala
+2808,AIRTEL,4G,upload,2164,,Kerala
+2809,AIRTEL,4G,upload,120,,Kerala
+2810,VODAFONE,4G,download,2286,-86.0,Gujarat
+2811,VODAFONE,4G,download,5327,-86.0,Gujarat
+2812,VODAFONE,4G,download,17024,-77.0,Gujarat
+2813,VODAFONE,4G,download,584,-106.0,Gujarat
+2814,VODAFONE,4G,download,411,-107.0,Gujarat
+2815,VODAFONE,4G,download,1956,-101.0,Gujarat
+2816,VODAFONE,4G,download,0,-101.0,Gujarat
+2817,VODAFONE,4G,download,1533,-101.0,Gujarat
+2818,VODAFONE,4G,upload,12433,-86.0,Gujarat
+2819,VODAFONE,4G,upload,20932,-85.0,Gujarat
+2820,VODAFONE,4G,upload,24720,-80.0,Gujarat
+2821,VODAFONE,4G,upload,936,-105.0,Gujarat
+2822,VODAFONE,4G,upload,801,-101.0,Gujarat
+2823,VODAFONE,4G,upload,5926,-101.0,Gujarat
+2824,VODAFONE,4G,upload,4648,-101.0,Gujarat
+2825,VODAFONE,4G,upload,3916,-105.0,Gujarat
+2826,JIO,4G,download,17337,-101.0,Haryana
+2827,JIO,4G,download,17842,-101.0,Haryana
+2828,JIO,4G,download,2923,-99.0,Haryana
+2829,JIO,4G,download,3932,-97.0,Haryana
+2830,JIO,4G,download,4205,-99.0,Haryana
+2831,JIO,4G,download,743,-97.0,Haryana
+2832,JIO,4G,download,2530,-93.0,Haryana
+2833,JIO,4G,download,1454,-99.0,Haryana
+2834,JIO,4G,download,275,-97.0,Haryana
+2835,JIO,4G,download,609,-97.0,Haryana
+2836,JIO,4G,download,786,-97.0,Haryana
+2837,JIO,4G,download,8030,-95.0,Haryana
+2838,JIO,4G,download,1384,-101.0,Haryana
+2839,JIO,4G,download,18449,-101.0,Haryana
+2840,JIO,4G,download,16883,-95.0,Haryana
+2841,JIO,4G,download,7303,-97.0,Haryana
+2842,JIO,4G,download,11811,-97.0,Haryana
+2843,JIO,4G,download,6503,-99.0,Haryana
+2844,JIO,4G,upload,5229,-97.0,Haryana
+2845,JIO,4G,upload,5095,-99.0,Haryana
+2846,JIO,4G,upload,2368,-99.0,Haryana
+2847,JIO,4G,upload,2371,-99.0,Haryana
+2848,JIO,4G,upload,548,-97.0,Haryana
+2849,JIO,4G,upload,166,-97.0,Haryana
+2850,JIO,4G,upload,44,-95.0,Haryana
+2851,JIO,4G,upload,79,-99.0,Haryana
+2852,JIO,4G,upload,66,-99.0,Haryana
+2853,JIO,4G,upload,133,-97.0,Haryana
+2854,JIO,4G,upload,241,-97.0,Haryana
+2855,JIO,4G,upload,429,-95.0,Haryana
+2856,JIO,4G,upload,38,-101.0,Haryana
+2857,JIO,4G,upload,3148,-101.0,Haryana
+2858,JIO,4G,upload,9500,-95.0,Haryana
+2859,JIO,4G,upload,2124,-97.0,Haryana
+2860,JIO,4G,upload,2669,-103.0,Haryana
+2861,JIO,4G,upload,270,-99.0,Haryana
+2862,AIRTEL,4G,download,341,-102.0,Bihar
+2863,AIRTEL,4G,download,1453,-103.0,Bihar
+2864,VODAFONE,4G,download,12738,-85.0,Gujarat
+2865,VODAFONE,4G,download,35988,-78.0,Gujarat
+2866,VODAFONE,4G,upload,5675,-88.0,Gujarat
+2867,VODAFONE,4G,upload,4719,-77.0,Gujarat
+2868,IDEA,4G,download,76,-101.0,Andhra Pradesh
+2869,IDEA,4G,download,149,-106.0,Andhra Pradesh
+2870,IDEA,4G,download,186,-110.0,Andhra Pradesh
+2871,IDEA,4G,download,17448,-107.0,Andhra Pradesh
+2872,IDEA,4G,download,3053,-108.0,Andhra Pradesh
+2873,IDEA,4G,download,1241,-111.0,Andhra Pradesh
+2874,IDEA,4G,download,7890,-112.0,Andhra Pradesh
+2875,IDEA,4G,download,4516,-110.0,Andhra Pradesh
+2876,IDEA,4G,download,2957,-101.0,Andhra Pradesh
+2877,IDEA,4G,download,1097,-109.0,Andhra Pradesh
+2878,IDEA,4G,download,12241,-106.0,Andhra Pradesh
+2879,IDEA,4G,download,4284,,Andhra Pradesh
+2880,IDEA,4G,download,5104,,Andhra Pradesh
+2881,IDEA,4G,download,4825,-110.0,Andhra Pradesh
+2882,IDEA,4G,download,27,-112.0,Andhra Pradesh
+2883,IDEA,4G,download,4205,-103.0,Andhra Pradesh
+2884,IDEA,4G,download,1343,-112.0,Andhra Pradesh
+2885,IDEA,4G,download,10464,-103.0,Andhra Pradesh
+2886,IDEA,4G,download,5409,-107.0,Andhra Pradesh
+2887,IDEA,4G,download,445,-109.0,Andhra Pradesh
+2888,IDEA,4G,download,5132,-108.0,Andhra Pradesh
+2889,IDEA,4G,download,1948,-92.0,Andhra Pradesh
+2890,IDEA,4G,download,2503,-109.0,Andhra Pradesh
+2891,IDEA,4G,download,440,-102.0,Andhra Pradesh
+2892,IDEA,4G,download,2009,-107.0,Andhra Pradesh
+2893,IDEA,4G,download,3074,,Andhra Pradesh
+2894,IDEA,4G,download,11742,-102.0,Andhra Pradesh
+2895,IDEA,3G,download,3387,,Andhra Pradesh
+2896,IDEA,4G,download,5438,-105.0,Andhra Pradesh
+2897,IDEA,4G,download,12226,,Andhra Pradesh
+2898,IDEA,4G,download,13112,,Andhra Pradesh
+2899,IDEA,4G,download,5555,-105.0,Andhra Pradesh
+2900,IDEA,4G,download,3243,-97.0,Andhra Pradesh
+2901,IDEA,4G,download,281,-97.0,Andhra Pradesh
+2902,IDEA,4G,download,1912,-111.0,Andhra Pradesh
+2903,IDEA,4G,download,19595,-110.0,Andhra Pradesh
+2904,IDEA,4G,download,6342,-110.0,Andhra Pradesh
+2905,IDEA,4G,download,2740,-98.0,Andhra Pradesh
+2906,IDEA,4G,download,4427,-89.0,Andhra Pradesh
+2907,IDEA,4G,download,1820,-106.0,Andhra Pradesh
+2908,IDEA,4G,download,6817,-110.0,Andhra Pradesh
+2909,IDEA,4G,download,981,-111.0,Andhra Pradesh
+2910,IDEA,4G,download,754,-111.0,Andhra Pradesh
+2911,IDEA,4G,download,4869,-106.0,Andhra Pradesh
+2912,IDEA,4G,download,490,,Andhra Pradesh
+2913,IDEA,4G,download,623,-107.0,Andhra Pradesh
+2914,IDEA,4G,download,499,-108.0,Andhra Pradesh
+2915,IDEA,4G,download,11043,-111.0,Andhra Pradesh
+2916,IDEA,4G,download,2852,-106.0,Andhra Pradesh
+2917,IDEA,4G,download,1033,-109.0,Andhra Pradesh
+2918,IDEA,4G,upload,9582,-96.0,Andhra Pradesh
+2919,IDEA,4G,upload,1553,-102.0,Andhra Pradesh
+2920,IDEA,4G,upload,196,-109.0,Andhra Pradesh
+2921,IDEA,4G,upload,1088,-107.0,Andhra Pradesh
+2922,IDEA,4G,upload,123,-108.0,Andhra Pradesh
+2923,IDEA,4G,upload,65,-105.0,Andhra Pradesh
+2924,IDEA,4G,upload,1060,-112.0,Andhra Pradesh
+2925,IDEA,4G,upload,1184,-111.0,Andhra Pradesh
+2926,IDEA,4G,upload,297,-101.0,Andhra Pradesh
+2927,IDEA,4G,upload,110,-109.0,Andhra Pradesh
+2928,IDEA,4G,upload,2032,-106.0,Andhra Pradesh
+2929,IDEA,4G,upload,674,,Andhra Pradesh
+2930,IDEA,4G,upload,205,,Andhra Pradesh
+2931,IDEA,4G,upload,1190,-112.0,Andhra Pradesh
+2932,IDEA,4G,upload,1211,,Andhra Pradesh
+2933,IDEA,4G,upload,592,-107.0,Andhra Pradesh
+2934,IDEA,4G,upload,41,-112.0,Andhra Pradesh
+2935,IDEA,4G,upload,2390,-104.0,Andhra Pradesh
+2936,IDEA,4G,upload,1058,-107.0,Andhra Pradesh
+2937,IDEA,4G,upload,293,-109.0,Andhra Pradesh
+2938,IDEA,4G,upload,1505,-108.0,Andhra Pradesh
+2939,IDEA,4G,upload,41,-92.0,Andhra Pradesh
+2940,IDEA,4G,upload,525,-109.0,Andhra Pradesh
+2941,IDEA,4G,upload,177,-108.0,Andhra Pradesh
+2942,IDEA,4G,upload,624,-108.0,Andhra Pradesh
+2943,IDEA,4G,upload,64,,Andhra Pradesh
+2944,IDEA,4G,upload,1599,-102.0,Andhra Pradesh
+2945,IDEA,3G,upload,1767,,Andhra Pradesh
+2946,IDEA,4G,upload,3428,-101.0,Andhra Pradesh
+2947,IDEA,4G,upload,1009,,Andhra Pradesh
+2948,IDEA,4G,upload,2022,,Andhra Pradesh
+2949,IDEA,4G,upload,1029,-104.0,Andhra Pradesh
+2950,IDEA,4G,upload,741,-97.0,Andhra Pradesh
+2951,IDEA,4G,upload,362,-97.0,Andhra Pradesh
+2952,IDEA,4G,upload,10,-108.0,Andhra Pradesh
+2953,IDEA,4G,upload,1743,-111.0,Andhra Pradesh
+2954,IDEA,4G,upload,904,-110.0,Andhra Pradesh
+2955,IDEA,4G,upload,1626,-98.0,Andhra Pradesh
+2956,IDEA,4G,upload,1684,-89.0,Andhra Pradesh
+2957,IDEA,4G,upload,1743,-106.0,Andhra Pradesh
+2958,IDEA,4G,upload,962,-110.0,Andhra Pradesh
+2959,IDEA,4G,upload,371,-111.0,Andhra Pradesh
+2960,IDEA,4G,upload,446,-111.0,Andhra Pradesh
+2961,IDEA,4G,upload,1599,-106.0,Andhra Pradesh
+2962,IDEA,4G,upload,447,,Andhra Pradesh
+2963,IDEA,4G,upload,319,-107.0,Andhra Pradesh
+2964,IDEA,4G,upload,18,-108.0,Andhra Pradesh
+2965,IDEA,4G,upload,517,-112.0,Andhra Pradesh
+2966,IDEA,4G,upload,2310,-104.0,Andhra Pradesh
+2967,IDEA,4G,upload,393,-109.0,Andhra Pradesh
+2968,JIO,4G,download,69521,-63.0,Rajasthan
+2969,JIO,4G,upload,2915,-63.0,Rajasthan
+2970,JIO,4G,upload,7662,-64.0,Rajasthan
+2971,JIO,4G,upload,6598,-64.0,Rajasthan
+2972,JIO,4G,download,40407,-58.0,Orissa
+2973,JIO,4G,download,29984,-58.0,Orissa
+2974,JIO,4G,download,9059,-58.0,Orissa
+2975,JIO,4G,download,45177,-58.0,Orissa
+2976,JIO,4G,download,34261,-58.0,Orissa
+2977,JIO,4G,upload,3442,-58.0,Orissa
+2978,JIO,4G,upload,7298,-58.0,Orissa
+2979,JIO,4G,upload,6633,-58.0,Orissa
+2980,JIO,4G,upload,5905,-58.0,Orissa
+2981,JIO,4G,upload,3390,-58.0,Orissa
+2982,JIO,4G,download,41138,-71.0,Rajasthan
+2983,JIO,4G,upload,5562,-71.0,Rajasthan
+2984,JIO,4G,download,74921,-67.0,Rajasthan
+2985,JIO,4G,upload,7291,-67.0,Rajasthan
+2986,VODAFONE,4G,upload,17081,-87.0,Tamil Nadu
+2987,VODAFONE,4G,download,62568,-93.0,Tamil Nadu
+2988,VODAFONE,4G,upload,31721,-93.0,Tamil Nadu
+2989,JIO,4G,download,3537,-67.0,Delhi
+2990,JIO,4G,download,2814,,Delhi
+2991,JIO,4G,upload,1653,-65.0,Delhi
+2992,JIO,4G,upload,1951,-71.0,Delhi
+2993,JIO,4G,download,19384,-69.0,Haryana
+2994,JIO,4G,download,8923,-51.0,Haryana
+2995,JIO,4G,download,6900,-57.0,Haryana
+2996,JIO,4G,download,14609,-59.0,Haryana
+2997,JIO,4G,download,7529,-75.0,Haryana
+2998,JIO,4G,download,2843,-61.0,Haryana
+2999,AIRTEL,4G,download,24787,-51.0,Rajasthan
+3000,AIRTEL,4G,upload,19800,-51.0,Rajasthan
+3001,JIO,4G,download,9193,-101.0,Tamil Nadu
+3002,JIO,4G,download,13407,-101.0,Tamil Nadu
+3003,JIO,4G,download,5618,-107.0,Tamil Nadu
+3004,JIO,4G,download,7650,-105.0,Tamil Nadu
+3005,JIO,4G,download,11940,-101.0,Tamil Nadu
+3006,JIO,4G,download,10783,-107.0,Tamil Nadu
+3007,JIO,4G,download,8757,-107.0,Tamil Nadu
+3008,JIO,4G,download,1388,-85.0,Tamil Nadu
+3009,JIO,4G,download,4293,-109.0,Tamil Nadu
+3010,JIO,4G,download,18831,-109.0,Tamil Nadu
+3011,JIO,4G,download,2483,-105.0,Tamil Nadu
+3012,JIO,4G,download,5977,-101.0,Tamil Nadu
+3013,JIO,4G,download,12770,-101.0,Tamil Nadu
+3014,JIO,4G,download,566,-99.0,Tamil Nadu
+3015,JIO,4G,download,8823,-99.0,Tamil Nadu
+3016,JIO,4G,download,10368,-109.0,Tamil Nadu
+3017,JIO,4G,download,11237,-99.0,Tamil Nadu
+3018,JIO,4G,upload,6006,-101.0,Tamil Nadu
+3019,JIO,4G,upload,2130,-101.0,Tamil Nadu
+3020,JIO,4G,upload,1457,-107.0,Tamil Nadu
+3021,JIO,4G,upload,1911,-105.0,Tamil Nadu
+3022,JIO,4G,upload,1129,-101.0,Tamil Nadu
+3023,JIO,4G,upload,1619,-107.0,Tamil Nadu
+3024,JIO,4G,upload,2234,-107.0,Tamil Nadu
+3025,JIO,4G,upload,1774,-105.0,Tamil Nadu
+3026,JIO,4G,upload,1378,-109.0,Tamil Nadu
+3027,JIO,4G,upload,2366,-109.0,Tamil Nadu
+3028,JIO,4G,upload,2193,-105.0,Tamil Nadu
+3029,JIO,4G,upload,5260,-101.0,Tamil Nadu
+3030,JIO,4G,upload,6790,-101.0,Tamil Nadu
+3031,JIO,4G,upload,515,-101.0,Tamil Nadu
+3032,JIO,4G,upload,6964,-99.0,Tamil Nadu
+3033,JIO,4G,upload,792,-109.0,Tamil Nadu
+3034,JIO,4G,upload,7733,-99.0,Tamil Nadu
+3035,JIO,4G,download,22249,-91.0,Andhra Pradesh
+3036,JIO,4G,download,35608,-93.0,Andhra Pradesh
+3037,JIO,4G,download,27690,-93.0,Andhra Pradesh
+3038,JIO,4G,download,1552,-107.0,Andhra Pradesh
+3039,JIO,4G,upload,7658,-89.0,Andhra Pradesh
+3040,JIO,4G,upload,7003,-91.0,Andhra Pradesh
+3041,JIO,4G,upload,3657,-95.0,Andhra Pradesh
+3042,JIO,4G,upload,1515,-111.0,Andhra Pradesh
+3043,JIO,4G,download,4031,-51.0,Maharashtra
+3044,JIO,4G,upload,5627,-51.0,Maharashtra
+3045,JIO,4G,download,80488,-58.0,Orissa
+3046,JIO,4G,upload,8587,-58.0,Orissa
+3047,VODAFONE,4G,download,371,,West Bengal
+3048,VODAFONE,4G,download,613,-110.0,West Bengal
+3049,VODAFONE,4G,download,2291,-112.0,West Bengal
+3050,VODAFONE,4G,download,3867,,West Bengal
+3051,VODAFONE,4G,download,652,,West Bengal
+3052,VODAFONE,4G,download,8444,-104.0,West Bengal
+3053,VODAFONE,4G,download,17059,-104.0,West Bengal
+3054,VODAFONE,4G,download,12678,-105.0,West Bengal
+3055,VODAFONE,4G,download,4616,-107.0,West Bengal
+3056,VODAFONE,4G,download,8326,-106.0,West Bengal
+3057,VODAFONE,4G,download,16702,-106.0,West Bengal
+3058,VODAFONE,4G,download,4103,-105.0,West Bengal
+3059,VODAFONE,4G,download,3175,-104.0,West Bengal
+3060,VODAFONE,4G,download,3727,-105.0,West Bengal
+3061,VODAFONE,4G,download,4443,-104.0,West Bengal
+3062,VODAFONE,4G,download,1840,-104.0,West Bengal
+3063,VODAFONE,4G,download,12747,-104.0,West Bengal
+3064,VODAFONE,4G,download,3468,-104.0,West Bengal
+3065,VODAFONE,4G,download,3262,-105.0,West Bengal
+3066,VODAFONE,4G,download,3314,-106.0,West Bengal
+3067,VODAFONE,4G,download,2153,-111.0,West Bengal
+3068,VODAFONE,4G,download,3014,,West Bengal
+3069,VODAFONE,4G,download,3214,-103.0,West Bengal
+3070,VODAFONE,4G,download,4138,,West Bengal
+3071,VODAFONE,4G,download,3588,,West Bengal
+3072,VODAFONE,4G,download,6290,-111.0,West Bengal
+3073,VODAFONE,4G,download,11670,-107.0,West Bengal
+3074,VODAFONE,4G,download,9230,-108.0,West Bengal
+3075,VODAFONE,4G,download,9566,-108.0,West Bengal
+3076,VODAFONE,4G,download,2186,,West Bengal
+3077,VODAFONE,4G,download,6575,-106.0,West Bengal
+3078,VODAFONE,4G,upload,378,,West Bengal
+3079,VODAFONE,4G,upload,470,-110.0,West Bengal
+3080,VODAFONE,4G,upload,918,-111.0,West Bengal
+3081,VODAFONE,4G,upload,361,-112.0,West Bengal
+3082,VODAFONE,4G,upload,139,,West Bengal
+3083,VODAFONE,4G,upload,4776,-104.0,West Bengal
+3084,VODAFONE,4G,upload,3924,-104.0,West Bengal
+3085,VODAFONE,4G,upload,2556,-107.0,West Bengal
+3086,VODAFONE,4G,upload,4907,-104.0,West Bengal
+3087,VODAFONE,4G,upload,3142,-105.0,West Bengal
+3088,VODAFONE,4G,upload,2727,-106.0,West Bengal
+3089,VODAFONE,4G,upload,3344,-105.0,West Bengal
+3090,VODAFONE,4G,upload,6318,-104.0,West Bengal
+3091,VODAFONE,4G,upload,6095,-105.0,West Bengal
+3092,VODAFONE,4G,upload,6616,-105.0,West Bengal
+3093,VODAFONE,4G,upload,5666,-105.0,West Bengal
+3094,VODAFONE,4G,upload,1028,-103.0,West Bengal
+3095,VODAFONE,4G,upload,3299,-104.0,West Bengal
+3096,VODAFONE,4G,upload,6459,-106.0,West Bengal
+3097,VODAFONE,4G,upload,6157,-105.0,West Bengal
+3098,VODAFONE,4G,upload,2280,-111.0,West Bengal
+3099,VODAFONE,4G,upload,427,-107.0,West Bengal
+3100,VODAFONE,4G,upload,961,-103.0,West Bengal
+3101,VODAFONE,4G,upload,517,,West Bengal
+3102,VODAFONE,4G,upload,4177,-82.0,West Bengal
+3103,VODAFONE,4G,upload,6330,-111.0,West Bengal
+3104,VODAFONE,4G,upload,1603,-107.0,West Bengal
+3105,VODAFONE,4G,upload,2624,-108.0,West Bengal
+3106,VODAFONE,4G,upload,2020,-108.0,West Bengal
+3107,VODAFONE,4G,upload,213,,West Bengal
+3108,VODAFONE,4G,upload,1875,-106.0,West Bengal
+3109,AIRTEL,4G,download,1328,,Kerala
+3110,AIRTEL,4G,download,1541,,Kerala
+3111,AIRTEL,4G,upload,83,,Kerala
+3112,AIRTEL,4G,upload,233,,Kerala
+3113,JIO,4G,download,39652,-61.0,Rajasthan
+3114,JIO,4G,upload,6876,-61.0,Rajasthan
+3115,JIO,4G,download,80666,-57.0,Orissa
+3116,JIO,4G,download,80654,-57.0,Orissa
+3117,JIO,4G,download,61326,-57.0,Orissa
+3118,JIO,4G,upload,6827,-57.0,Orissa
+3119,JIO,4G,upload,8333,-57.0,Orissa
+3120,JIO,4G,upload,8011,-57.0,Orissa
+3121,JIO,4G,upload,7690,-71.0,Rajasthan
+3122,JIO,4G,upload,7650,-71.0,Rajasthan
+3123,AIRTEL,4G,download,4811,,Kerala
+3124,VODAFONE,4G,download,17934,-102.0,Tamil Nadu
+3125,VODAFONE,4G,download,15364,-93.0,Tamil Nadu
+3126,VODAFONE,4G,download,611,-99.0,Tamil Nadu
+3127,VODAFONE,4G,download,12752,-95.0,Tamil Nadu
+3128,VODAFONE,4G,download,380,-97.0,Tamil Nadu
+3129,VODAFONE,4G,download,33959,-98.0,Tamil Nadu
+3130,VODAFONE,4G,download,647,-90.0,Tamil Nadu
+3131,VODAFONE,4G,upload,1866,-102.0,Tamil Nadu
+3132,VODAFONE,4G,upload,10095,-97.0,Tamil Nadu
+3133,VODAFONE,4G,upload,16216,-99.0,Tamil Nadu
+3134,VODAFONE,4G,upload,12225,-94.0,Tamil Nadu
+3135,VODAFONE,4G,upload,18786,-86.0,Tamil Nadu
+3136,VODAFONE,4G,upload,8557,-87.0,Tamil Nadu
+3137,VODAFONE,4G,upload,1625,-92.0,Tamil Nadu
+3138,JIO,4G,download,53335,-65.0,Orissa
+3139,JIO,4G,upload,7047,-65.0,Orissa
+3140,AIRTEL,4G,download,5806,-93.0,Maharashtra
+3141,AIRTEL,4G,upload,3951,-93.0,Maharashtra
+3142,AIRTEL,4G,download,10708,-77.0,Maharashtra
+3143,AIRTEL,4G,download,600,-77.0,Maharashtra
+3144,AIRTEL,4G,download,1895,-73.0,Maharashtra
+3145,AIRTEL,4G,download,1120,-83.0,Maharashtra
+3146,AIRTEL,4G,download,358,-85.0,Maharashtra
+3147,AIRTEL,4G,download,860,-81.0,Maharashtra
+3148,AIRTEL,4G,download,1269,-71.0,Maharashtra
+3149,AIRTEL,4G,download,1428,-75.0,Maharashtra
+3150,AIRTEL,4G,upload,252,-77.0,Maharashtra
+3151,AIRTEL,4G,upload,37,-77.0,Maharashtra
+3152,AIRTEL,4G,upload,612,-73.0,Maharashtra
+3153,AIRTEL,4G,upload,136,-83.0,Maharashtra
+3154,AIRTEL,4G,upload,33,-81.0,Maharashtra
+3155,AIRTEL,4G,upload,71,-77.0,Maharashtra
+3156,AIRTEL,4G,upload,70,-77.0,Maharashtra
+3157,JIO,4G,download,5087,-84.0,Kerala
+3158,JIO,4G,download,4242,,Kerala
+3159,JIO,4G,download,10076,-101.0,Kerala
+3160,JIO,4G,upload,7279,-85.0,Kerala
+3161,JIO,4G,upload,3537,-87.0,Kerala
+3162,JIO,4G,upload,2538,-94.0,Kerala
+3163,JIO,4G,download,80142,-73.0,UP West
+3164,JIO,4G,upload,9938,-67.0,Gujarat
+3165,JIO,4G,upload,8658,-67.0,Gujarat
+3166,JIO,4G,download,77649,-61.0,Rajasthan
+3167,JIO,4G,upload,8668,-61.0,Rajasthan
+3168,JIO,4G,download,0,,Andhra Pradesh
+3169,JIO,4G,upload,324,-85.0,Andhra Pradesh
+3170,JIO,4G,download,1602,-91.0,Madhya Pradesh
+3171,JIO,4G,download,1931,-95.0,Madhya Pradesh
+3172,JIO,4G,download,1490,-93.0,Madhya Pradesh
+3173,JIO,4G,download,1093,-93.0,Madhya Pradesh
+3174,JIO,4G,download,678,-93.0,Madhya Pradesh
+3175,JIO,4G,download,5866,-97.0,Madhya Pradesh
+3176,JIO,4G,download,4424,-95.0,Madhya Pradesh
+3177,JIO,4G,download,3895,-91.0,Madhya Pradesh
+3178,JIO,4G,download,15219,-91.0,Madhya Pradesh
+3179,JIO,4G,download,6871,-97.0,Madhya Pradesh
+3180,JIO,4G,upload,369,-91.0,Madhya Pradesh
+3181,JIO,4G,upload,6125,-91.0,Madhya Pradesh
+3182,JIO,4G,upload,5212,-89.0,Madhya Pradesh
+3183,JIO,4G,upload,5406,-93.0,Madhya Pradesh
+3184,JIO,4G,upload,5549,-93.0,Madhya Pradesh
+3185,JIO,4G,upload,2316,-93.0,Madhya Pradesh
+3186,JIO,4G,upload,1777,-97.0,Madhya Pradesh
+3187,JIO,4G,upload,1764,-91.0,Madhya Pradesh
+3188,JIO,4G,upload,4501,-99.0,Madhya Pradesh
+3189,JIO,4G,upload,3169,-93.0,Madhya Pradesh
+3190,JIO,4G,download,77461,-72.0,Rajasthan
+3191,JIO,4G,upload,8159,-72.0,Rajasthan
+3192,JIO,4G,download,25863,-70.0,Gujarat
+3193,JIO,4G,download,20118,-70.0,Gujarat
+3194,JIO,4G,download,56177,-70.0,Gujarat
+3195,JIO,4G,download,3665,-80.0,UP East
+3196,JIO,4G,download,2106,-98.0,UP East
+3197,JIO,4G,download,7489,-85.0,UP East
+3198,JIO,4G,download,615,-76.0,UP East
+3199,JIO,4G,download,248,-106.0,UP East
+3200,JIO,4G,upload,4930,-80.0,UP East
+3201,JIO,4G,upload,960,-98.0,UP East
+3202,JIO,4G,upload,2605,-85.0,UP East
+3203,JIO,4G,upload,587,-76.0,UP East
+3204,JIO,4G,upload,436,-106.0,UP East
+3205,JIO,4G,download,12717,-71.0,Karnataka
+3206,JIO,4G,download,90,-85.0,Karnataka
+3207,JIO,4G,download,2525,-71.0,Karnataka
+3208,JIO,4G,download,3996,-79.0,Karnataka
+3209,JIO,4G,download,384,-75.0,Karnataka
+3210,JIO,4G,upload,1717,-73.0,Karnataka
+3211,JIO,4G,upload,909,-77.0,Karnataka
+3212,JIO,4G,upload,1590,-71.0,Karnataka
+3213,JIO,4G,upload,159,-79.0,Karnataka
+3214,JIO,4G,upload,477,-73.0,Karnataka
+3215,AIRTEL,4G,download,873,-105.0,Kerala
+3216,AIRTEL,4G,upload,1111,,Kerala
+3217,JIO,4G,download,296,-93.0,Tamil Nadu
+3218,JIO,4G,download,1108,-95.0,Tamil Nadu
+3219,JIO,4G,upload,2199,-92.0,Tamil Nadu
+3220,JIO,4G,upload,122,-95.0,Tamil Nadu
+3221,AIRTEL,4G,download,1855,,Kerala
+3222,AIRTEL,4G,download,26216,-110.0,Kerala
+3223,AIRTEL,4G,download,13011,-110.0,Kerala
+3224,AIRTEL,4G,download,24919,-110.0,Kerala
+3225,AIRTEL,4G,download,3090,-109.0,Kerala
+3226,AIRTEL,4G,download,13947,-107.0,Kerala
+3227,AIRTEL,4G,download,14577,-106.0,Kerala
+3228,AIRTEL,4G,download,6207,,Kerala
+3229,AIRTEL,4G,download,4141,,Kerala
+3230,AIRTEL,4G,download,7047,,Kerala
+3231,AIRTEL,4G,download,4189,,Kerala
+3232,AIRTEL,4G,download,7888,-111.0,Kerala
+3233,AIRTEL,4G,download,1198,,Kerala
+3234,AIRTEL,4G,download,4009,-111.0,Kerala
+3235,AIRTEL,4G,download,20911,-112.0,Kerala
+3236,AIRTEL,4G,upload,1532,,Kerala
+3237,AIRTEL,4G,upload,1071,-110.0,Kerala
+3238,AIRTEL,4G,upload,1434,-110.0,Kerala
+3239,AIRTEL,4G,upload,1371,-110.0,Kerala
+3240,AIRTEL,4G,upload,47,-109.0,Kerala
+3241,AIRTEL,4G,upload,297,-107.0,Kerala
+3242,AIRTEL,4G,upload,51,-106.0,Kerala
+3243,AIRTEL,4G,upload,169,,Kerala
+3244,AIRTEL,4G,upload,3666,,Kerala
+3245,AIRTEL,4G,upload,64,,Kerala
+3246,AIRTEL,4G,upload,1065,,Kerala
+3247,AIRTEL,4G,upload,222,-111.0,Kerala
+3248,AIRTEL,4G,upload,724,,Kerala
+3249,AIRTEL,4G,upload,104,-111.0,Kerala
+3250,AIRTEL,4G,upload,2597,-112.0,Kerala
+3251,AIRTEL,4G,download,985,-87.0,Tamil Nadu
+3252,AIRTEL,4G,download,9345,-75.0,Tamil Nadu
+3253,AIRTEL,4G,upload,48,-87.0,Tamil Nadu
+3254,AIRTEL,4G,upload,237,-83.0,Tamil Nadu
+3255,AIRTEL,4G,download,6978,-93.0,UP East
+3256,AIRTEL,4G,upload,247,-93.0,UP East
+3257,JIO,4G,upload,1513,-110.0,Gujarat
+3258,JIO,4G,upload,407,-110.0,Gujarat
+3259,IDEA,3G,download,3234,,Punjab
+3260,IDEA,3G,download,2715,,Punjab
+3261,IDEA,4G,download,30845,-77.0,Punjab
+3262,IDEA,4G,download,24267,-90.0,Punjab
+3263,IDEA,4G,download,20649,-72.0,Punjab
+3264,IDEA,4G,download,18891,-82.0,Punjab
+3265,IDEA,4G,download,6920,-88.0,Punjab
+3266,IDEA,3G,download,238,,Punjab
+3267,IDEA,4G,download,17813,-88.0,Punjab
+3268,IDEA,3G,download,5,,Punjab
+3269,IDEA,3G,download,2156,,Punjab
+3270,AIRTEL,4G,download,31734,-71.0,Karnataka
+3271,AIRTEL,4G,upload,991,-75.0,Karnataka
+3272,IDEA,4G,download,11780,,Kerala
+3273,IDEA,4G,upload,4914,,Kerala
+3274,JIO,4G,download,9403,-64.0,Gujarat
+3275,JIO,4G,download,60964,-64.0,Gujarat
+3276,JIO,4G,download,40334,-64.0,Gujarat
+3277,JIO,4G,download,39580,-64.0,Gujarat
+3278,JIO,4G,upload,6936,-64.0,Gujarat
+3279,JIO,4G,upload,6016,-64.0,Gujarat
+3280,JIO,4G,upload,7101,-64.0,Gujarat
+3281,JIO,4G,upload,7180,-64.0,Gujarat
+3282,JIO,4G,download,493,-71.0,Kerala
+3283,JIO,4G,download,331,-71.0,Kerala
+3284,JIO,4G,download,763,-69.0,Kerala
+3285,JIO,4G,upload,530,-71.0,Kerala
+3286,JIO,4G,upload,1131,-69.0,Kerala
+3287,JIO,4G,upload,713,-69.0,Kerala
+3288,JIO,4G,download,11502,-71.0,Gujarat
+3289,JIO,4G,download,9703,-69.0,Gujarat
+3290,JIO,4G,upload,1412,-75.0,Gujarat
+3291,JIO,4G,upload,2189,-73.0,Gujarat
+3292,VODAFONE,4G,download,4635,-103.0,Tamil Nadu
+3293,VODAFONE,4G,download,2340,-107.0,Tamil Nadu
+3294,VODAFONE,4G,download,5153,-105.0,Tamil Nadu
+3295,VODAFONE,4G,download,6809,-106.0,Tamil Nadu
+3296,VODAFONE,4G,download,10370,-102.0,Tamil Nadu
+3297,VODAFONE,4G,download,2503,-99.0,Tamil Nadu
+3298,VODAFONE,4G,download,3169,-112.0,Tamil Nadu
+3299,VODAFONE,4G,download,11292,-109.0,Tamil Nadu
+3300,VODAFONE,4G,download,2213,,Tamil Nadu
+3301,VODAFONE,4G,download,2871,-104.0,Tamil Nadu
+3302,VODAFONE,4G,download,3048,-99.0,Tamil Nadu
+3303,VODAFONE,4G,download,5719,-104.0,Tamil Nadu
+3304,VODAFONE,4G,download,27595,-96.0,Tamil Nadu
+3305,VODAFONE,4G,download,9334,-103.0,Tamil Nadu
+3306,VODAFONE,4G,upload,2649,-103.0,Tamil Nadu
+3307,VODAFONE,4G,upload,2259,-102.0,Tamil Nadu
+3308,VODAFONE,4G,upload,4351,-105.0,Tamil Nadu
+3309,VODAFONE,4G,upload,2118,-107.0,Tamil Nadu
+3310,VODAFONE,4G,upload,1379,-100.0,Tamil Nadu
+3311,VODAFONE,4G,upload,3578,-99.0,Tamil Nadu
+3312,VODAFONE,4G,upload,1959,-108.0,Tamil Nadu
+3313,VODAFONE,4G,upload,575,-110.0,Tamil Nadu
+3314,VODAFONE,4G,upload,865,-112.0,Tamil Nadu
+3315,VODAFONE,4G,upload,3194,-104.0,Tamil Nadu
+3316,VODAFONE,4G,upload,430,-99.0,Tamil Nadu
+3317,VODAFONE,4G,upload,3491,-103.0,Tamil Nadu
+3318,VODAFONE,4G,upload,6590,-96.0,Tamil Nadu
+3319,VODAFONE,4G,upload,4802,-103.0,Tamil Nadu
+3320,AIRTEL,4G,download,1987,,Kerala
+3321,AIRTEL,4G,upload,83,,Kerala
+3322,AIRTEL,4G,download,3206,-104.0,Himachal Pradesh
+3323,AIRTEL,4G,download,0,-103.0,Himachal Pradesh
+3324,AIRTEL,4G,download,1700,-110.0,Himachal Pradesh
+3325,AIRTEL,4G,download,1766,-111.0,Himachal Pradesh
+3326,AIRTEL,4G,upload,1992,-102.0,Himachal Pradesh
+3327,AIRTEL,4G,upload,2614,-101.0,Himachal Pradesh
+3328,AIRTEL,4G,upload,73,-110.0,Himachal Pradesh
+3329,AIRTEL,4G,upload,131,,Himachal Pradesh
+3330,IDEA,4G,download,54,-95.0,UP West
+3331,IDEA,4G,download,189,-97.0,UP West
+3332,IDEA,4G,download,1147,-83.0,UP West
+3333,IDEA,4G,download,337,-85.0,UP West
+3334,IDEA,4G,download,2782,-93.0,UP West
+3335,IDEA,4G,download,3145,-99.0,UP West
+3336,IDEA,4G,download,65,-93.0,UP West
+3337,IDEA,4G,download,1175,-89.0,UP West
+3338,IDEA,4G,download,1550,-93.0,UP West
+3339,IDEA,4G,download,96,-93.0,UP West
+3340,IDEA,4G,upload,490,-91.0,UP West
+3341,IDEA,4G,upload,13597,-97.0,UP West
+3342,IDEA,4G,upload,566,-83.0,UP West
+3343,IDEA,4G,upload,861,-91.0,UP West
+3344,IDEA,4G,upload,2654,-93.0,UP West
+3345,IDEA,4G,upload,10618,-99.0,UP West
+3346,IDEA,4G,upload,6337,-93.0,UP West
+3347,IDEA,4G,upload,4372,-89.0,UP West
+3348,IDEA,4G,upload,10450,-93.0,UP West
+3349,IDEA,4G,upload,3749,-93.0,UP West
+3350,AIRTEL,4G,download,17142,,Maharashtra
+3351,JIO,4G,download,404,-59.0,UP West
+3352,JIO,4G,download,12003,-67.0,UP West
+3353,JIO,4G,download,6531,-79.0,UP West
+3354,JIO,4G,download,1833,-75.0,UP West
+3355,JIO,4G,download,1284,-75.0,UP West
+3356,JIO,4G,download,451,-77.0,UP West
+3357,IDEA,4G,download,4369,-75.0,UP West
+3358,JIO,4G,download,91,-51.0,UP West
+3359,IDEA,4G,download,1495,-51.0,UP West
+3360,JIO,4G,download,13149,-63.0,Delhi
+3361,JIO,4G,upload,2923,-59.0,UP West
+3362,JIO,4G,upload,1396,-71.0,UP West
+3363,JIO,4G,upload,779,-79.0,UP West
+3364,JIO,4G,upload,968,-75.0,UP West
+3365,JIO,4G,upload,472,-77.0,UP West
+3366,JIO,4G,upload,52,-79.0,UP West
+3367,IDEA,4G,upload,2394,-75.0,UP West
+3368,JIO,4G,upload,1423,-51.0,UP West
+3369,IDEA,4G,upload,6,-51.0,UP West
+3370,JIO,4G,upload,3235,-63.0,Delhi
+3371,JIO,4G,upload,7812,-62.0,Orissa
+3372,VODAFONE,4G,download,5012,,Karnataka
+3373,VODAFONE,4G,download,3084,,Karnataka
+3374,JIO,4G,download,3694,,Karnataka
+3375,JIO,4G,download,5799,,Karnataka
+3376,JIO,4G,download,1123,,Karnataka
+3377,JIO,4G,download,6265,,Karnataka
+3378,JIO,4G,download,7086,,Karnataka
+3379,VODAFONE,4G,download,6516,,Karnataka
+3380,JIO,4G,download,555,,Karnataka
+3381,JIO,4G,download,529,,Karnataka
+3382,JIO,4G,download,266,,Karnataka
+3383,JIO,4G,download,97,,Karnataka
+3384,JIO,4G,download,228,,Karnataka
+3385,JIO,4G,download,3194,,Karnataka
+3386,VODAFONE,4G,upload,5618,,Karnataka
+3387,VODAFONE,4G,upload,185,,Karnataka
+3388,JIO,4G,upload,2606,,Karnataka
+3389,JIO,4G,upload,1893,,Karnataka
+3390,JIO,4G,upload,544,,Karnataka
+3391,JIO,4G,upload,1801,,Karnataka
+3392,JIO,4G,upload,1535,,Karnataka
+3393,VODAFONE,4G,upload,2813,,Karnataka
+3394,JIO,4G,upload,220,,Karnataka
+3395,JIO,4G,upload,439,,Karnataka
+3396,JIO,4G,upload,1755,,Karnataka
+3397,JIO,4G,upload,161,,Karnataka
+3398,JIO,4G,upload,82,,Karnataka
+3399,JIO,4G,upload,3717,,Karnataka
+3400,JIO,4G,download,16859,-59.0,Rajasthan
+3401,JIO,4G,upload,3913,-51.0,Rajasthan
+3402,JIO,4G,download,39726,-63.0,Rajasthan
+3403,JIO,4G,download,54267,-63.0,Rajasthan
+3404,JIO,4G,download,40118,-63.0,Rajasthan
+3405,JIO,4G,upload,5873,-63.0,Rajasthan
+3406,JIO,4G,upload,5897,-63.0,Rajasthan
+3407,JIO,4G,upload,7638,-63.0,Rajasthan
+3408,JIO,4G,upload,6868,-71.0,Rajasthan
+3409,JIO,4G,upload,5271,-70.0,Rajasthan
+3410,JIO,4G,upload,3635,-70.0,Rajasthan
+3411,JIO,4G,upload,8370,-70.0,Rajasthan
+3412,JIO,4G,download,10257,-95.0,Kolkata
+3413,JIO,4G,download,4408,,Kerala
+3414,JIO,4G,download,1768,,Kerala
+3415,JIO,4G,download,1996,,Kerala
+3416,JIO,4G,upload,4685,,Kerala
+3417,JIO,4G,upload,3090,,Kerala
+3418,JIO,4G,upload,1647,,Kerala
+3419,AIRTEL,4G,upload,1958,-73.0,UP West
+3420,JIO,4G,download,79498,-72.0,Rajasthan
+3421,JIO,4G,download,664,-87.0,UP East
+3422,VODAFONE,4G,download,26466,-78.0,UP East
+3423,VODAFONE,4G,download,16222,-106.0,UP East
+3424,VODAFONE,4G,download,118,-77.0,UP East
+3425,VODAFONE,4G,download,149,-79.0,UP East
+3426,JIO,4G,download,388,-93.0,UP East
+3427,JIO,4G,download,2087,-81.0,UP East
+3428,JIO,4G,download,242,-94.0,UP East
+3429,VODAFONE,4G,download,3983,-77.0,UP East
+3430,VODAFONE,4G,download,24972,-70.0,UP East
+3431,VODAFONE,4G,download,21736,-84.0,UP East
+3432,VODAFONE,4G,download,21515,-82.0,UP East
+3433,VODAFONE,4G,download,23923,-70.0,UP East
+3434,VODAFONE,4G,download,43,-84.0,UP East
+3435,VODAFONE,4G,download,52,-70.0,UP East
+3436,VODAFONE,4G,download,614,-71.0,UP East
+3437,VODAFONE,4G,download,161,-67.0,UP East
+3438,VODAFONE,4G,download,10131,-81.0,UP East
+3439,VODAFONE,4G,download,7598,-80.0,UP East
+3440,VODAFONE,4G,download,13243,-76.0,UP East
+3441,VODAFONE,4G,download,13495,-86.0,UP East
+3442,VODAFONE,4G,download,118,-87.0,UP East
+3443,VODAFONE,4G,download,13688,-112.0,UP East
+3444,VODAFONE,4G,download,18772,-74.0,UP East
+3445,VODAFONE,4G,download,16237,-73.0,UP East
+3446,VODAFONE,4G,download,26951,-78.0,UP East
+3447,VODAFONE,4G,download,19409,-73.0,UP East
+3448,JIO,4G,upload,1997,-87.0,UP East
+3449,VODAFONE,4G,upload,8266,-78.0,UP East
+3450,VODAFONE,4G,upload,2525,-112.0,UP East
+3451,VODAFONE,4G,upload,5050,-77.0,UP East
+3452,VODAFONE,4G,upload,5343,-79.0,UP East
+3453,JIO,4G,upload,1900,-92.0,UP East
+3454,JIO,4G,upload,3382,-81.0,UP East
+3455,JIO,4G,upload,364,-95.0,UP East
+3456,VODAFONE,4G,upload,7537,-77.0,UP East
+3457,VODAFONE,4G,upload,7508,-70.0,UP East
+3458,VODAFONE,4G,upload,6403,-87.0,UP East
+3459,VODAFONE,4G,upload,6920,-79.0,UP East
+3460,VODAFONE,4G,upload,5915,-70.0,UP East
+3461,VODAFONE,4G,upload,5106,-83.0,UP East
+3462,VODAFONE,4G,upload,4172,-75.0,UP East
+3463,VODAFONE,4G,upload,5091,-71.0,UP East
+3464,VODAFONE,4G,upload,4889,-73.0,UP East
+3465,VODAFONE,4G,upload,4966,-87.0,UP East
+3466,VODAFONE,4G,upload,23999,-80.0,UP East
+3467,VODAFONE,4G,upload,5479,-76.0,UP East
+3468,VODAFONE,4G,upload,4967,-87.0,UP East
+3469,VODAFONE,4G,upload,7251,-87.0,UP East
+3470,VODAFONE,4G,upload,1291,-112.0,UP East
+3471,VODAFONE,4G,upload,6091,-74.0,UP East
+3472,VODAFONE,4G,upload,1876,-67.0,UP East
+3473,VODAFONE,4G,upload,6041,-79.0,UP East
+3474,VODAFONE,4G,upload,6468,-73.0,UP East
+3475,JIO,4G,download,17273,-51.0,Maharashtra
+3476,JIO,4G,download,13646,-51.0,Maharashtra
+3477,JIO,4G,upload,4905,-51.0,Maharashtra
+3478,JIO,4G,upload,5418,-51.0,Maharashtra
+3479,JIO,4G,upload,7162,-66.0,Rajasthan
+3480,JIO,4G,download,3298,-59.0,Tamil Nadu
+3481,JIO,4G,upload,3586,-65.0,Tamil Nadu
+3482,JIO,4G,download,5373,,Delhi
+3483,JIO,4G,upload,2416,,Delhi
+3484,AIRTEL,4G,download,4281,,UP West
+3485,AIRTEL,4G,download,5075,,UP West
+3486,AIRTEL,4G,upload,5129,,UP West
+3487,AIRTEL,4G,upload,283,,UP West
+3488,JIO,4G,download,630,,Kerala
+3489,JIO,4G,download,4320,,Kerala
+3490,JIO,4G,upload,424,,Kerala
+3491,JIO,4G,upload,555,,Kerala
+3492,JIO,4G,download,261,-79.0,Jammu & Kashmir
+3493,JIO,4G,upload,151,-79.0,Jammu & Kashmir
+3494,JIO,4G,download,27406,-69.0,Delhi
+3495,JIO,4G,download,42668,-69.0,Delhi
+3496,JIO,4G,download,9449,-69.0,Delhi
+3497,JIO,4G,upload,4447,-69.0,Delhi
+3498,JIO,4G,upload,6551,-69.0,Delhi
+3499,JIO,4G,upload,6737,-69.0,Delhi
+3500,AIRTEL,4G,upload,2976,-59.0,Kerala
+3501,AIRTEL,4G,upload,2668,-63.0,Kerala
+3502,JIO,4G,download,1611,,Kerala
+3503,JIO,4G,download,777,,Kerala
+3504,JIO,4G,download,369,,Kerala
+3505,JIO,4G,upload,183,,Kerala
+3506,JIO,4G,upload,33,,Kerala
+3507,JIO,4G,upload,27,,Kerala
+3508,JIO,4G,download,1778,-107.0,Karnataka
+3509,JIO,4G,download,6668,-109.0,Karnataka
+3510,JIO,4G,download,1591,-109.0,Karnataka
+3511,JIO,4G,download,2096,-109.0,Karnataka
+3512,JIO,4G,upload,3683,-107.0,Karnataka
+3513,JIO,4G,upload,4441,-105.0,Karnataka
+3514,JIO,4G,upload,3592,-109.0,Karnataka
+3515,JIO,4G,upload,3944,-111.0,Karnataka
+3516,AIRTEL,4G,download,10184,-96.0,Mumbai
+3517,AIRTEL,4G,download,9761,-68.0,Mumbai
+3518,AIRTEL,4G,download,1270,-82.0,Mumbai
+3519,AIRTEL,4G,download,6495,-83.0,Mumbai
+3520,AIRTEL,4G,download,4324,-87.0,Mumbai
+3521,AIRTEL,4G,upload,6126,-95.0,Mumbai
+3522,AIRTEL,4G,upload,9350,-68.0,Mumbai
+3523,AIRTEL,4G,upload,2011,-82.0,Mumbai
+3524,AIRTEL,4G,upload,7494,-83.0,Mumbai
+3525,AIRTEL,4G,upload,2456,-103.0,Mumbai
+3526,IDEA,4G,download,1754,-53.0,Andhra Pradesh
+3527,IDEA,4G,upload,859,-53.0,Andhra Pradesh
+3528,JIO,4G,download,2884,-65.0,Andhra Pradesh
+3529,JIO,4G,download,1507,-65.0,Andhra Pradesh
+3530,JIO,4G,upload,2264,-65.0,Andhra Pradesh
+3531,JIO,4G,upload,1195,-65.0,Andhra Pradesh
+3532,VODAFONE,4G,download,0,-101.0,Gujarat
+3533,VODAFONE,4G,download,4161,-101.0,Gujarat
+3534,VODAFONE,4G,download,32677,-109.0,Gujarat
+3535,VODAFONE,4G,download,4347,-103.0,Gujarat
+3536,VODAFONE,4G,download,433,-103.0,Gujarat
+3537,VODAFONE,4G,download,285,,Gujarat
+3538,VODAFONE,4G,download,190,-105.0,Gujarat
+3539,VODAFONE,4G,upload,11714,-93.0,Gujarat
+3540,VODAFONE,4G,upload,898,-105.0,Gujarat
+3541,VODAFONE,4G,upload,1891,-111.0,Gujarat
+3542,VODAFONE,4G,upload,931,-103.0,Gujarat
+3543,VODAFONE,4G,upload,0,-95.0,Gujarat
+3544,VODAFONE,4G,upload,21,,Gujarat
+3545,VODAFONE,4G,upload,429,-101.0,Gujarat
+3546,JIO,4G,download,80356,-62.0,Orissa
+3547,JIO,4G,download,79475,-62.0,Orissa
+3548,JIO,4G,download,80675,-62.0,Orissa
+3549,JIO,4G,upload,7959,-62.0,Orissa
+3550,JIO,4G,upload,7562,-62.0,Orissa
+3551,JIO,4G,upload,7476,-62.0,Orissa
+3552,JIO,4G,download,63985,-68.0,Punjab
+3553,JIO,4G,upload,0,-68.0,Punjab
+3554,JIO,4G,download,78352,-63.0,Orissa
+3555,JIO,4G,download,9487,-64.0,Gujarat
+3556,JIO,4G,download,38411,-62.0,Gujarat
+3557,JIO,4G,download,48517,-64.0,Gujarat
+3558,JIO,4G,download,24577,-61.0,Rajasthan
+3559,JIO,4G,upload,5321,-61.0,Rajasthan
+3560,JIO,4G,download,1327,-88.0,UP East
+3561,JIO,4G,download,301,-93.0,UP East
+3562,JIO,4G,download,1482,-97.0,UP East
+3563,JIO,4G,upload,2852,-88.0,UP East
+3564,JIO,4G,upload,437,-93.0,UP East
+3565,JIO,4G,upload,2060,-97.0,UP East
+3566,JIO,4G,download,11645,-95.0,Delhi
+3567,JIO,4G,download,1198,-97.0,Delhi
+3568,JIO,4G,download,1310,-95.0,Delhi
+3569,JIO,4G,download,6021,-105.0,Delhi
+3570,JIO,4G,download,16207,-105.0,Delhi
+3571,JIO,4G,download,4869,-89.0,Delhi
+3572,JIO,4G,download,18994,-93.0,Delhi
+3573,JIO,4G,download,258,-107.0,Delhi
+3574,JIO,4G,download,18829,-73.0,Delhi
+3575,JIO,4G,download,313,-101.0,Delhi
+3576,JIO,4G,download,6454,-89.0,Delhi
+3577,JIO,4G,download,8965,-85.0,Delhi
+3578,JIO,4G,download,1783,-85.0,Delhi
+3579,JIO,4G,download,1013,-97.0,Delhi
+3580,JIO,4G,download,5681,-99.0,Delhi
+3581,JIO,4G,download,15455,-87.0,Delhi
+3582,JIO,4G,upload,3956,-95.0,Delhi
+3583,JIO,4G,upload,1202,-97.0,Delhi
+3584,JIO,4G,upload,1974,-97.0,Delhi
+3585,JIO,4G,upload,2451,-105.0,Delhi
+3586,JIO,4G,upload,3962,-105.0,Delhi
+3587,JIO,4G,upload,3640,-91.0,Delhi
+3588,JIO,4G,upload,3961,-95.0,Delhi
+3589,JIO,4G,upload,23,-107.0,Delhi
+3590,JIO,4G,upload,6421,-73.0,Delhi
+3591,JIO,4G,upload,216,-101.0,Delhi
+3592,JIO,4G,upload,5412,-87.0,Delhi
+3593,JIO,4G,upload,6909,-95.0,Delhi
+3594,JIO,4G,upload,7080,-85.0,Delhi
+3595,JIO,4G,upload,2846,-93.0,Delhi
+3596,JIO,4G,upload,3977,-99.0,Delhi
+3597,JIO,4G,upload,7954,-87.0,Delhi
+3598,JIO,4G,download,22684,-71.0,Gujarat
+3599,JIO,4G,download,45050,-71.0,Gujarat
+3600,JIO,4G,upload,3508,-71.0,Gujarat
+3601,JIO,4G,upload,4521,-71.0,Gujarat
+3602,JIO,4G,download,5383,-103.0,Andhra Pradesh
+3603,JIO,4G,download,10752,-103.0,Andhra Pradesh
+3604,JIO,4G,download,1186,-102.0,Andhra Pradesh
+3605,JIO,4G,download,8285,-81.0,Andhra Pradesh
+3606,JIO,4G,download,549,-90.0,Andhra Pradesh
+3607,JIO,4G,download,11067,-102.0,Andhra Pradesh
+3608,JIO,4G,download,4434,-94.0,Andhra Pradesh
+3609,JIO,4G,download,5575,-64.0,Andhra Pradesh
+3610,JIO,4G,download,2041,-86.0,Andhra Pradesh
+3611,JIO,4G,download,7336,-52.0,Andhra Pradesh
+3612,JIO,4G,download,11202,-100.0,Andhra Pradesh
+3613,JIO,4G,download,8276,-94.0,Andhra Pradesh
+3614,JIO,4G,download,431,-99.0,Andhra Pradesh
+3615,JIO,4G,upload,11,-103.0,Andhra Pradesh
+3616,JIO,4G,upload,428,-103.0,Andhra Pradesh
+3617,JIO,4G,upload,144,-102.0,Andhra Pradesh
+3618,JIO,4G,upload,7279,-81.0,Andhra Pradesh
+3619,JIO,4G,upload,274,-90.0,Andhra Pradesh
+3620,JIO,4G,upload,1812,-102.0,Andhra Pradesh
+3621,JIO,4G,upload,621,-94.0,Andhra Pradesh
+3622,JIO,4G,upload,2581,-64.0,Andhra Pradesh
+3623,JIO,4G,upload,809,-86.0,Andhra Pradesh
+3624,JIO,4G,upload,7011,-52.0,Andhra Pradesh
+3625,JIO,4G,upload,1913,-100.0,Andhra Pradesh
+3626,JIO,4G,upload,2481,-94.0,Andhra Pradesh
+3627,JIO,4G,upload,1019,-99.0,Andhra Pradesh
+3628,JIO,4G,download,5019,-55.0,Andhra Pradesh
+3629,JIO,4G,download,8507,-63.0,Andhra Pradesh
+3630,JIO,4G,upload,2089,-61.0,Andhra Pradesh
+3631,JIO,4G,upload,3842,-61.0,Andhra Pradesh
+3632,JIO,4G,download,22025,-89.0,Andhra Pradesh
+3633,JIO,4G,download,8128,-90.0,Andhra Pradesh
+3634,JIO,4G,download,8293,-86.0,Andhra Pradesh
+3635,JIO,4G,upload,4569,-89.0,Andhra Pradesh
+3636,JIO,4G,upload,1540,-90.0,Andhra Pradesh
+3637,JIO,4G,upload,3979,-86.0,Andhra Pradesh
+3638,JIO,4G,download,2179,-107.0,Karnataka
+3639,JIO,4G,upload,661,-107.0,Karnataka
+3640,JIO,4G,download,1566,-77.0,Delhi
+3641,JIO,4G,download,1791,-85.0,Delhi
+3642,JIO,4G,download,1386,-91.0,Delhi
+3643,JIO,4G,upload,914,-77.0,Delhi
+3644,JIO,4G,upload,2415,-85.0,Delhi
+3645,JIO,4G,upload,2954,-86.0,Delhi
+3646,VODAFONE,4G,download,4835,,Mumbai
+3647,VODAFONE,4G,download,6901,-72.0,Mumbai
+3648,VODAFONE,4G,download,8074,-70.0,Mumbai
+3649,VODAFONE,4G,download,1562,-92.0,Mumbai
+3650,VODAFONE,4G,download,907,-93.0,Mumbai
+3651,VODAFONE,4G,download,1951,-90.0,Mumbai
+3652,VODAFONE,4G,download,4021,,Mumbai
+3653,VODAFONE,4G,download,2384,-106.0,Mumbai
+3654,VODAFONE,4G,download,88,-59.0,Mumbai
+3655,VODAFONE,4G,download,4612,,Mumbai
+3656,VODAFONE,4G,upload,9614,,Mumbai
+3657,VODAFONE,4G,upload,7269,-72.0,Mumbai
+3658,VODAFONE,4G,upload,6702,-70.0,Mumbai
+3659,VODAFONE,4G,upload,7993,-92.0,Mumbai
+3660,VODAFONE,4G,upload,5471,-93.0,Mumbai
+3661,VODAFONE,4G,upload,5836,,Mumbai
+3662,VODAFONE,4G,upload,1762,,Mumbai
+3663,VODAFONE,4G,upload,1958,-106.0,Mumbai
+3664,VODAFONE,4G,upload,5,-61.0,Mumbai
+3665,VODAFONE,4G,upload,8890,,Mumbai
+3666,JIO,4G,download,37852,-64.0,Rajasthan
+3667,JIO,4G,download,38655,-63.0,Rajasthan
+3668,JIO,4G,upload,7575,-64.0,Rajasthan
+3669,JIO,4G,upload,6794,-63.0,Rajasthan
+3670,JIO,4G,download,16533,-57.0,Orissa
+3671,JIO,4G,upload,8405,-57.0,Orissa
+3672,JIO,4G,download,46671,-61.0,Rajasthan
+3673,JIO,4G,download,47739,-61.0,Rajasthan
+3674,JIO,4G,download,39809,-61.0,Rajasthan
+3675,JIO,4G,download,38115,-61.0,Rajasthan
+3676,JIO,4G,upload,6831,-61.0,Rajasthan
+3677,JIO,4G,upload,7467,-61.0,Rajasthan
+3678,JIO,4G,upload,7618,-61.0,Rajasthan
+3679,JIO,4G,upload,7253,-61.0,Rajasthan
+3680,JIO,4G,download,43533,-73.0,UP West
+3681,JIO,4G,upload,8291,-73.0,UP West
+3682,JIO,4G,download,1387,-91.0,UP East
+3683,JIO,4G,upload,10850,-91.0,UP East
+3684,JIO,4G,download,39411,-62.0,Rajasthan
+3685,JIO,4G,download,6787,-63.0,Rajasthan
+3686,JIO,4G,upload,7203,-62.0,Rajasthan
+3687,JIO,4G,upload,3055,-63.0,Rajasthan
+3688,IDEA,4G,download,6469,,Bihar
+3689,IDEA,4G,upload,6,,Bihar
+3690,VODAFONE,4G,download,5613,-87.0,Gujarat
+3691,VODAFONE,4G,download,3445,-103.0,Gujarat
+3692,VODAFONE,4G,upload,2407,-87.0,Gujarat
+3693,VODAFONE,4G,upload,750,-103.0,Gujarat
+3694,IDEA,4G,download,10755,-51.0,Andhra Pradesh
+3695,IDEA,4G,download,1900,-71.0,Andhra Pradesh
+3696,IDEA,4G,upload,2350,-67.0,Andhra Pradesh
+3697,IDEA,4G,upload,1027,-65.0,Andhra Pradesh
+3698,JIO,4G,download,7201,-65.0,Delhi
+3699,JIO,4G,download,2934,-73.0,Delhi
+3700,JIO,4G,download,6495,-71.0,Delhi
+3701,JIO,4G,download,6295,-51.0,Delhi
+3702,JIO,4G,download,8177,-69.0,Delhi
+3703,JIO,4G,upload,2439,-71.0,Delhi
+3704,JIO,4G,upload,775,-73.0,Delhi
+3705,JIO,4G,upload,1850,-75.0,Delhi
+3706,JIO,4G,upload,6537,-51.0,Delhi
+3707,JIO,4G,upload,1272,-69.0,Delhi
+3708,VODAFONE,4G,download,11,-97.0,Mumbai
+3709,VODAFONE,4G,download,35,-93.0,Mumbai
+3710,VODAFONE,4G,download,0,-101.0,Mumbai
+3711,VODAFONE,4G,upload,5633,-87.0,Mumbai
+3712,VODAFONE,4G,upload,2482,-95.0,Mumbai
+3713,VODAFONE,4G,upload,5437,-101.0,Mumbai
+3714,JIO,4G,download,80118,-61.0,Madhya Pradesh
+3715,JIO,4G,download,79566,-61.0,Madhya Pradesh
+3716,JIO,4G,download,80623,-61.0,Madhya Pradesh
+3717,JIO,4G,upload,8647,-61.0,Madhya Pradesh
+3718,JIO,4G,upload,8685,-61.0,Madhya Pradesh
+3719,JIO,4G,upload,9136,-61.0,Madhya Pradesh
+3720,JIO,4G,download,984,-93.0,Maharashtra
+3721,JIO,4G,download,1244,-108.0,Maharashtra
+3722,JIO,4G,download,55575,-58.0,Orissa
+3723,JIO,4G,download,77537,-58.0,Orissa
+3724,JIO,4G,upload,7585,-58.0,Orissa
+3725,JIO,4G,upload,7144,-58.0,Orissa
+3726,VODAFONE,4G,download,4747,-61.0,Assam
+3727,VODAFONE,4G,download,85,-59.0,Assam
+3728,VODAFONE,4G,download,127,-59.0,Assam
+3729,VODAFONE,4G,download,12764,-51.0,Assam
+3730,VODAFONE,4G,download,6171,-51.0,Assam
+3731,VODAFONE,4G,download,6529,-53.0,Assam
+3732,VODAFONE,4G,download,3022,-55.0,Assam
+3733,VODAFONE,4G,download,920,-51.0,Assam
+3734,VODAFONE,4G,download,613,-57.0,Assam
+3735,VODAFONE,4G,download,2324,-57.0,Assam
+3736,VODAFONE,4G,download,2297,-59.0,Assam
+3737,VODAFONE,4G,download,2934,-57.0,Assam
+3738,VODAFONE,4G,download,3178,-51.0,Assam
+3739,VODAFONE,4G,download,2594,-53.0,Assam
+3740,VODAFONE,4G,download,3592,-51.0,Assam
+3741,VODAFONE,4G,download,1506,-51.0,Assam
+3742,VODAFONE,4G,download,2779,-51.0,Assam
+3743,VODAFONE,4G,upload,6222,-61.0,Assam
+3744,VODAFONE,4G,upload,1439,-57.0,Assam
+3745,VODAFONE,4G,upload,877,-59.0,Assam
+3746,VODAFONE,4G,upload,20921,-53.0,Assam
+3747,VODAFONE,4G,upload,27958,-51.0,Assam
+3748,VODAFONE,4G,upload,14657,-53.0,Assam
+3749,VODAFONE,4G,upload,22366,-53.0,Assam
+3750,VODAFONE,4G,upload,23571,-51.0,Assam
+3751,VODAFONE,4G,upload,16597,-57.0,Assam
+3752,VODAFONE,4G,upload,20512,-59.0,Assam
+3753,VODAFONE,4G,upload,15355,-57.0,Assam
+3754,VODAFONE,4G,upload,12015,-59.0,Assam
+3755,VODAFONE,4G,upload,10596,-55.0,Assam
+3756,VODAFONE,4G,upload,9052,-53.0,Assam
+3757,VODAFONE,4G,upload,9142,-51.0,Assam
+3758,VODAFONE,4G,upload,14394,-51.0,Assam
+3759,VODAFONE,4G,upload,16758,-51.0,Assam
+3760,AIRTEL,4G,download,1948,-84.0,UP East
+3761,AIRTEL,4G,download,1694,-84.0,UP East
+3762,AIRTEL,4G,download,1170,-82.0,UP East
+3763,AIRTEL,4G,upload,2841,-84.0,UP East
+3764,AIRTEL,4G,upload,2164,-85.0,UP East
+3765,AIRTEL,4G,upload,3268,-82.0,UP East
+3766,AIRTEL,4G,download,8167,-65.0,Maharashtra
+3767,JIO,4G,download,4016,-100.0,Delhi
+3768,JIO,4G,download,2190,-81.0,Delhi
+3769,AIRTEL,4G,download,1111,-95.0,Haryana
+3770,AIRTEL,4G,download,17587,-87.0,Haryana
+3771,AIRTEL,4G,download,8015,-87.0,Haryana
+3772,AIRTEL,4G,download,2909,-85.0,Haryana
+3773,AIRTEL,4G,download,3845,-91.0,Haryana
+3774,AIRTEL,4G,download,3092,-93.0,Haryana
+3775,AIRTEL,4G,download,3232,-95.0,Haryana
+3776,AIRTEL,4G,download,3385,-89.0,Haryana
+3777,AIRTEL,4G,download,1777,-99.0,Haryana
+3778,AIRTEL,4G,download,7320,-97.0,Haryana
+3779,AIRTEL,4G,download,3652,-93.0,Haryana
+3780,AIRTEL,4G,upload,1538,-93.0,Haryana
+3781,AIRTEL,4G,upload,10624,-91.0,Haryana
+3782,AIRTEL,4G,upload,3824,-89.0,Haryana
+3783,AIRTEL,4G,upload,5517,-87.0,Haryana
+3784,AIRTEL,4G,upload,13551,-91.0,Haryana
+3785,AIRTEL,4G,upload,132,-93.0,Haryana
+3786,AIRTEL,4G,upload,702,-97.0,Haryana
+3787,AIRTEL,4G,upload,112,-91.0,Haryana
+3788,AIRTEL,4G,upload,1,-93.0,Haryana
+3789,AIRTEL,4G,upload,10,-97.0,Haryana
+3790,AIRTEL,4G,upload,67,-93.0,Haryana
+3791,JIO,4G,download,2330,-65.0,West Bengal
+3792,JIO,4G,download,343,-65.0,West Bengal
+3793,JIO,4G,upload,25,-67.0,West Bengal
+3794,JIO,4G,upload,25420,-51.0,Rajasthan
+3795,JIO,4G,upload,2632,-61.0,Orissa
+3796,AIRTEL,4G,download,3030,,UP East
+3797,AIRTEL,4G,download,3741,,UP East
+3798,AIRTEL,4G,download,3576,,UP East
+3799,AIRTEL,4G,download,3675,,UP East
+3800,AIRTEL,4G,download,6542,,UP East
+3801,AIRTEL,4G,download,335,,UP East
+3802,AIRTEL,4G,download,9817,,UP East
+3803,AIRTEL,4G,download,9499,,UP East
+3804,AIRTEL,4G,download,12035,,UP East
+3805,AIRTEL,4G,download,1167,,UP East
+3806,AIRTEL,4G,download,744,,UP East
+3807,AIRTEL,4G,download,6964,,UP East
+3808,AIRTEL,4G,download,1078,,UP East
+3809,AIRTEL,4G,download,14171,,UP East
+3810,AIRTEL,4G,download,3,,UP East
+3811,AIRTEL,4G,download,10425,,UP East
+3812,AIRTEL,4G,download,60,,UP East
+3813,AIRTEL,4G,download,4998,,UP East
+3814,JIO,4G,download,80610,-72.0,Rajasthan
+3815,JIO,4G,upload,8547,-72.0,Rajasthan
+3816,JIO,4G,download,77594,-60.0,UP West
+3817,JIO,4G,download,80236,-58.0,UP West
+3818,JIO,4G,download,80695,-60.0,UP West
+3819,JIO,4G,upload,8565,-60.0,UP West
+3820,JIO,4G,upload,8432,-58.0,UP West
+3821,JIO,4G,upload,8450,-60.0,UP West
+3822,JIO,4G,download,80755,-68.0,Rajasthan
+3823,JIO,4G,upload,8796,-68.0,Rajasthan
+3824,JIO,4G,download,1,-55.0,Andhra Pradesh
+3825,JIO,4G,upload,2041,-55.0,Andhra Pradesh
+3826,JIO,4G,download,66787,-64.0,Rajasthan
+3827,JIO,4G,upload,5644,-64.0,Rajasthan
+3828,AIRTEL,4G,download,8584,-90.0,UP West
+3829,AIRTEL,4G,download,2705,-96.0,UP West
+3830,AIRTEL,4G,upload,2036,-90.0,UP West
+3831,AIRTEL,4G,upload,7785,-97.0,UP West
+3832,JIO,4G,download,1929,-73.0,Maharashtra
+3833,JIO,4G,upload,573,-73.0,Maharashtra
+3834,AIRTEL,4G,download,3297,-107.0,Kerala
+3835,AIRTEL,4G,download,7685,-105.0,Kerala
+3836,AIRTEL,4G,download,20308,-112.0,Kerala
+3837,AIRTEL,4G,upload,1579,-107.0,Kerala
+3838,AIRTEL,4G,upload,152,-105.0,Kerala
+3839,AIRTEL,4G,upload,2173,-112.0,Kerala
+3840,JIO,4G,download,1091,-82.0,UP East
+3841,JIO,4G,download,1597,-84.0,UP East
+3842,JIO,4G,download,10070,-82.0,UP East
+3843,JIO,4G,download,1552,-81.0,UP East
+3844,JIO,4G,upload,125,-81.0,UP East
+3845,JIO,4G,upload,35,-84.0,UP East
+3846,JIO,4G,upload,1747,-81.0,UP East
+3847,JIO,4G,upload,105,-82.0,UP East
+3848,JIO,4G,download,6784,-68.0,Delhi
+3849,JIO,4G,upload,7238,-68.0,Delhi
+3850,JIO,4G,download,6661,-67.0,Andhra Pradesh
+3851,JIO,4G,upload,5756,-67.0,Andhra Pradesh
+3852,JIO,4G,download,685,-73.0,Rajasthan
+3853,JIO,4G,download,483,-73.0,Rajasthan
+3854,JIO,4G,download,761,-75.0,Rajasthan
+3855,JIO,4G,download,2757,-81.0,Rajasthan
+3856,JIO,4G,download,3366,-75.0,Rajasthan
+3857,AIRTEL,4G,download,3137,-98.0,Maharashtra
+3858,AIRTEL,4G,download,513,,Maharashtra
+3859,AIRTEL,4G,download,1374,,Maharashtra
+3860,AIRTEL,4G,upload,7546,-98.0,Maharashtra
+3861,AIRTEL,4G,upload,47,,Maharashtra
+3862,AIRTEL,4G,upload,46,,Maharashtra
+3863,JIO,4G,upload,6798,-73.0,UP West
+3864,JIO,4G,download,495,-93.0,Kerala
+3865,JIO,4G,download,23107,-53.0,Kerala
+3866,JIO,4G,download,4611,-75.0,Kerala
+3867,JIO,4G,download,39527,-53.0,Kerala
+3868,JIO,4G,upload,134,-93.0,Kerala
+3869,JIO,4G,upload,3127,-59.0,Kerala
+3870,JIO,4G,upload,101,-73.0,Kerala
+3871,JIO,4G,upload,6887,-61.0,Kerala
+3872,JIO,4G,download,80003,-58.0,Gujarat
+3873,JIO,4G,upload,8587,-58.0,Gujarat
+3874,AIRTEL,4G,download,4809,-63.0,Andhra Pradesh
+3875,AIRTEL,4G,upload,16410,-63.0,Andhra Pradesh
+3876,JIO,4G,download,39167,-61.0,Rajasthan
+3877,JIO,4G,download,20517,-61.0,Rajasthan
+3878,JIO,4G,download,39435,-60.0,Rajasthan
+3879,JIO,4G,download,37387,-60.0,Rajasthan
+3880,JIO,4G,upload,7361,-61.0,Rajasthan
+3881,JIO,4G,upload,3336,-61.0,Rajasthan
+3882,JIO,4G,upload,5876,-60.0,Rajasthan
+3883,JIO,4G,upload,5377,-60.0,Rajasthan
+3884,JIO,4G,download,74104,-71.0,Rajasthan
+3885,JIO,4G,download,69285,-71.0,Rajasthan
+3886,JIO,4G,download,80568,-71.0,Rajasthan
+3887,JIO,4G,download,79538,-71.0,Rajasthan
+3888,JIO,4G,download,39584,-64.0,Orissa
+3889,JIO,4G,upload,6773,-64.0,Orissa
+3890,IDEA,4G,download,670,-70.0,Maharashtra
+3891,IDEA,4G,download,37927,-84.0,Maharashtra
+3892,IDEA,4G,download,43565,-84.0,Maharashtra
+3893,IDEA,4G,download,7622,-88.0,Maharashtra
+3894,IDEA,4G,download,5584,-109.0,Maharashtra
+3895,IDEA,4G,download,5015,-108.0,Maharashtra
+3896,IDEA,4G,download,3463,-95.0,Maharashtra
+3897,IDEA,4G,download,1749,,Maharashtra
+3898,IDEA,4G,download,1360,-91.0,Maharashtra
+3899,IDEA,4G,download,4137,-78.0,Maharashtra
+3900,JIO,4G,download,998,,Orissa
+3901,JIO,4G,upload,1782,,Orissa
+3902,AIRTEL,4G,download,15631,-86.0,Punjab
+3903,AIRTEL,4G,download,12922,-88.0,Punjab
+3904,AIRTEL,4G,download,5333,-90.0,Punjab
+3905,AIRTEL,4G,upload,8327,-89.0,Punjab
+3906,AIRTEL,4G,upload,9034,-88.0,Punjab
+3907,AIRTEL,4G,upload,15383,-90.0,Punjab
+3908,JIO,4G,download,57475,-71.0,Rajasthan
+3909,JIO,4G,upload,7967,-71.0,Rajasthan
+3910,AIRTEL,4G,upload,1264,-112.0,UP West
+3911,AIRTEL,4G,upload,3801,-83.0,UP West
+3912,AIRTEL,4G,upload,6237,-83.0,UP West
+3913,AIRTEL,4G,download,5185,,UP East
+3914,AIRTEL,4G,download,7724,,UP East
+3915,AIRTEL,4G,download,9045,,UP East
+3916,AIRTEL,4G,download,7818,,UP East
+3917,AIRTEL,4G,upload,318,,UP East
+3918,AIRTEL,4G,upload,297,,UP East
+3919,AIRTEL,4G,upload,315,,UP East
+3920,AIRTEL,4G,upload,344,,UP East
+3921,JIO,4G,download,8412,-67.0,Kerala
+3922,JIO,4G,upload,5363,-67.0,Kerala
+3923,JIO,4G,download,154,,Jammu & Kashmir
+3924,JIO,4G,download,293,,Jammu & Kashmir
+3925,JIO,4G,download,9,,Jammu & Kashmir
+3926,JIO,4G,download,79655,-66.0,Orissa
+3927,JIO,4G,upload,9184,-66.0,Orissa
+3928,AIRTEL,4G,download,1327,-110.0,Himachal Pradesh
+3929,AIRTEL,4G,download,859,,Himachal Pradesh
+3930,AIRTEL,4G,upload,1635,-110.0,Himachal Pradesh
+3931,AIRTEL,4G,upload,731,,Himachal Pradesh
+3932,AIRTEL,4G,download,879,-83.0,Kerala
+3933,AIRTEL,4G,download,4005,-75.0,Kerala
+3934,AIRTEL,4G,upload,1658,-79.0,Kerala
+3935,AIRTEL,4G,upload,2905,-75.0,Kerala
+3936,JIO,4G,download,39526,-63.0,Rajasthan
+3937,JIO,4G,upload,6009,-63.0,Rajasthan
+3938,JIO,4G,download,42839,,Rajasthan
+3939,JIO,4G,download,40377,-74.0,Rajasthan
+3940,JIO,4G,download,31271,-66.0,Rajasthan
+3941,JIO,4G,download,31934,-70.0,Rajasthan
+3942,JIO,4G,download,26133,-72.0,Rajasthan
+3943,JIO,4G,upload,7948,,Rajasthan
+3944,JIO,4G,upload,8497,,Rajasthan
+3945,JIO,4G,upload,23051,-66.0,Rajasthan
+3946,JIO,4G,upload,21956,-72.0,Rajasthan
+3947,JIO,4G,upload,7975,-70.0,Rajasthan
+3948,JIO,4G,download,171,-101.0,Delhi
+3949,JIO,4G,download,857,-103.0,Delhi
+3950,JIO,4G,download,1151,-107.0,Delhi
+3951,JIO,4G,download,1567,-103.0,Delhi
+3952,JIO,4G,download,992,-105.0,Delhi
+3953,JIO,4G,download,372,-103.0,Delhi
+3954,JIO,4G,download,0,-105.0,Delhi
+3955,JIO,4G,download,305,-103.0,Delhi
+3956,JIO,4G,upload,329,-103.0,Delhi
+3957,JIO,4G,upload,1187,-107.0,Delhi
+3958,JIO,4G,upload,1228,-105.0,Delhi
+3959,JIO,4G,upload,804,-105.0,Delhi
+3960,JIO,4G,upload,1632,-107.0,Delhi
+3961,JIO,4G,upload,2016,-103.0,Delhi
+3962,JIO,4G,upload,579,-105.0,Delhi
+3963,JIO,4G,upload,501,-103.0,Delhi
+3964,JIO,4G,download,80603,-66.0,Gujarat
+3965,JIO,4G,download,80222,-66.0,Gujarat
+3966,JIO,4G,upload,9172,-66.0,Gujarat
+3967,JIO,4G,upload,8763,-66.0,Gujarat
+3968,AIRTEL,4G,download,6887,-53.0,Karnataka
+3969,AIRTEL,4G,download,331,-55.0,Karnataka
+3970,AIRTEL,4G,download,92,-55.0,Karnataka
+3971,AIRTEL,4G,download,1644,-57.0,Karnataka
+3972,AIRTEL,4G,upload,2096,-57.0,Karnataka
+3973,AIRTEL,4G,upload,2971,-53.0,Karnataka
+3974,AIRTEL,4G,upload,3408,-55.0,Karnataka
+3975,AIRTEL,4G,upload,3452,-59.0,Karnataka
+3976,JIO,4G,download,72647,-61.0,Orissa
+3977,JIO,4G,upload,7607,-61.0,Orissa
+3978,JIO,4G,download,247,-51.0,UP West
+3979,JIO,4G,download,20553,-67.0,UP West
+3980,JIO,4G,download,1515,-81.0,UP West
+3981,JIO,4G,download,738,-73.0,UP West
+3982,JIO,4G,download,918,-71.0,UP West
+3983,JIO,4G,upload,1575,-51.0,UP West
+3984,JIO,4G,upload,1548,-81.0,UP West
+3985,JIO,4G,upload,309,-81.0,UP West
+3986,JIO,4G,upload,1603,-71.0,UP West
+3987,JIO,4G,upload,1766,-73.0,UP West
+3988,JIO,4G,download,4356,-95.0,Haryana
+3989,JIO,4G,upload,5785,-95.0,Haryana
+3990,JIO,4G,download,6684,-57.0,Rajasthan
+3991,JIO,4G,upload,8265,-57.0,Rajasthan
+3992,AIRTEL,4G,download,944,-109.0,Andhra Pradesh
+3993,AIRTEL,4G,upload,606,-109.0,Andhra Pradesh
+3994,JIO,4G,download,9319,-69.0,UP East
+3995,JIO,4G,upload,5419,-69.0,UP East
+3996,VODAFONE,4G,download,139,,Delhi
+3997,VODAFONE,4G,download,22,-73.0,Delhi
+3998,JIO,4G,download,14804,-61.0,Delhi
+3999,VODAFONE,4G,upload,1020,-73.0,Delhi
