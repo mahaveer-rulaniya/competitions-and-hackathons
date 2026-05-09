@@ -1,7 +1,7 @@
 # competitions-and-hackathons
 Learning is a continuous process and competetions are the part of this process which enhances our ability and creativity.
 
-I have been taking part in various competitions and Hackathons on different platforms inclined in the domain of Machine Learning and Data Science.
+I have been taking part in various competitions and Hackathons on different platforms inclined in the domain of Machine Learning and Data Science
 
 #### Analytics Vidhya
 ![alt text](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/Av-Logo-250x71-1.jpg "Analytics Vidhya")
